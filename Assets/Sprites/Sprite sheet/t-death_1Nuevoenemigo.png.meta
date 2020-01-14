@@ -1,0 +1,489 @@
+fileFormatVersion: 2
+guid: 93ac839ab678cc54691c034445ed3fb7
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: t-death_1Nuevoenemigo_0
+    21300002: t-death_1Nuevoenemigo_1
+    21300004: t-death_1Nuevoenemigo_2
+    21300006: t-death_1Nuevoenemigo_3
+    21300008: t-death_1Nuevoenemigo_4
+    21300010: t-death_1Nuevoenemigo_5
+    21300012: t-death_1Nuevoenemigo_6
+    21300014: t-death_1Nuevoenemigo_7
+    21300016: t-death_1Nuevoenemigo_8
+    21300018: t-death_1Nuevoenemigo_9
+    21300020: t-death_1Nuevoenemigo_10
+    21300022: t-death_1Nuevoenemigo_11
+    21300024: t-death_1Nuevoenemigo_12
+    21300026: t-death_1Nuevoenemigo_13
+    21300028: t-death_1Nuevoenemigo_14
+    21300030: t-death_1Nuevoenemigo_15
+    21300032: t-death_1Nuevoenemigo_16
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 28
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: t-death_1Nuevoenemigo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 565
+        width: 173
+        height: 113
+      alignment: 9
+      pivot: {x: 0.5317919, y: 0.07079646}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0c4a99bd6e9c3419dcdc43860a3962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: t-death_1Nuevoenemigo_1
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 565
+        width: 173
+        height: 113
+      alignment: 9
+      pivot: {x: 0.5317919, y: 0.07079646}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c77b3a1e754f94689753bc7903dfb9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: t-death_1Nuevoenemigo_2
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 565
+        width: 173
+        height: 113
+      alignment: 9
+      pivot: {x: 0.46493602, y: 0.09809106}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f882d7766bfcfc9468d094cf1e46026c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: t-death_1Nuevoenemigo_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 452
+        width: 173
+        height: 113
+      alignment: 9
+      pivot: {x: 0.438194, y: 0.09126727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961d511d3ab112b4a9ee5cad7687eb28
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: t-death_1Nuevoenemigo_4
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 452
+        width: 173
+        height: 113
+      alignment: 9
+      pivot: {x: 0.42482305, y: 0.15267971}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9fd814b34b36154880dcf89f294d836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: t-death_1Nuevoenemigo_5
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 452
+        width: 173
+        height: 113
+      alignment: 9
+      pivot: {x: 0.49167824, y: 0.1595035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cebe1924d4900974bb145c2b9d62d3fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: t-death_1Nuevoenemigo_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 339
+        width: 173
+        height: 113
+      alignment: 9
+      pivot: {x: 0.50950664, y: 0.17997403}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d656a19125383743bac5a6707388818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: t-death_1Nuevoenemigo_7
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 339
+        width: 173
+        height: 113
+      alignment: 9
+      pivot: {x: 0.53624904, y: 0.18679783}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c5aa5e87b81364ea7503df4ea1903b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: t-death_1Nuevoenemigo_8
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 339
+        width: 173
+        height: 113
+      alignment: 9
+      pivot: {x: 0.580819, y: 0.18679783}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68af72f10077714582bbfd20d55ef62
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: t-death_1Nuevoenemigo_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 226
+        width: 173
+        height: 113
+      alignment: 9
+      pivot: {x: 0.52287775, y: 0.19362147}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0373f817f68f59e4a8c05defdaa2aa8d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: t-death_1Nuevoenemigo_10
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 226
+        width: 173
+        height: 113
+      alignment: 9
+      pivot: {x: 0.48276463, y: 0.19362147}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535e57a268702594b9e5c0051c12c6b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: t-death_1Nuevoenemigo_11
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 226
+        width: 173
+        height: 113
+      alignment: 9
+      pivot: {x: 0.47384995, y: 0.19362147}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560418ac6cd097342abe2e751b21b2e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: t-death_1Nuevoenemigo_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 113
+        width: 173
+        height: 113
+      alignment: 9
+      pivot: {x: 0.4827644, y: 0.20044526}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf941cc3a4244e94591ef7fbfe3b556f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: t-death_1Nuevoenemigo_13
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 113
+        width: 173
+        height: 113
+      alignment: 9
+      pivot: {x: 0.4872216, y: 0.16632715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13c27381238821459abfeeaa14b49c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: t-death_1Nuevoenemigo_14
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 113
+        width: 173
+        height: 113
+      alignment: 9
+      pivot: {x: 0.47830713, y: 0.17997445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c23865c6bc2b894187046e2f106225e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: t-death_1Nuevoenemigo_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 173
+        height: 113
+      alignment: 9
+      pivot: {x: 0.48722148, y: 0.17315094}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293664400d877ae4db46f6b5cdceeb30
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: t-death_1Nuevoenemigo_16
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 0
+        width: 173
+        height: 113
+      alignment: 9
+      pivot: {x: 0.4738505, y: 0.207269}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30c48f817e362540a0ff3531e67b5de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: fa58050357f5558428f06c709f0c582a
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

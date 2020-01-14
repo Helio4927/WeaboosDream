@@ -1,0 +1,267 @@
+fileFormatVersion: 2
+guid: 10f692caf120b284bb38e7728de45619
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: c2-c3Enemy_0
+    21300002: c2-c3Enemy_2
+    21300004: c2-c3Enemy_3
+    21300006: c2-c3Enemy_4
+    21300008: c2-c3Enemy_5
+    21300010: c2-c3Enemy_6
+    21300012: c2-c3Enemy_11
+    21300014: c2-c3Enemy_14
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 28
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: c2-c3Enemy_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 158
+        width: 116
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5344828, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f72e4e6441f974b9ee7d02003a6110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: c2-c3Enemy_2
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 158
+        width: 61
+        height: 93
+      alignment: 9
+      pivot: {x: 0.70491797, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ee774d1cbffad43a154cd357b2103f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: c2-c3Enemy_3
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 158
+        width: 61
+        height: 93
+      alignment: 9
+      pivot: {x: 0.70491797, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad268f515a42014eb0f226c72167e01
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: c2-c3Enemy_4
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 158
+        width: 61
+        height: 93
+      alignment: 9
+      pivot: {x: 0.70491797, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6766318053fd18a4cb5250a161152397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: c2-c3Enemy_5
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 158
+        width: 73
+        height: 98
+      alignment: 9
+      pivot: {x: 0.739726, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d877c691501712b42bd280cb46785142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: c2-c3Enemy_6
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 158
+        width: 115
+        height: 87
+      alignment: 9
+      pivot: {x: 0.6434782, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80717e8161e6b3a43b5ef1031fd88cc4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: c2-c3Enemy_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 128
+        height: 92
+      alignment: 9
+      pivot: {x: 0.7109375, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f90cc26ad487204cbce8b31be1cc175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: c2-c3Enemy_14
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 60
+        width: 116
+        height: 93
+      alignment: 9
+      pivot: {x: 0.63793105, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d272e9778a7ead3428384f9364a3a088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a06c33225107bb7459bee4ad6c508623
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,867 @@
+fileFormatVersion: 2
+guid: fbc7fd31bc065ae48b504d2d626afe3c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: pink-fatality_0
+    21300002: pink-fatality_1
+    21300004: pink-fatality_2
+    21300006: pink-fatality_3
+    21300008: pink-fatality_4
+    21300010: pink-fatality_5
+    21300012: pink-fatality_6
+    21300014: pink-fatality_7
+    21300016: pink-fatality_8
+    21300018: pink-fatality_9
+    21300020: pink-fatality_10
+    21300022: pink-fatality_11
+    21300024: pink-fatality_12
+    21300026: pink-fatality_13
+    21300028: pink-fatality_14
+    21300030: pink-fatality_15
+    21300032: pink-fatality_16
+    21300034: pink-fatality_17
+    21300036: pink-fatality_18
+    21300038: pink-fatality_19
+    21300040: pink-fatality_20
+    21300042: pink-fatality_21
+    21300044: pink-fatality_22
+    21300046: pink-fatality_23
+    21300048: pink-fatality_24
+    21300050: pink-fatality_25
+    21300052: pink-fatality_26
+    21300054: pink-fatality_27
+    21300056: pink-fatality_28
+    21300058: pink-fatality_29
+    21300060: pink-fatality_30
+    21300062: pink-fatality_31
+    21300064: pink-fatality_32
+    21300066: pink-fatality_33
+    21300068: pink-fatality_34
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 28
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pink-fatality_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 990
+        width: 320
+        height: 200
+      alignment: 9
+      pivot: {x: 0.3375, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a764a98ee922cdf419ff6b89d24a4740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-fatality_1
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1000
+        width: 320
+        height: 200
+      alignment: 9
+      pivot: {x: 0.3375, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c342deec5d871a5448eb80e8451e6d38
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-fatality_2
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1000
+        width: 320
+        height: 200
+      alignment: 9
+      pivot: {x: 0.3375, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c403e62f8f8823e43b9e6325072a5786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-fatality_3
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1000
+        width: 320
+        height: 200
+      alignment: 9
+      pivot: {x: 0.3375, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35eaa89d78eac1d4dac4191dee9c5fca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-fatality_4
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1000
+        width: 320
+        height: 200
+      alignment: 9
+      pivot: {x: 0.3375, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f87475bf8f8ac42a4b52fac68f1188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-fatality_5
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1000
+        width: 320
+        height: 200
+      alignment: 9
+      pivot: {x: 0.3375, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28acba0c24b34ea46b6465e2a323a3f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-fatality_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 320
+        height: 200
+      alignment: 9
+      pivot: {x: 0.3375, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c79a892ffb9654fb51ac6ea5c7bac9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-fatality_7
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 800
+        width: 320
+        height: 200
+      alignment: 9
+      pivot: {x: 0.3375, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f044df61735f88845918a554167e75b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-fatality_8
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 800
+        width: 320
+        height: 200
+      alignment: 9
+      pivot: {x: 0.3375, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b8237522edba94d8467aeac8d6a1b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-fatality_9
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 800
+        width: 320
+        height: 200
+      alignment: 9
+      pivot: {x: 0.3375, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba311d1f40fb78c43a7af8958563a55b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-fatality_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 800
+        width: 320
+        height: 200
+      alignment: 9
+      pivot: {x: 0.3375, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f31aad4ec7dd748b14991d9b1680a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-fatality_11
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 800
+        width: 320
+        height: 200
+      alignment: 9
+      pivot: {x: 0.3375, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0a0ae0732332b40a8e0ab759faa1fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-fatality_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 320
+        height: 200
+      alignment: 9
+      pivot: {x: 0.3375, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68420bde588e664293687d5e9aa6809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-fatality_13
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 600
+        width: 320
+        height: 200
+      alignment: 9
+      pivot: {x: 0.3375, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c70237a0b03e24e88bda921678241f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-fatality_14
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 600
+        width: 320
+        height: 200
+      alignment: 9
+      pivot: {x: 0.3375, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ef76f7435cc064e85ffc6708325ec2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-fatality_15
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 600
+        width: 320
+        height: 200
+      alignment: 9
+      pivot: {x: 0.3375, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3506a283c567c488f6703e37715750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-fatality_16
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 600
+        width: 320
+        height: 200
+      alignment: 9
+      pivot: {x: 0.3375, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4bd1487918e704e9d07487737f0c25
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-fatality_17
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 600
+        width: 320
+        height: 200
+      alignment: 9
+      pivot: {x: 0.3375, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2396d6bf33ec23f448524bc13b01cc31
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-fatality_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 320
+        height: 200
+      alignment: 9
+      pivot: {x: 0.3375, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2bbf4987ad88a40a00283c7dcb52f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-fatality_19
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 400
+        width: 320
+        height: 200
+      alignment: 9
+      pivot: {x: 0.3375, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06ea7e5af9116e42b5a808547e02f2c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-fatality_20
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 400
+        width: 320
+        height: 200
+      alignment: 9
+      pivot: {x: 0.3375, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e0cab95c1b37c43bd3ebf25903cac3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-fatality_21
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 400
+        width: 320
+        height: 200
+      alignment: 9
+      pivot: {x: 0.3375, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77acad83f88a6e04b89f8928b62d667d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-fatality_22
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 400
+        width: 320
+        height: 200
+      alignment: 9
+      pivot: {x: 0.3375, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf7e9ac3c0da774b99187c92f8d464a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-fatality_23
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 400
+        width: 320
+        height: 200
+      alignment: 9
+      pivot: {x: 0.3375, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff1263823ff63d4f81b7f104800a740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-fatality_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 320
+        height: 200
+      alignment: 9
+      pivot: {x: 0.3375, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40c6e078f4b6c944a145d66b28716e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-fatality_25
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 200
+        width: 320
+        height: 200
+      alignment: 9
+      pivot: {x: 0.3375, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f98161bf3548c64cba0c7aeb85c13fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-fatality_26
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 200
+        width: 320
+        height: 200
+      alignment: 9
+      pivot: {x: 0.3375, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c6b59d60b56d348acbb99f318f942b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-fatality_27
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 200
+        width: 320
+        height: 200
+      alignment: 9
+      pivot: {x: 0.3375, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce6ca7be6b1ef64391e3abaf801b300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-fatality_28
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 200
+        width: 320
+        height: 200
+      alignment: 9
+      pivot: {x: 0.3375, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e037edc4d01c84ba71555b135c7a43
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-fatality_29
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 200
+        width: 320
+        height: 200
+      alignment: 9
+      pivot: {x: 0.3375, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221dc7da93d552b4aa9a54bfd7632583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-fatality_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 320
+        height: 200
+      alignment: 9
+      pivot: {x: 0.3375, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069e9eee438ed2a4384f2591a700fc41
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-fatality_31
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 320
+        height: 200
+      alignment: 9
+      pivot: {x: 0.3375, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27058fdbe05365c40b44b90fee44447f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-fatality_32
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 320
+        height: 200
+      alignment: 9
+      pivot: {x: 0.3375, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d296d0018e750f142b014910054f2a64
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-fatality_33
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 320
+        height: 200
+      alignment: 9
+      pivot: {x: 0.3375, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee58c01b81c47d43b81803773d8cf4f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-fatality_34
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 320
+        height: 200
+      alignment: 9
+      pivot: {x: 0.3375, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20df88213b20de44f86d1cfef18d0efe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 6f3863ac9b1a0ad4abb9e581ceb0130d
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1024 @@
+fileFormatVersion: 2
+guid: a1cda7db689f6434dac489d956a8c75b
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: AtlasROSA_0
+    21300002: AtlasROSA_1
+    21300004: AtlasROSA_2
+    21300006: AtlasROSA_3
+    21300008: AtlasROSA_4
+    21300010: AtlasROSA_5
+    21300012: AtlasROSA_6
+    21300014: AtlasROSA_7
+    21300016: AtlasROSA_8
+    21300018: AtlasROSA_9
+    21300020: AtlasROSA_10
+    21300022: AtlasROSA_11
+    21300024: AtlasROSA_12
+    21300026: AtlasROSA_13
+    21300028: AtlasROSA_14
+    21300030: AtlasROSA_15
+    21300032: AtlasROSA_16
+    21300034: AtlasROSA_17
+    21300036: AtlasROSA_18
+    21300038: AtlasROSA_19
+    21300040: AtlasROSA_20
+    21300042: AtlasROSA_21
+    21300044: AtlasROSA_22
+    21300046: AtlasROSA_23
+    21300048: AtlasROSA_24
+    21300050: AtlasROSA_25
+    21300052: AtlasROSA_26
+    21300054: AtlasROSA_27
+    21300056: AtlasROSA_28
+    21300058: AtlasROSA_29
+    21300060: AtlasROSA_30
+    21300062: AtlasROSA_31
+    21300064: AtlasROSA_32
+    21300066: AtlasROSA_33
+    21300068: AtlasROSA_34
+    21300070: AtlasROSA_35
+    21300072: AtlasROSA_36
+    21300074: AtlasROSA_37
+    21300076: AtlasROSA_38
+    21300078: AtlasROSA_39
+    21300080: AtlasROSA_40
+    21300082: AtlasROSA_41
+    21300084: AtlasROSA_42
+    21300086: AtlasROSA_43
+    21300088: AtlasROSA_44
+    21300090: AtlasROSA_45
+    21300092: AtlasROSA_46
+    21300094: AtlasROSA_47
+    21300096: AtlasROSA_48
+    21300098: AtlasROSA_49
+    21300100: AtlasROSA_50
+    21300102: AtlasROSA_51
+    21300104: AtlasROSA_52
+    21300106: AtlasROSA_53
+    21300108: AtlasROSA_54
+    21300110: AtlasROSA_55
+  externalObjects: {}
+  serializedVersion: 6
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 28
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AtlasROSA_0
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1796
+        width: 55
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5030451, y: -0.0036573533}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8cf19ed3d18c040a8ce8c664a65236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtlasROSA_1
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1869
+        width: 7
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b58eaf78ecec884eb38ce06a2ce5f34
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtlasROSA_6
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1794
+        width: 42
+        height: 71
+      alignment: 9
+      pivot: {x: 0.70783633, y: 0.0039664255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2e955748ab90a498c11906d5ef7235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtlasROSA_7
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1795
+        width: 45
+        height: 75
+      alignment: 9
+      pivot: {x: 0.7252679, y: 0.0018782552}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624c01f30453b52409452c5cc25cd4fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtlasROSA_8
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1795
+        width: 45
+        height: 75
+      alignment: 9
+      pivot: {x: 0.715882, y: -0.0056315106}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf015e4287ed644b9fa871cbf897529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtlasROSA_9
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1796
+        width: 71
+        height: 80
+      alignment: 9
+      pivot: {x: 0.29132515, y: -0.0020398125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6a8779668fc4d40ae21f9a3b79855f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtlasROSA_11
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 1796
+        width: 105
+        height: 77
+      alignment: 9
+      pivot: {x: 0.32495221, y: 0.0000020689884}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab233318edb91f47af026c70b88df23
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtlasROSA_13
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 1793
+        width: 114
+        height: 43
+      alignment: 9
+      pivot: {x: 0.42, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a304b42b1e576c45b818ba413ed0e5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtlasROSA_17
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 1792
+        width: 125
+        height: 22
+      alignment: 9
+      pivot: {x: 0.37, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3306914202111f46bc84f638d1a29ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtlasROSA_19
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1645
+        width: 42
+        height: 71
+      alignment: 9
+      pivot: {x: 0.73184824, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a7b253837781d45b7dfda10ec419c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtlasROSA_20
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1645
+        width: 53
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cbc8889777c517449f44304cab0ade5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtlasROSA_22
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1642
+        width: 76
+        height: 47
+      alignment: 9
+      pivot: {x: 0.31086048, y: 0.0098669175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c830129c63c441f46bf3eb6e0920af2c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtlasROSA_24
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 1643
+        width: 72
+        height: 24
+      alignment: 9
+      pivot: {x: 0.57, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500dd33d83c04f148bdd87e73d5a48fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtlasROSA_26
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 1643
+        width: 82
+        height: 22
+      alignment: 9
+      pivot: {x: 0.57, y: 0.0035411487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cadab8b830820ed499ab4092fbe39a67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtlasROSA_27
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 1643
+        width: 82
+        height: 22
+      alignment: 9
+      pivot: {x: 0.57, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6917bab5a900ea34692069c10ff0895d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtlasROSA_28
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1483
+        width: 41
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1393ae10346230b4ab92d6836fc1be33
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtlasROSA_29
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1483
+        width: 41
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7cbda28c34cc83429684bc830c1dda0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtlasROSA_30
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1483
+        width: 44
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b361b0d1481b96e4ab7ac6328fa791fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtlasROSA_31
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1323
+        width: 44
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8b0f624af53dc49b15959d09f11747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtlasROSA_32
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1323
+        width: 44
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607dc2719cd0343478911365556b49e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtlasROSA_33
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1324
+        width: 41
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c7f225e36e2ed4aa59dc4e549c358c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtlasROSA_34
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1324
+        width: 42
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37ac92314ef1ed4380b78f4b6802b1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtlasROSA_35
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 1324
+        width: 44
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d1ac036ae28044a84781f6a2b7b5ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtlasROSA_36
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 1324
+        width: 44
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b33104639e9b548923ff7b35c02a39
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtlasROSA_37
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1163
+        width: 44
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4c9ba7238d97c40b6b6b05a041f2b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtlasROSA_38
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1164
+        width: 80
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d547ac35fc9d542b5c2fd44a1faaa5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtlasROSA_39
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 996
+        width: 42
+        height: 71
+      alignment: 9
+      pivot: {x: 0.7806342, y: -0.0000017193001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d438e2ca116cb48bb23a275c53f62b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtlasROSA_40
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 995
+        width: 50
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a9661d9c3ee484e8a91a4babdd1d0c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtlasROSA_41
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 994
+        width: 44
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84970b9fb6214c84dad40343ae9d0ec5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtlasROSA_42
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 994
+        width: 39
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e610d4a1cfa6d0e4c82e37cde7a75cc3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtlasROSA_43
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 830
+        width: 39
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb06b86a7b27b445b9bcc1d02210900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtlasROSA_44
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 830
+        width: 39
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017d1112f34a12a429bc7495dd185770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtlasROSA_45
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 830
+        width: 42
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ad25fdc702f5c49b94ebe9ef652b2a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtlasROSA_46
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 670
+        width: 42
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ed9252b2b8ec14ab5dee30cb663bfd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtlasROSA_47
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 670
+        width: 42
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732bd728cd092464a859fcd7bb2e674a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtlasROSA_48
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 671
+        width: 41
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9720bf4cc6fdd419f82f53a0dcba6f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtlasROSA_49
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 671
+        width: 42
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef6e50d6c3dd9b4d971a497b9ae3858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtlasROSA_50
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 671
+        width: 44
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ba0338fcf545e4abd218ccda076f6d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtlasROSA_51
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 671
+        width: 44
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c56b05180daf745a194cc243d904b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtlasROSA_52
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 510
+        width: 42
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e205f6b2ecc86554ca2d5d6fec344062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtlasROSA_53
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 511
+        width: 80
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4efe5e35346e000418e84a5e89c675b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtlasROSA_54
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 355
+        width: 55
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0e251f220de1e4c8df0687962a4633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtlasROSA_55
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 355
+        width: 55
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc275d9fe5a796c419571644dde1d6a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 80774b87693ecf643af47465311129ee
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

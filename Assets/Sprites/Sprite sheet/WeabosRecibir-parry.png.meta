@@ -1,0 +1,487 @@
+fileFormatVersion: 2
+guid: b56b8694125627f42841b7a14bb14374
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: WeabosRecibir-parry_0
+    21300002: WeabosRecibir-parry_1
+    21300004: WeabosRecibir-parry_2
+    21300006: WeabosRecibir-parry_3
+    21300008: WeabosRecibir-parry_4
+    21300010: WeabosRecibir-parry_5
+    21300012: WeabosRecibir-parry_6
+    21300014: WeabosRecibir-parry_7
+    21300016: WeabosRecibir-parry_8
+    21300018: WeabosRecibir-parry_9
+    21300020: WeabosRecibir-parry_10
+    21300022: WeabosRecibir-parry_11
+    21300024: WeabosRecibir-parry_12
+    21300026: WeabosRecibir-parry_13
+    21300028: WeabosRecibir-parry_14
+    21300030: WeabosRecibir-parry_15
+    21300032: WeabosRecibir-parry_16
+  externalObjects: {}
+  serializedVersion: 6
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WeabosRecibir-parry_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 120
+        height: 144
+      alignment: 9
+      pivot: {x: 0.3497592, y: 0.121680364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5367fd601e06014b846d2f4ecc152ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeabosRecibir-parry_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 576
+        width: 120
+        height: 144
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.11805556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539ed5f5bb6a6e146b2f60803db759eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeabosRecibir-parry_2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 576
+        width: 120
+        height: 144
+      alignment: 9
+      pivot: {x: 0.3416667, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f9576c25bbdd84c80f22b8baa0ddde
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeabosRecibir-parry_3
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 576
+        width: 120
+        height: 144
+      alignment: 9
+      pivot: {x: 0.3416667, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12836851dc0b1e94099f5855a7563f6e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeabosRecibir-parry_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 120
+        height: 144
+      alignment: 9
+      pivot: {x: 0.3416667, y: 0.11805556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd2a334956bc8948bb0d241ea362953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeabosRecibir-parry_5
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 432
+        width: 120
+        height: 144
+      alignment: 9
+      pivot: {x: 0.2916667, y: 0.13194445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa755452be4e9634e858a29d7725d69f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeabosRecibir-parry_6
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 432
+        width: 120
+        height: 144
+      alignment: 9
+      pivot: {x: 0.32500002, y: 0.11805556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a32a8ae2bc530945affad1c698eb216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeabosRecibir-parry_7
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 432
+        width: 120
+        height: 144
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987fdb17b46c7f54a9be2404f30f7e3e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeabosRecibir-parry_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 120
+        height: 144
+      alignment: 9
+      pivot: {x: 0.3416667, y: 0.11805556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d870ce6efad5a4ab8cca93c26cb43e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeabosRecibir-parry_9
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 288
+        width: 120
+        height: 144
+      alignment: 9
+      pivot: {x: 0.3416667, y: 0.11805556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c50cedf3ef7abe4d9a34dc91489fd59
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeabosRecibir-parry_10
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 288
+        width: 120
+        height: 144
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.11111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4eb0761b6d82949b43fa594260668c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeabosRecibir-parry_11
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 288
+        width: 120
+        height: 144
+      alignment: 9
+      pivot: {x: 0.32500002, y: 0.11805556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0ebad14db523d4f8f4b65504ea99df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeabosRecibir-parry_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 120
+        height: 144
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8c77d21dc9c3f40822cfad582b95c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeabosRecibir-parry_13
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 144
+        width: 120
+        height: 144
+      alignment: 9
+      pivot: {x: 0.32500002, y: 0.11805556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4497e734a8ee644bf71899c4ef16c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeabosRecibir-parry_14
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 144
+        width: 120
+        height: 144
+      alignment: 9
+      pivot: {x: 0.3416667, y: 0.11805556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520e3648c8e74b640a4c4f204de6f69b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeabosRecibir-parry_15
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 144
+        width: 120
+        height: 144
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.11805556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cdea7d1b21136544a786f540c78fe1c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeabosRecibir-parry_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 120
+        height: 144
+      alignment: 9
+      pivot: {x: 0.3416667, y: 0.11805556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb63d13d1dc19f149910150893292ae0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c9d9f48a3b0e5d142bc0846aaa536d90
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

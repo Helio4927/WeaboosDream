@@ -1,0 +1,89 @@
+- - - - - - -- - lista- - - - - -- - - - - - -
+
+- Protagonista 
+
+Golpe 1 
+Golpe 2  
+Golpe 3  
+Golpe 4 
+
+Muerte del protagonista 
+Sonido de corazon bombeando rapido ( cuando esta a punto de morir o cuando estas en un fatalitty)
+
+Ataque recibido sobre el personaje ( cuando un mounstruo te golpea y tu gimes) 
+
+Pasos 1 sobre tierra 
+Pasos 2 Sobre Metalico 
+Paso  3 organico 
+
+
+
+
+- Sonidos de enemigos 
+
+Enemigo siendo golpeado
+enemigo golpea 
+Enemigo Gime 
+Enemigo muerto 
+Sonido extraño para los enemigos (opcional)
+
+-Sonidos de enemigo y weaboo
+ Sonido de desvio de cuchillo
+ Sonido de fatallity
+
+Sonido ambiente
+
+-Viento
+
+-Viento de caida 
+
+-Moscas 
+
+- Sonido Interfaz 
+
+Start 
+Seleccionar
+moverse por el inventario 
+Agarrar objeto 
+
+Acciones 
+
+- Puerta (grande y pequeña)
+
+- Sonido efervescente de la carne 
+
+- Sonido de tuercas dando vueltas ( para el puzzle)
+
+- Sonido de botones para el puzzle de la maquina
+
+-Sonido para caida de objeto,para lo del curry que cae 
+
+-Sonido Flashback - Personas gritando( podriamos usar si quereis el archivo de audio de el agujero ese que se hizo en siberia de mil kilometros, que era el sonido del infierno,solo sugiero) 
+
+
+
+Musica- Ahora os daré en un archivo las canciones que quiero que entren y en que momento exacto ¿ ok? 
+
++ Introducción- Cinematica de cuando enciendes el juego( esto no se hará hasta mas adelante cuando las cinematicas esten hechas - Nombre de canción - "Intro Weaboo"
+
++ Canción del Menu - Weeb9 
+
++ Cuando empiezas el juego y a lo largo de toda la cueva  quiero esta canción,se llama- Weaboos Cueva 
+
++ Cuando entras en la puerta de el rombo azulado- Ambiente Oscuro1_1 (Cuando salen los especies de Flashback esos,podriamos poner como gritos de mujeres o algo asi, como una guerra)
+
++ Cuando peleas con algun enemigo Se podria utilizar la cancion de- Weeb6 
+
++ Cuando hablas con el Buzo utilizaremos esta musica -Momento de guardado 
+
++ Sonido de vuelta, cuando pillas el objeto y vas a la carne- El sonido es el SILENCIO ,solo se podra escuchar tus pasos por el escenario,nada mas,o quizas sonido de moscas,cuando pasas por los cadáveres. 
+
++ Creditos - Podria ser el Intro Weaboo,ya que al final pondremos una cinematica donde le revientan la cabeza a weaboo. 
+
+SE ACABO. 
+
+
+
+
+
+

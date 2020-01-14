@@ -1,0 +1,372 @@
+fileFormatVersion: 2
+guid: fb193f0d973e0424bbc8f8cf41cd4ac2
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: AttackHitTuberia1_0
+    21300002: AttackHitTuberia1_1
+    21300004: AttackHitTuberia1_2
+    21300006: AttackHitTuberia1_3
+    21300008: AttackHitTuberia1_4
+    21300010: AttackHitTuberia1_5
+    21300012: AttackHitTuberia1_6
+    21300014: AttackHitTuberia1_7
+    21300016: AttackHitTuberia1_8
+    21300018: AttackHitTuberia1_9
+    21300020: AttackHitTuberia1_10
+    21300022: AttackHitTuberia1_11
+    21300024: AttackHitTuberia1_12
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 28
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AttackHitTuberia1_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 366
+        width: 51
+        height: 130
+      alignment: 9
+      pivot: {x: 0.66785955, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2163500155b465546a17faa959363775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackHitTuberia1_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 366
+        width: 80
+        height: 136
+      alignment: 9
+      pivot: {x: 0.60701066, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb91a85212bdc3e498a94b3a48570093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackHitTuberia1_2
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 366
+        width: 63
+        height: 118
+      alignment: 9
+      pivot: {x: 0.67111593, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1a3c1f9c0170b4ab3b82a64e0045c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackHitTuberia1_3
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 366
+        width: 69
+        height: 106
+      alignment: 9
+      pivot: {x: 0.30811298, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1a37eb24058864d9facaa314d8aa8d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackHitTuberia1_4
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 366
+        width: 69
+        height: 106
+      alignment: 9
+      pivot: {x: 0.2929639, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd181e32821810b479dcf1e80fcf0d35
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackHitTuberia1_5
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 366
+        width: 56
+        height: 116
+      alignment: 9
+      pivot: {x: 0.36311832, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937b5b39b75cdd849952902f56a89b79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackHitTuberia1_6
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 226
+        width: 61
+        height: 105
+      alignment: 9
+      pivot: {x: 0.33191517, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b947a09e12281499b23159fbf43ecf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackHitTuberia1_7
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 226
+        width: 67
+        height: 106
+      alignment: 9
+      pivot: {x: 0.6190254, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1ea5063ce63f94aafd92e4505695f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackHitTuberia1_8
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 226
+        width: 52
+        height: 118
+      alignment: 9
+      pivot: {x: 0.5766795, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d435bfc5dc327b249b4403629ba2ab61
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackHitTuberia1_9
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 226
+        width: 52
+        height: 118
+      alignment: 9
+      pivot: {x: 0.56572545, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44357c0e49059314f9e2bc9476c9cbc3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackHitTuberia1_10
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 93
+        width: 67
+        height: 125
+      alignment: 9
+      pivot: {x: 0.3681291, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b92a3dd0731adc4eac3e5156b6c8603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackHitTuberia1_11
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 93
+        width: 91
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5759847, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75430693a4858704fbb2e396d17a39c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackHitTuberia1_12
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 93
+        width: 68
+        height: 106
+      alignment: 9
+      pivot: {x: 0.6073348, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55817601dcec05409f62ded54f53028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

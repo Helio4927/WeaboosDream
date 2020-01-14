@@ -1,0 +1,321 @@
+fileFormatVersion: 2
+guid: 4da5deb0221a8e5449fe4e8933decd29
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "Animacion sa\xF1a(stitches)1-sheet_0"
+    21300002: "Animacion sa\xF1a(stitches)1-sheet_1"
+    21300004: "Animacion sa\xF1a(stitches)1-sheet_2"
+    21300006: "Animacion sa\xF1a(stitches)1-sheet_3"
+    21300008: "Animacion sa\xF1a(stitches)1-sheet_4"
+    21300010: "Animacion sa\xF1a(stitches)1-sheet_5"
+    21300012: "Animacion sa\xF1a(stitches)1-sheet_6"
+    21300014: "Animacion sa\xF1a(stitches)1-sheet_7"
+    21300016: "Animacion sa\xF1a(stitches)1-sheet_8"
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Animacion sa\xF1a(stitches)1-sheet_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 309.6
+        width: 98
+        height: 77.4
+      alignment: 9
+      pivot: {x: 0.12493979, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0643036ed4c4fc489062e1ab1a58530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Animacion sa\xF1a(stitches)1-sheet_1"
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 309.6
+        width: 98
+        height: 77.4
+      alignment: 9
+      pivot: {x: 0.12493979, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7fcdd8508978c428413cd645136c6e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Animacion sa\xF1a(stitches)1-sheet_2"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 232.6
+        width: 98
+        height: 77.4
+      alignment: 9
+      pivot: {x: 0.12493979, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec84d3dd4c625504a85911661acb6688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Animacion sa\xF1a(stitches)1-sheet_3"
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 232.6
+        width: 98
+        height: 77.4
+      alignment: 9
+      pivot: {x: 0.12493979, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74485c71bfcb9e44a5edd2634dcd3f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Animacion sa\xF1a(stitches)1-sheet_4"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 155.6
+        width: 98
+        height: 77.4
+      alignment: 9
+      pivot: {x: 0.12493979, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1744f42c205454d952e133a5b7a89b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Animacion sa\xF1a(stitches)1-sheet_5"
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 155.6
+        width: 98
+        height: 77.4
+      alignment: 9
+      pivot: {x: 0.12493979, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca05335fd96c194a986cdb8fe4bc843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Animacion sa\xF1a(stitches)1-sheet_6"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 78.6
+        width: 98
+        height: 77.4
+      alignment: 9
+      pivot: {x: 0.12493979, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459c0903250455c42afb3439026da05b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Animacion sa\xF1a(stitches)1-sheet_7"
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 79
+        width: 98
+        height: 77
+      alignment: 9
+      pivot: {x: 0.12493979, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be79424ea055a34429b21191f731b9b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Animacion sa\xF1a(stitches)1-sheet_8"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.5999985
+        width: 98
+        height: 77.4
+      alignment: 9
+      pivot: {x: 0.12493979, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc453bc576b6b8042a2543011a3fb11c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ce76c2745bcbea845ba0c13022b31d25
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

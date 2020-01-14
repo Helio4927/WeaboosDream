@@ -1,0 +1,489 @@
+fileFormatVersion: 2
+guid: 860170086ffa1c44d837ae3ee62bf928
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: weaboo-parry-nuevoenemigo_side__0
+    21300002: weaboo-parry-nuevoenemigo_side__1
+    21300004: weaboo-parry-nuevoenemigo_side__2
+    21300006: weaboo-parry-nuevoenemigo_side__3
+    21300008: weaboo-parry-nuevoenemigo_side__4
+    21300010: weaboo-parry-nuevoenemigo_side__5
+    21300012: weaboo-parry-nuevoenemigo_side__6
+    21300014: weaboo-parry-nuevoenemigo_side__7
+    21300016: weaboo-parry-nuevoenemigo_side__8
+    21300018: weaboo-parry-nuevoenemigo_side__9
+    21300020: weaboo-parry-nuevoenemigo_side__10
+    21300022: weaboo-parry-nuevoenemigo_side__11
+    21300024: weaboo-parry-nuevoenemigo_side__12
+    21300026: weaboo-parry-nuevoenemigo_side__13
+    21300028: weaboo-parry-nuevoenemigo_side__14
+    21300030: weaboo-parry-nuevoenemigo_side__15
+    21300032: weaboo-parry-nuevoenemigo_side__16
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 28
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: weaboo-parry-nuevoenemigo_side__0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 472
+        width: 118
+        height: 118
+      alignment: 9
+      pivot: {x: 0.7711865, y: 0.06779661}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701646c71ba63854fbcf6579d7f58563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weaboo-parry-nuevoenemigo_side__1
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 472
+        width: 118
+        height: 118
+      alignment: 9
+      pivot: {x: 0.7711865, y: 0.06779661}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e155900530cdf8045bc548d28bec66b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weaboo-parry-nuevoenemigo_side__2
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 472
+        width: 118
+        height: 118
+      alignment: 9
+      pivot: {x: 0.7711865, y: 0.06779661}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8df123999db1d245b6dbb01b39bdd88
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weaboo-parry-nuevoenemigo_side__3
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 472
+        width: 118
+        height: 118
+      alignment: 9
+      pivot: {x: 0.7711865, y: 0.06779661}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb38b8eb5e536547964446597eaa685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weaboo-parry-nuevoenemigo_side__4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 354
+        width: 118
+        height: 118
+      alignment: 9
+      pivot: {x: 0.7711865, y: 0.06779661}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a436cf33fa1d4a94e90d6485dffa3396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weaboo-parry-nuevoenemigo_side__5
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 354
+        width: 118
+        height: 118
+      alignment: 9
+      pivot: {x: 0.7711865, y: 0.06779661}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37b726e3c7dcf242a386073470cf2db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weaboo-parry-nuevoenemigo_side__6
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 354
+        width: 118
+        height: 118
+      alignment: 9
+      pivot: {x: 0.7711865, y: 0.06779661}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f1a153e073b04448019f25a73ec9d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weaboo-parry-nuevoenemigo_side__7
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 354
+        width: 118
+        height: 118
+      alignment: 9
+      pivot: {x: 0.7711865, y: 0.06779661}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8078254653e76784f8210f75f4bf66b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weaboo-parry-nuevoenemigo_side__8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 236
+        width: 118
+        height: 118
+      alignment: 9
+      pivot: {x: 0.7711865, y: 0.06779661}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71393bcd6b5fff4598ee450c367184f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weaboo-parry-nuevoenemigo_side__9
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 236
+        width: 118
+        height: 118
+      alignment: 9
+      pivot: {x: 0.7711865, y: 0.06779661}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac5c6c038e89f544b30d0ab999726e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weaboo-parry-nuevoenemigo_side__10
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 236
+        width: 118
+        height: 118
+      alignment: 9
+      pivot: {x: 0.7711865, y: 0.06779661}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbdd6cb7a1de891489740b6d5880e0c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weaboo-parry-nuevoenemigo_side__11
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 236
+        width: 118
+        height: 118
+      alignment: 9
+      pivot: {x: 0.7711865, y: 0.06779661}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b643ed43138cf742bd65f64eee68ab1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weaboo-parry-nuevoenemigo_side__12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 118
+        width: 118
+        height: 118
+      alignment: 9
+      pivot: {x: 0.7711865, y: 0.06779661}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 767a3c2d417cad84996fc39e88e5a156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weaboo-parry-nuevoenemigo_side__13
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 118
+        width: 118
+        height: 118
+      alignment: 9
+      pivot: {x: 0.7711865, y: 0.06779661}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4e739feebb7894cb56f1fe9f501982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weaboo-parry-nuevoenemigo_side__14
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 118
+        width: 118
+        height: 118
+      alignment: 9
+      pivot: {x: 0.7711865, y: 0.06779661}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35809e0a79143b147ba7cea1e1930903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weaboo-parry-nuevoenemigo_side__15
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 118
+        width: 118
+        height: 118
+      alignment: 9
+      pivot: {x: 0.7711865, y: 0.06779661}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b491b00edc64d943b65251e9aea7ad1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weaboo-parry-nuevoenemigo_side__16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 118
+        height: 118
+      alignment: 9
+      pivot: {x: 0.7711865, y: 0.06779661}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75d41449628fc147874ed4227eb2a78
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c7379dde3c5a27e4787209477a27a3da
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

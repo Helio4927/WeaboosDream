@@ -1,0 +1,426 @@
+fileFormatVersion: 2
+guid: 0fb41a5db8b25034493c2ef2fe6d8f17
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: c-death-Nuevoemigo_0
+    21300002: c-death-Nuevoemigo_1
+    21300004: c-death-Nuevoemigo_2
+    21300006: c-death-Nuevoemigo_3
+    21300008: c-death-Nuevoemigo_4
+    21300010: c-death-Nuevoemigo_5
+    21300012: c-death-Nuevoemigo_6
+    21300014: c-death-Nuevoemigo_7
+    21300016: c-death-Nuevoemigo_8
+    21300018: c-death-Nuevoemigo_9
+    21300020: c-death-Nuevoemigo_10
+    21300022: c-death-Nuevoemigo_11
+    21300024: c-death-Nuevoemigo_12
+    21300026: c-death-Nuevoemigo_13
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 28
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: c-death-Nuevoemigo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 519
+        width: 135
+        height: 173
+      alignment: 9
+      pivot: {x: 0.68888885, y: 0.046242774}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4291b93777ca2e4fb4f0679830340ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: c-death-Nuevoemigo_1
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 519
+        width: 135
+        height: 173
+      alignment: 9
+      pivot: {x: 0.68888885, y: 0.046242774}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b907267590465914f947c8b4fa970341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: c-death-Nuevoemigo_2
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 519
+        width: 135
+        height: 173
+      alignment: 9
+      pivot: {x: 0.68888885, y: 0.046242774}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce42348db00ab54eaecc3ccee4145f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: c-death-Nuevoemigo_3
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 519
+        width: 135
+        height: 173
+      alignment: 9
+      pivot: {x: 0.68888885, y: 0.046242774}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76f3f5cbf4ffd847aef3e0453bf6015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: c-death-Nuevoemigo_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 346
+        width: 135
+        height: 173
+      alignment: 9
+      pivot: {x: 0.68888885, y: 0.046242774}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4a966aedab1284e9ab313865ccf855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: c-death-Nuevoemigo_5
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 346
+        width: 135
+        height: 173
+      alignment: 9
+      pivot: {x: 0.68888885, y: 0.09248555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9110fbe0fb4e342a0844b078e7d22b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: c-death-Nuevoemigo_6
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 346
+        width: 135
+        height: 173
+      alignment: 9
+      pivot: {x: 0.68888885, y: 0.09248555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497eb6498c3289d4587152bf7e2992d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: c-death-Nuevoemigo_7
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 346
+        width: 135
+        height: 173
+      alignment: 9
+      pivot: {x: 0.68888885, y: 0.09248555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ef10b5031d14943be8e0465b96db9b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: c-death-Nuevoemigo_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 173
+        width: 135
+        height: 173
+      alignment: 9
+      pivot: {x: 0.68888885, y: 0.09248555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2750c0c11f1360e4ebf910c58a04c110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: c-death-Nuevoemigo_9
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 173
+        width: 135
+        height: 173
+      alignment: 9
+      pivot: {x: 0.68888885, y: 0.09248555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8168fc40fd7c9954eb70a7f20c348482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: c-death-Nuevoemigo_10
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 173
+        width: 135
+        height: 173
+      alignment: 9
+      pivot: {x: 0.68888885, y: 0.09248555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86db9b98550d514f95e4ee33ba1dff5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: c-death-Nuevoemigo_11
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 173
+        width: 135
+        height: 173
+      alignment: 9
+      pivot: {x: 0.68888885, y: 0.09248555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d269c462bdf58674fb64fac5a17da8ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: c-death-Nuevoemigo_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 135
+        height: 173
+      alignment: 9
+      pivot: {x: 0.68888885, y: 0.09248555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5232f843a3831541bb006269b9f4631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: c-death-Nuevoemigo_13
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 0
+        width: 135
+        height: 173
+      alignment: 9
+      pivot: {x: 0.68888885, y: 0.09248555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b470c64cfd3068444a7c6abbfdcfae18
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7b296545157786445812423c9b6665e2
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

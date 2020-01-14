@@ -1,0 +1,489 @@
+fileFormatVersion: 2
+guid: eb98e7c7312f0164ebf49f615ca6cb40
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: t-death_0
+    21300002: t-death_1
+    21300004: t-death_2
+    21300006: t-death_3
+    21300008: t-death_4
+    21300010: t-death_5
+    21300012: t-death_6
+    21300014: t-death_7
+    21300016: t-death_8
+    21300018: t-death_9
+    21300020: t-death_10
+    21300022: t-death_11
+    21300024: t-death_12
+    21300026: t-death_13
+    21300028: t-death_14
+    21300030: t-death_15
+    21300032: t-death_16
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 28
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: t-death_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 565
+        width: 173
+        height: 113
+      alignment: 9
+      pivot: {x: 0.5317919, y: 0.07079646}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58b1e6d465895244b9c27916e630b10
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: t-death_1
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 565
+        width: 173
+        height: 113
+      alignment: 9
+      pivot: {x: 0.5317919, y: 0.07079646}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c686818a90266b429b81b669d3287df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: t-death_2
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 565
+        width: 173
+        height: 113
+      alignment: 9
+      pivot: {x: 0.5317919, y: 0.07079646}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ab769e41db7c840939763a79d11f2c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: t-death_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 452
+        width: 173
+        height: 113
+      alignment: 9
+      pivot: {x: 0.49132946, y: 0.07964602}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c2699907315ad47bbae3675d52aeff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: t-death_4
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 452
+        width: 173
+        height: 113
+      alignment: 9
+      pivot: {x: 0.46242774, y: 0.11504425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bdfd11f58ec22647b6abf58e0688fdf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: t-death_5
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 452
+        width: 173
+        height: 113
+      alignment: 9
+      pivot: {x: 0.45086706, y: 0.15044248}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6bb4bb38562cb34d9b0efc716bbd2d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: t-death_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 339
+        width: 173
+        height: 113
+      alignment: 9
+      pivot: {x: 0.4566474, y: 0.18584071}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c52fd2a6e07e04d9307f55ce1b1961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: t-death_7
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 339
+        width: 173
+        height: 113
+      alignment: 9
+      pivot: {x: 0.51445085, y: 0.17699115}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11cd4512bf2656449806583a131ccbb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: t-death_8
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 339
+        width: 173
+        height: 113
+      alignment: 9
+      pivot: {x: 0.5260115, y: 0.17699115}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f591698c5b61e8b47bb25870996f1e3b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: t-death_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 226
+        width: 173
+        height: 113
+      alignment: 9
+      pivot: {x: 0.5317919, y: 0.16814159}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb6799e5d6103d4abb2ab9e4f80bf05
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: t-death_10
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 226
+        width: 173
+        height: 113
+      alignment: 9
+      pivot: {x: 0.5317919, y: 0.16814159}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0038ee49dc3e54d92cbc34353b77b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: t-death_11
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 226
+        width: 173
+        height: 113
+      alignment: 9
+      pivot: {x: 0.5260115, y: 0.16814159}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66ee237e9dc19045b25a3c1a65b68af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: t-death_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 113
+        width: 173
+        height: 113
+      alignment: 9
+      pivot: {x: 0.5317919, y: 0.16814159}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839358ec978b9d24f9a66489f40d6da0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: t-death_13
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 113
+        width: 173
+        height: 113
+      alignment: 9
+      pivot: {x: 0.5317919, y: 0.16814159}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b9ac4d1e0afb046b7380dfe76a58d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: t-death_14
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 113
+        width: 173
+        height: 113
+      alignment: 9
+      pivot: {x: 0.5317919, y: 0.16814159}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0e7746a448dac43bf7a974ab1160c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: t-death_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 173
+        height: 113
+      alignment: 9
+      pivot: {x: 0.5317919, y: 0.16814159}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343779b2760e30848a26250a29a4e307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: t-death_16
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 0
+        width: 173
+        height: 113
+      alignment: 9
+      pivot: {x: 0.5317919, y: 0.16814159}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c6633b2d01cfb4ea90de4cce685c10
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 1a4b2e47f8527a04b843eeba198269d8
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

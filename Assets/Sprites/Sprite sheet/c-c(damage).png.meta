@@ -1,0 +1,440 @@
+fileFormatVersion: 2
+guid: ed42e3d786c32d24d9024dd23f776232
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: c-c(damage)_0
+    21300002: c-c(damage)_1
+    21300004: c-c(damage)_2
+    21300006: c-c(damage)_3
+    21300008: c-c(damage)_4
+    21300010: c-c(damage)_5
+    21300012: c-c(damage)_6
+    21300014: c-c(damage)_7
+    21300016: c-c(damage)_8
+    21300018: c-c(damage)_9
+    21300020: c-c(damage)_10
+    21300022: c-c(damage)_11
+    21300024: c-c(damage)_12
+    21300026: c-c(damage)_13
+    21300028: c-c(damage)_14
+    21300030: c-c(damage)_15
+    21300032: c-c(damage)_16
+    21300034: c-c(damage)_17
+    21300036: c-c(damage)_18
+    21300038: c-c(damage)_19
+    21300040: c-c(damage)_20
+    21300042: c-c(damage)_21
+    21300044: c-c(damage)_22
+    21300046: c-c(damage)_23
+    21300048: c-c(damage)_24
+    21300050: c-c(damage)_25
+    21300052: c-c(damage)_26
+    21300054: c-c(damage)_27
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 28
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: c-c(damage)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 441
+        width: 88
+        height: 147
+      alignment: 9
+      pivot: {x: 0.7613637, y: 0.054421768}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7fd39215bd31124fb16043490a87d3f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: c-c(damage)_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 441
+        width: 88
+        height: 147
+      alignment: 9
+      pivot: {x: 0.7613637, y: 0.054421768}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a304014e379239742b8f67f3bf313d44
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: c-c(damage)_2
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 441
+        width: 88
+        height: 147
+      alignment: 9
+      pivot: {x: 0.7613637, y: 0.054421768}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666ffe4f1c629d64f918d42f735a300e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: c-c(damage)_3
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 441
+        width: 88
+        height: 147
+      alignment: 9
+      pivot: {x: 0.7613637, y: 0.054421768}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1781700037f1c374b81aa508c57fd876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: c-c(damage)_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 294
+        width: 88
+        height: 147
+      alignment: 9
+      pivot: {x: 0.7613637, y: 0.054421768}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b9fdb914d61f349892b80ed76b2e13
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: c-c(damage)_5
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 294
+        width: 88
+        height: 147
+      alignment: 9
+      pivot: {x: 0.7613637, y: 0.054421768}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f2270d7e215a4438619e2d4c48b327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: c-c(damage)_6
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 294
+        width: 88
+        height: 147
+      alignment: 9
+      pivot: {x: 0.7613637, y: 0.054421768}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16a9f5169b39ad4384d67ca9b549b30
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: c-c(damage)_7
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 294
+        width: 88
+        height: 147
+      alignment: 9
+      pivot: {x: 0.7613637, y: 0.054421768}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce269efb4c1915d40a6c8441a1e6fd33
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: c-c(damage)_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 147
+        width: 88
+        height: 147
+      alignment: 9
+      pivot: {x: 0.7613637, y: 0.054421768}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0383268cd4efcf2499747b04008798b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: c-c(damage)_9
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 147
+        width: 88
+        height: 147
+      alignment: 9
+      pivot: {x: 0.7613637, y: 0.054421768}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a47d25162c874448ec663adf38f587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: c-c(damage)_10
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 147
+        width: 88
+        height: 147
+      alignment: 9
+      pivot: {x: 0.7613637, y: 0.054421768}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11afd13910cb04948b2f0afe45a23085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: c-c(damage)_11
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 147
+        width: 88
+        height: 147
+      alignment: 9
+      pivot: {x: 0.7613637, y: 0.054421768}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4058d7a94c984140a3694738eacf785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: c-c(damage)_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 88
+        height: 147
+      alignment: 9
+      pivot: {x: 0.7613637, y: 0.054421768}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994dc37fb805201499907a34e49a9fc1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: c-c(damage)_13
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 88
+        height: 147
+      alignment: 9
+      pivot: {x: 0.7613637, y: 0.054421768}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5109580dea81fba4d97f7c982405fe45
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7b44e240f5c6f2742ba972aca938c6cb
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

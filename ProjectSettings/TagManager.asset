@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Cabeza
+  - Torso
+  - Pies
+  - Trans
+  - ItemSlot
+  - Part
+  - WorldItem
+  - PosCamaraEscenario
+  - PosEntradaPlayer
+  - AreaExam
+  - Piece
+  - Verdes
+  - Rojas
+  - InicioPieza
+  - PiezaNull
+  - FondoClamp
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - Enemy
+  - fondo
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

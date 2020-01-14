@@ -1,0 +1,447 @@
+fileFormatVersion: 2
+guid: d1528f509b2c5d241bf97d7fca1a5ac5
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: p-p_damage_Nuevoenemigo_0
+    21300002: p-p_damage_Nuevoenemigo_1
+    21300004: p-p_damage_Nuevoenemigo_2
+    21300006: p-p_damage_Nuevoenemigo_3
+    21300008: p-p_damage_Nuevoenemigo_4
+    21300010: p-p_damage_Nuevoenemigo_5
+    21300012: p-p_damage_Nuevoenemigo_6
+    21300014: p-p_damage_Nuevoenemigo_7
+    21300016: p-p_damage_Nuevoenemigo_8
+    21300018: p-p_damage_Nuevoenemigo_9
+    21300020: p-p_damage_Nuevoenemigo_10
+    21300022: p-p_damage_Nuevoenemigo_11
+    21300024: p-p_damage_Nuevoenemigo_12
+    21300026: p-p_damage_Nuevoenemigo_13
+    21300028: p-p_damage_Nuevoenemigo_14
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 28
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: p-p_damage_Nuevoenemigo_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 354
+        width: 118
+        height: 118
+      alignment: 9
+      pivot: {x: 0.60714287, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4bd3ef9b38201d4a87bdd06ac2fc259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: p-p_damage_Nuevoenemigo_1
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 354
+        width: 118
+        height: 118
+      alignment: 9
+      pivot: {x: 0.60714287, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89891786becd3864b9146c7925027d7a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: p-p_damage_Nuevoenemigo_2
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 354
+        width: 118
+        height: 118
+      alignment: 9
+      pivot: {x: 0.60714287, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc36456588089c744b0e4d1f11580a4c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: p-p_damage_Nuevoenemigo_3
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 354
+        width: 118
+        height: 118
+      alignment: 9
+      pivot: {x: 0.60714287, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed90de7dfd97ff4ebda73a06b5235db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: p-p_damage_Nuevoenemigo_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 236
+        width: 118
+        height: 118
+      alignment: 9
+      pivot: {x: 0.60714287, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169a6c874e7a2764d97241e27431831f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: p-p_damage_Nuevoenemigo_5
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 236
+        width: 118
+        height: 118
+      alignment: 9
+      pivot: {x: 0.60714287, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4699ed171981e849a1b80b846074307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: p-p_damage_Nuevoenemigo_6
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 236
+        width: 118
+        height: 118
+      alignment: 9
+      pivot: {x: 0.60714287, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3855ca873e0f6ed4ab5562e6cc572cd4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: p-p_damage_Nuevoenemigo_7
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 236
+        width: 118
+        height: 118
+      alignment: 9
+      pivot: {x: 0.60714287, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72298da50890a734baa15f6e36fe1bb7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: p-p_damage_Nuevoenemigo_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 118
+        width: 118
+        height: 118
+      alignment: 9
+      pivot: {x: 0.60714287, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fce08edd685afd4aa026413a8deb3b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: p-p_damage_Nuevoenemigo_9
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 118
+        width: 118
+        height: 118
+      alignment: 9
+      pivot: {x: 0.60714287, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee2b401d02c8a14a978bedc189bf5f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: p-p_damage_Nuevoenemigo_10
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 118
+        width: 118
+        height: 118
+      alignment: 9
+      pivot: {x: 0.60714287, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0e1a8211caf7349aa2fec2bbdd57ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: p-p_damage_Nuevoenemigo_11
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 118
+        width: 118
+        height: 118
+      alignment: 9
+      pivot: {x: 0.60714287, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda7ca1eb0a73de43b3cf2bbe6ed2466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: p-p_damage_Nuevoenemigo_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 118
+        height: 118
+      alignment: 9
+      pivot: {x: 0.60714287, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b09bff1c72e25d43a5b6e4af783b10f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: p-p_damage_Nuevoenemigo_13
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 0
+        width: 118
+        height: 118
+      alignment: 9
+      pivot: {x: 0.60714287, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee367ba030b8df43bc639fa9d4fb8c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: p-p_damage_Nuevoenemigo_14
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 0
+        width: 118
+        height: 118
+      alignment: 9
+      pivot: {x: 0.60714287, y: 0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b957d4e7da38a8749a438d90775f532b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e5c4840cc1e8d6469758d326adc5b8d
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

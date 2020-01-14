@@ -1,0 +1,378 @@
+fileFormatVersion: 2
+guid: 28ae4f50b908caa43abc994cb77208cb
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: CaballoMuerte_0
+    21300002: CaballoMuerte_1
+    21300004: CaballoMuerte_2
+    21300006: CaballoMuerte_3
+    21300008: CaballoMuerte_4
+    21300010: CaballoMuerte_5
+    21300012: CaballoMuerte_6
+    21300014: CaballoMuerte_7
+    21300016: CaballoMuerte_8
+    21300018: CaballoMuerte_9
+    21300020: CaballoMuerte_10
+    21300022: CaballoMuerte_11
+    21300024: CaballoMuerte_12
+    21300026: CaballoMuerte_10
+    21300028: CaballoMuerte_11
+    21300030: CaballoMuerte_12
+    21300032: CaballoMuerte_16
+    21300034: CaballoMuerte_17
+    21300036: CaballoMuerte_18
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 21
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CaballoMuerte_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 167
+        width: 44
+        height: 75
+      alignment: 9
+      pivot: {x: 0.6607865, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f3434642ed55e458b437e5a6c402a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaballoMuerte_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 167
+        width: 60
+        height: 75
+      alignment: 9
+      pivot: {x: 0.49396172, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79e7a970d675f14a92bd80fc25f79a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaballoMuerte_2
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 167
+        width: 66
+        height: 78
+      alignment: 9
+      pivot: {x: 0.43923303, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4b7a84fb7b87b45b9264cd251bdaf0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaballoMuerte_3
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 167
+        width: 77
+        height: 86
+      alignment: 9
+      pivot: {x: 0.35064936, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65921bbcb8f42c2468ca5ae41364a3e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaballoMuerte_4
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 167
+        width: 51
+        height: 89
+      alignment: 9
+      pivot: {x: 0.3256782, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002e61e054d58aa40acd713ddb838745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaballoMuerte_5
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 165
+        width: 71
+        height: 82
+      alignment: 9
+      pivot: {x: 0.2112676, y: 0.024390243}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5bb78c4161adc49aea8e8948d2faf2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaballoMuerte_6
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 165
+        width: 107
+        height: 70
+      alignment: 9
+      pivot: {x: 0.31480765, y: 0.028809465}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e41d8074d06d314c8ac0c026430d805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaballoMuerte_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 108
+        width: 147
+        height: 57
+      alignment: 9
+      pivot: {x: 0.26072946, y: 0.15600318}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac53b8a821649341ab0ab619f80a4b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaballoMuerte_8
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 107
+        width: 134
+        height: 34
+      alignment: 9
+      pivot: {x: 0.0938444, y: 0.2709014}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00af8a0a3db1fd24383c229231e56979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaballoMuerte_9
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 106
+        width: 134
+        height: 32
+      alignment: 9
+      pivot: {x: 0.09590172, y: 0.28265524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d61b9bb8557fd744bbf88570765d0a7f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaballoMuerte_10
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 67
+        width: 134
+        height: 32
+      alignment: 9
+      pivot: {x: 0.09900375, y: 0.28176832}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc041bd73cc0f5f4293039b0dc0bfb17
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaballoMuerte_11
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 66
+        width: 134
+        height: 33
+      alignment: 9
+      pivot: {x: 0.10226577, y: 0.29952842}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c635fceac1975804c89d6f7a393408a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaballoMuerte_12
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 68
+        width: 134
+        height: 34
+      alignment: 9
+      pivot: {x: 0.099388465, y: 0.3220639}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e53799486ed7704fbfa6b6aed212107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9a00da927e62b44468d4063520261f90
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 6861094388b313d42a2e8b87edb8204f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - padreObjetos: {instanceID: 0}
+  - currentItem: {instanceID: 0}
+  - botonUsar: {instanceID: 0}
+  - botonEquipar: {instanceID: 0}
+  - panelExaminar: {instanceID: 0}
+  - imagenDeExaminar: {instanceID: 0}
+  - textoExaminar: {instanceID: 0}
+  - imagenDeEquipar: {instanceID: 0}
+  - textoEquipar: {instanceID: 0}
+  - panelEquipar: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

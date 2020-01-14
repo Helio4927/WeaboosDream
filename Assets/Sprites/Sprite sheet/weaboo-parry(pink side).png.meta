@@ -1,0 +1,489 @@
+fileFormatVersion: 2
+guid: bab7e260310208a4091be9c4da3246a2
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: weaboo-parry(pink side)_0
+    21300002: weaboo-parry(pink side)_1
+    21300004: weaboo-parry(pink side)_2
+    21300006: weaboo-parry(pink side)_3
+    21300008: weaboo-parry(pink side)_4
+    21300010: weaboo-parry(pink side)_5
+    21300012: weaboo-parry(pink side)_6
+    21300014: weaboo-parry(pink side)_7
+    21300016: weaboo-parry(pink side)_8
+    21300018: weaboo-parry(pink side)_9
+    21300020: weaboo-parry(pink side)_10
+    21300022: weaboo-parry(pink side)_11
+    21300024: weaboo-parry(pink side)_12
+    21300026: weaboo-parry(pink side)_13
+    21300028: weaboo-parry(pink side)_14
+    21300030: weaboo-parry(pink side)_15
+    21300032: weaboo-parry(pink side)_16
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 28
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: weaboo-parry(pink side)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 472
+        width: 118
+        height: 118
+      alignment: 9
+      pivot: {x: 0.7711865, y: 0.06779661}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cde82c59c050eb488691e9622a1853b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weaboo-parry(pink side)_1
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 472
+        width: 118
+        height: 118
+      alignment: 9
+      pivot: {x: 0.7711865, y: 0.06779661}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b66c110f031df4c85de74a4a0b27ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weaboo-parry(pink side)_2
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 472
+        width: 118
+        height: 118
+      alignment: 9
+      pivot: {x: 0.7711865, y: 0.06779661}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2878ea9c1a9dd1b49bfad03d0b7cedf2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weaboo-parry(pink side)_3
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 472
+        width: 118
+        height: 118
+      alignment: 9
+      pivot: {x: 0.7711865, y: 0.06779661}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6929ed8511d5ae942af8a6c295b753ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weaboo-parry(pink side)_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 354
+        width: 118
+        height: 118
+      alignment: 9
+      pivot: {x: 0.7711865, y: 0.06779661}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc3f1a7516bba247b6567ce0d9654ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weaboo-parry(pink side)_5
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 354
+        width: 118
+        height: 118
+      alignment: 9
+      pivot: {x: 0.7711865, y: 0.06779661}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa77329071f94dd4abb3d7aa17ad89f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weaboo-parry(pink side)_6
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 354
+        width: 118
+        height: 118
+      alignment: 9
+      pivot: {x: 0.7711865, y: 0.06779661}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d994f925e268bf146969b10370073682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weaboo-parry(pink side)_7
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 354
+        width: 118
+        height: 118
+      alignment: 9
+      pivot: {x: 0.7711865, y: 0.06779661}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f8032b500313b45be3586f89f20fba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weaboo-parry(pink side)_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 236
+        width: 118
+        height: 118
+      alignment: 9
+      pivot: {x: 0.7711865, y: 0.06779661}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad68ee0774ca89540943897661814c8b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weaboo-parry(pink side)_9
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 236
+        width: 118
+        height: 118
+      alignment: 9
+      pivot: {x: 0.7711865, y: 0.06779661}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba7c24cd189eae4b96893626ded0f94
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weaboo-parry(pink side)_10
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 236
+        width: 118
+        height: 118
+      alignment: 9
+      pivot: {x: 0.7711865, y: 0.06779661}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95f3f66353f68e4d8b040367547ac30
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weaboo-parry(pink side)_11
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 236
+        width: 118
+        height: 118
+      alignment: 9
+      pivot: {x: 0.7711865, y: 0.06779661}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a38e429ac2c444e8e656b948ddaed0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weaboo-parry(pink side)_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 118
+        width: 118
+        height: 118
+      alignment: 9
+      pivot: {x: 0.7711865, y: 0.06779661}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 422dad9ffaeb430438cd40de3e105037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weaboo-parry(pink side)_13
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 118
+        width: 118
+        height: 118
+      alignment: 9
+      pivot: {x: 0.7711865, y: 0.06779661}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaaf4c55d6b8cc24391cd0ff8dd2bdcc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weaboo-parry(pink side)_14
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 118
+        width: 118
+        height: 118
+      alignment: 9
+      pivot: {x: 0.7711865, y: 0.06779661}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b931787bb6b8d4fba052af09ed3219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weaboo-parry(pink side)_15
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 118
+        width: 118
+        height: 118
+      alignment: 9
+      pivot: {x: 0.7711865, y: 0.06779661}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d29325c81e4db44fbce68d77c259dd1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weaboo-parry(pink side)_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 118
+        height: 118
+      alignment: 9
+      pivot: {x: 0.7711865, y: 0.06779661}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba09bf7d5d80c1e47abedbca57d0792a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 1094eaf44f1f91d43b46dd74770482d7
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

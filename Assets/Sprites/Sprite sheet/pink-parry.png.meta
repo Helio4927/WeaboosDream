@@ -1,0 +1,489 @@
+fileFormatVersion: 2
+guid: 93c087fcf1b55674a9b43dddb582639c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: pink-parry_0
+    21300002: pink-parry_1
+    21300004: pink-parry_2
+    21300006: pink-parry_3
+    21300008: pink-parry_4
+    21300010: pink-parry_5
+    21300012: pink-parry_6
+    21300014: pink-parry_7
+    21300016: pink-parry_8
+    21300018: pink-parry_9
+    21300020: pink-parry_10
+    21300022: pink-parry_11
+    21300024: pink-parry_12
+    21300026: pink-parry_13
+    21300028: pink-parry_14
+    21300030: pink-parry_15
+    21300032: pink-parry_16
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 28
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pink-parry_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 73
+        height: 105
+      alignment: 9
+      pivot: {x: 0.63013697, y: 0.07619048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8ea1f92f137fa4f928c06d09852f36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-parry_1
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 420
+        width: 73
+        height: 105
+      alignment: 9
+      pivot: {x: 0.63013697, y: 0.07619048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9ba8ec38c302c4b92c368b41a43aa5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-parry_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 420
+        width: 73
+        height: 105
+      alignment: 9
+      pivot: {x: 0.63013697, y: 0.07619048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74eb98806a476c449b6a3732d57d837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-parry_3
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 420
+        width: 73
+        height: 105
+      alignment: 9
+      pivot: {x: 0.63013697, y: 0.07619048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb93a79ded4b5d448926f4a1b0d90b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-parry_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 315
+        width: 73
+        height: 105
+      alignment: 9
+      pivot: {x: 0.63013697, y: 0.07619048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500a7dc522242d54984d34130c8efce8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-parry_5
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 315
+        width: 73
+        height: 105
+      alignment: 9
+      pivot: {x: 0.63013697, y: 0.07619048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84b9d6c7dc47ba4eaf2b99aa3f7baa6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-parry_6
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 315
+        width: 73
+        height: 105
+      alignment: 9
+      pivot: {x: 0.63013697, y: 0.07619048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a35fce2481fbdf41bcd8054b5d1cca5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-parry_7
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 315
+        width: 73
+        height: 105
+      alignment: 9
+      pivot: {x: 0.63013697, y: 0.07619048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a517fabb03f99dc4e82af0269074ce7c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-parry_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 210
+        width: 73
+        height: 105
+      alignment: 9
+      pivot: {x: 0.63013697, y: 0.07619048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8f7175a30f93d42a340aef8231a560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-parry_9
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 210
+        width: 73
+        height: 105
+      alignment: 9
+      pivot: {x: 0.63013697, y: 0.07619048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b2b43c4b98899341a5d8342f3a7707d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-parry_10
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 210
+        width: 73
+        height: 105
+      alignment: 9
+      pivot: {x: 0.63013697, y: 0.07619048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4721ab5ea3a7446bf83678dc68de00
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-parry_11
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 210
+        width: 73
+        height: 105
+      alignment: 9
+      pivot: {x: 0.63013697, y: 0.07619048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0961f5f67d2fe49a8753c482fccf08
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-parry_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 105
+        width: 73
+        height: 105
+      alignment: 9
+      pivot: {x: 0.63013697, y: 0.07619048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d4542a0a37f0341aeb8ae25f258b18
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-parry_13
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 105
+        width: 73
+        height: 105
+      alignment: 9
+      pivot: {x: 0.63013697, y: 0.07619048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6ab1a42386cbc4b902872e3440ec5a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-parry_14
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 105
+        width: 73
+        height: 105
+      alignment: 9
+      pivot: {x: 0.63013697, y: 0.07619048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d684fe177246cd648b30ba27a1a9ed77
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-parry_15
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 105
+        width: 73
+        height: 105
+      alignment: 9
+      pivot: {x: 0.63013697, y: 0.07619048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2710a3df62ea56748945e9a89b80f392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-parry_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 73
+        height: 105
+      alignment: 9
+      pivot: {x: 0.63013697, y: 0.07619048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce817ec355bbeb41945e93fe3947e24
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 128ffcf53fb63fc4398afd728406b64b
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

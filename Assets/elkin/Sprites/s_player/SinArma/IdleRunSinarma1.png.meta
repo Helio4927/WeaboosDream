@@ -1,0 +1,398 @@
+fileFormatVersion: 2
+guid: 875fd1bcff58d604badcfa655faeea87
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: IdleRun_0
+    21300002: IdleRun_1
+    21300004: IdleRun_2
+    21300006: IdleRun_3
+    21300008: IdleRun_4
+    21300010: IdleRun_5
+    21300012: IdleRun_6
+    21300014: IdleRun_7
+    21300016: IdleRun_8
+    21300018: IdleRun_9
+    21300020: IdleRun_10
+    21300022: IdleRun_11
+    21300024: IdleRun_12
+    21300026: IdleRun_13
+    21300028: IdleRun_14
+    21300030: IdleRun_15
+    21300032: IdleRun_16
+    21300034: IdleRun_17
+    21300036: IdleRun_18
+    21300038: IdleRun_19
+    21300040: IdleRun_20
+    21300042: IdleRun_21
+    21300044: IdleRun_22
+    21300046: IdleRun_23
+    21300048: IdleRun_24
+    21300050: IdleRun_25
+    21300052: RunSinarma1_0
+    21300054: RunSinarma1_1
+    21300056: RunSinarma1_2
+    21300058: RunSinarma1_3
+    21300060: RunSinarma1_4
+    21300062: RunSinarma1_5
+    21300064: RunSinarma1_6
+    21300066: IdleRunSinarma1_7
+    21300068: IdleRunSinarma1_8
+    21300070: IdleRunSinarma1_9
+    21300072: IdleRunSinarma1_10
+    21300074: IdleRunSinarma1_11
+    21300076: IdleRunSinarma1_12
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 28
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RunSinarma1_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 475
+        width: 26
+        height: 129
+      alignment: 9
+      pivot: {x: 0.4615385, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f719c9495cacc4c43a3f30c80e6e8b29
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunSinarma1_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 475
+        width: 60
+        height: 129
+      alignment: 9
+      pivot: {x: 0.23333335, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c8ea7707b15f94eb5ac9d0e999892a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunSinarma1_2
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 475
+        width: 52
+        height: 129
+      alignment: 9
+      pivot: {x: 0.28846154, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11222ae633c45244a559e64cdbd879c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunSinarma1_3
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 475
+        width: 37
+        height: 127
+      alignment: 9
+      pivot: {x: 0.35135135, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8efa89ff44419be4ca5f9d57dc1798f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunSinarma1_4
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 477
+        width: 46
+        height: 127
+      alignment: 9
+      pivot: {x: 0.21739131, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236d724a7c29d2f4687f3a1efa5e3e1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunSinarma1_5
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 476
+        width: 54
+        height: 128
+      alignment: 9
+      pivot: {x: 0.24074075, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea72623b00c282f4a9dda5b50c0eb886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunSinarma1_6
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 475
+        width: 38
+        height: 129
+      alignment: 9
+      pivot: {x: 0.28947368, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b7b9d98c14a924f9b8c5b8f0021d7a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleRunSinarma1_7
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 166
+        width: 29
+        height: 128
+      alignment: 9
+      pivot: {x: 0.37931034, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693fb3a88b5c77a4c82ef0841ff3e38f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleRunSinarma1_8
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 164
+        width: 29
+        height: 130
+      alignment: 9
+      pivot: {x: 0.37931034, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7700743a43c925f43946bd4428e96f38
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleRunSinarma1_9
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 166
+        width: 28
+        height: 129
+      alignment: 9
+      pivot: {x: 0.35714287, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790b1e8f6d1d1684ab5d0c0fa3e7e620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleRunSinarma1_10
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 165
+        width: 29
+        height: 131
+      alignment: 9
+      pivot: {x: 0.37931034, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6310a0138a944ae4fa9483ac12fa9d3a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleRunSinarma1_11
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 165
+        width: 28
+        height: 130
+      alignment: 9
+      pivot: {x: 0.3214286, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89ccf72c6ff44946a2c81e83bb0bc29
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleRunSinarma1_12
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 164
+        width: 30
+        height: 129
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9e5abe62e0f664fa4eb2be281f3423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f6edbc4bdfa3ed94f880b5048007341a
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

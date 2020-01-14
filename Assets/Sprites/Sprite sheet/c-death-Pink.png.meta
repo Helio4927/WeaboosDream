@@ -1,0 +1,426 @@
+fileFormatVersion: 2
+guid: 0095f8f8ac523c946847ba0c17663d55
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: c-death-Pink_0
+    21300002: c-death-Pink_1
+    21300004: c-death-Pink_2
+    21300006: c-death-Pink_3
+    21300008: c-death-Pink_4
+    21300010: c-death-Pink_5
+    21300012: c-death-Pink_6
+    21300014: c-death-Pink_7
+    21300016: c-death-Pink_8
+    21300018: c-death-Pink_9
+    21300020: c-death-Pink_10
+    21300022: c-death-Pink_11
+    21300024: c-death-Pink_12
+    21300026: c-death-Pink_13
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 28
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: c-death-Pink_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 519
+        width: 135
+        height: 173
+      alignment: 9
+      pivot: {x: 0.68888885, y: 0.046242774}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665e8ac76ba77f84abc7a481bf28c605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: c-death-Pink_1
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 519
+        width: 135
+        height: 173
+      alignment: 9
+      pivot: {x: 0.68888885, y: 0.046242774}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61e21bb9969f3b48bf2d80d7f142397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: c-death-Pink_2
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 519
+        width: 135
+        height: 173
+      alignment: 9
+      pivot: {x: 0.68888885, y: 0.046242774}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309ecaae8e080c14e99c6f7b54f6f48f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: c-death-Pink_3
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 519
+        width: 135
+        height: 173
+      alignment: 9
+      pivot: {x: 0.68888885, y: 0.046242774}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5e4e30e45276e4588b7328c38ab89b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: c-death-Pink_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 346
+        width: 135
+        height: 173
+      alignment: 9
+      pivot: {x: 0.68888885, y: 0.046242774}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0bbca66499a754bab6402d9836ee46
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: c-death-Pink_5
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 346
+        width: 135
+        height: 173
+      alignment: 9
+      pivot: {x: 0.68888885, y: 0.09248555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff82857eec815c4d82ac8af6a85ed08
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: c-death-Pink_6
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 346
+        width: 135
+        height: 173
+      alignment: 9
+      pivot: {x: 0.68888885, y: 0.09248555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ebfffa322dd584caaa18498bd6809b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: c-death-Pink_7
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 346
+        width: 135
+        height: 173
+      alignment: 9
+      pivot: {x: 0.68888885, y: 0.09248555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c87f98e72f723f4fafa3d22e1e3c561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: c-death-Pink_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 173
+        width: 135
+        height: 173
+      alignment: 9
+      pivot: {x: 0.68888885, y: 0.09248555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5d804de00742b4185903575e5920d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: c-death-Pink_9
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 173
+        width: 135
+        height: 173
+      alignment: 9
+      pivot: {x: 0.68888885, y: 0.09248555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ffb517315b854489348eccec71e9dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: c-death-Pink_10
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 173
+        width: 135
+        height: 173
+      alignment: 9
+      pivot: {x: 0.68888885, y: 0.09248555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3257562e2b8599479055a8216780fa8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: c-death-Pink_11
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 173
+        width: 135
+        height: 173
+      alignment: 9
+      pivot: {x: 0.68888885, y: 0.09248555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae51861a251394347b88856320f767f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: c-death-Pink_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 135
+        height: 173
+      alignment: 9
+      pivot: {x: 0.68888885, y: 0.09248555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fadca25d2831134b8ca3f10e67bef21
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: c-death-Pink_13
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 0
+        width: 135
+        height: 173
+      alignment: 9
+      pivot: {x: 0.68888885, y: 0.09248555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5ef5400237ba04baad50a18e32c475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 81a1aa11a28e0f7448334fc9380c7f89
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

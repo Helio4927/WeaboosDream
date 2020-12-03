@@ -69,7 +69,7 @@ public class Enemy : AnimEvents {
         }
     }
 
-    public virtual void ShowHitAnim(string animName) {
+    public void ShowHitAnim(string animName) {
         if (animName.Equals("Fatality001"))
         {
             _isAlive = _lifeBar.UpdateHp(100);
@@ -88,6 +88,10 @@ public class Enemy : AnimEvents {
             _isAlive = _lifeBar.UpdateHp(damage);            
             Debug.Log("Alive: " + _isAlive);
             Debug.Log("Damage: " + damage);
+            
+           
+
+
 
             if (_isAlive)
             {
@@ -214,9 +218,9 @@ public class Enemy : AnimEvents {
         }
     }
 
-    protected void Update()
+    void Update()
     {
-        //if (!_player.IsAlive) return;
+        if (!_player.IsAlive) return;
 
         if (!_isAlive || _currentState == State.DEATH || _currentState == State.BEBLOCKED) return; 
         

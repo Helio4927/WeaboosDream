@@ -207,18 +207,6 @@ public class Player : AnimEvents
             FindObjectOfType<GameManager>().interacionBloqueada = false;
         }
     }
-    public void ReaparecePlayer()
-    {
-        _anim.gameObject.SetActive(true);
-        _anim.SetBool("Tuberia", true);
-        _isAttacking = false;
-        _isDamaged = false;
-        soyVulnerable = true;
-        _isBlocked = false;
-        FindObjectOfType<GameManager>().interacionBloqueada = false;
-        _anim.speed = 1;
-        habilitarAtaque = true;
-    }
     public void IncrementarVida()
     {      
        _isAlive = GetComponent<LifeBar>().UpdateHp(-1);
@@ -294,21 +282,16 @@ public class Player : AnimEvents
 
     public override void CheckEnemyType()
     {
-        //Debug.Log("<color=green>CheckEnemyType: "+_currentEnemy+"</color>");
+        Debug.Log("<color=green>CheckEnemyType: "+_currentEnemy+"</color>");
         if(_currentEnemy is SpecialEnemy){
             _anim.speed=0;
-            //(_currentEnemy as SpecialEnemy).ShowSpecialAnim();
-            soyVulnerable = false;
-            canDoBlock = false;
-            doingBLock = false;
-            _currentEnemy.GetComponent<SpecialEnemy>().DesActivarSpecialEnemy();
-            _anim.gameObject.SetActive(false);
-            //llamar a Sprite Doble que contiene el minijuego que toque
-
+            (_currentEnemy as SpecialEnemy).ShowSpecialAnim();
+            //ocultar el player y el enemigo
+            //llamar la animacion de fatality del enemigo
+            
         }
     }
 
-    
     private void WaitForNextHit()
     {
         _waiting = false;
@@ -354,10 +337,6 @@ public class Player : AnimEvents
 
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.R))
-        {
-            ReaparecePlayer();
-        }
         //si no hay camara o esta muerto no hacer nada
         if (Camera.main == null || !_isAlive) return;        
 

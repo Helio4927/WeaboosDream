@@ -1,0 +1,4519 @@
+fileFormatVersion: 2
+guid: fc08a6b94bb0abd48ac007856fe3f931
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6142956265591175957
+    second: pruebaanimacionagarre(1
+  - first:
+      213: 4322405869546555843
+    second: pruebaanimacionagarre(39
+  - first:
+      213: 5725976990082464354
+    second: pruebaanimacionagarre(4
+  - first:
+      213: -8912226237431252660
+    second: pruebaanimacionagarre(40
+  - first:
+      213: 8267216488233438908
+    second: pruebaanimacionagarre(41
+  - first:
+      213: -8482671414122491023
+    second: pruebaanimacionagarre(42
+  - first:
+      213: 5595276574431092820
+    second: pruebaanimacionagarre(43
+  - first:
+      213: 8633578478706366499
+    second: pruebaanimacionagarre(44
+  - first:
+      213: -285029392003070621
+    second: pruebaanimacionagarre(45
+  - first:
+      213: 648571268907504689
+    second: pruebaanimacionagarre(46
+  - first:
+      213: -7107997251527440217
+    second: pruebaanimacionagarre(47
+  - first:
+      213: 2453775817445567854
+    second: pruebaanimacionagarre(48
+  - first:
+      213: -7642548241985774282
+    second: pruebaanimacionagarre(49
+  - first:
+      213: 8682162957804962919
+    second: pruebaanimacionagarre(5
+  - first:
+      213: 3680925002286723628
+    second: pruebaanimacionagarre(50
+  - first:
+      213: -4361345310378331677
+    second: pruebaanimacionagarre(51
+  - first:
+      213: 4904354349992875185
+    second: pruebaanimacionagarre(52
+  - first:
+      213: 7256503036680935891
+    second: pruebaanimacionagarre(53
+  - first:
+      213: -970650175516880495
+    second: pruebaanimacionagarre(54
+  - first:
+      213: 3881099177787470782
+    second: pruebaanimacionagarre(55
+  - first:
+      213: 254488485349307410
+    second: pruebaanimacionagarre(38
+  - first:
+      213: 1553131164052321984
+    second: pruebaanimacionagarre(56
+  - first:
+      213: 5071713408744351994
+    second: pruebaanimacionagarre(37
+  - first:
+      213: -672722879683314583
+    second: pruebaanimacionagarre(35
+  - first:
+      213: -2362502344238336648
+    second: pruebaanimacionagarre(184
+  - first:
+      213: -6567922931959715991
+    second: pruebaanimacionagarre(19
+  - first:
+      213: 7659777431488517307
+    second: pruebaanimacionagarre(2
+  - first:
+      213: 8945594961345902828
+    second: pruebaanimacionagarre(20
+  - first:
+      213: -6084362115886163503
+    second: pruebaanimacionagarre(21
+  - first:
+      213: -3665215789101364397
+    second: pruebaanimacionagarre(22
+  - first:
+      213: 1244693302490205041
+    second: pruebaanimacionagarre(23
+  - first:
+      213: 9062864698447369327
+    second: pruebaanimacionagarre(24
+  - first:
+      213: -6071590550635314422
+    second: pruebaanimacionagarre(25
+  - first:
+      213: -1178852917103319962
+    second: pruebaanimacionagarre(26
+  - first:
+      213: 6062562661795722873
+    second: pruebaanimacionagarre(27
+  - first:
+      213: 4510330360070966751
+    second: pruebaanimacionagarre(28
+  - first:
+      213: -7743648570423575834
+    second: pruebaanimacionagarre(29
+  - first:
+      213: -8158633380915554219
+    second: pruebaanimacionagarre(3
+  - first:
+      213: -1827091297961545910
+    second: pruebaanimacionagarre(30
+  - first:
+      213: 5367851392861426480
+    second: pruebaanimacionagarre(31
+  - first:
+      213: 5459213638418330716
+    second: pruebaanimacionagarre(32
+  - first:
+      213: 4991806871308212079
+    second: pruebaanimacionagarre(33
+  - first:
+      213: -8430097325552763221
+    second: pruebaanimacionagarre(34
+  - first:
+      213: 6345809043135661721
+    second: pruebaanimacionagarre(36
+  - first:
+      213: -5091650599316543217
+    second: pruebaanimacionagarre(183
+  - first:
+      213: -7055338898989224823
+    second: pruebaanimacionagarre(57
+  - first:
+      213: -5722525758169742232
+    second: pruebaanimacionagarre(59
+  - first:
+      213: -2286924916569265738
+    second: pruebaanimacionagarre(80
+  - first:
+      213: -6885229538293861309
+    second: pruebaanimacionagarre(81
+  - first:
+      213: 2510573787709589942
+    second: pruebaanimacionagarre(82
+  - first:
+      213: -4215870621813934607
+    second: pruebaanimacionagarre(83
+  - first:
+      213: 9165929130375169634
+    second: pruebaanimacionagarre(84
+  - first:
+      213: -5732643407120789667
+    second: pruebaanimacionagarre(85
+  - first:
+      213: 2838868206382896486
+    second: pruebaanimacionagarre(86
+  - first:
+      213: 7891308191656628351
+    second: pruebaanimacionagarre(87
+  - first:
+      213: -2498301114843287835
+    second: pruebaanimacionagarre(88
+  - first:
+      213: -7178035875504345172
+    second: pruebaanimacionagarre(89
+  - first:
+      213: 2124699243049190999
+    second: pruebaanimacionagarre(9
+  - first:
+      213: 4362040797889664253
+    second: pruebaanimacionagarre(90
+  - first:
+      213: -6831828883688234922
+    second: pruebaanimacionagarre(91
+  - first:
+      213: -6699332500863195110
+    second: pruebaanimacionagarre(92
+  - first:
+      213: -4713916376631234836
+    second: pruebaanimacionagarre(93
+  - first:
+      213: 6451527133247234855
+    second: pruebaanimacionagarre(94
+  - first:
+      213: 7176078033571857581
+    second: pruebaanimacionagarre(95
+  - first:
+      213: -2660511842338542561
+    second: pruebaanimacionagarre(96
+  - first:
+      213: 9201586340917529511
+    second: pruebaanimacionagarre(97
+  - first:
+      213: 3157672884134094768
+    second: pruebaanimacionagarre(8
+  - first:
+      213: -1819766351796999397
+    second: pruebaanimacionagarre(58
+  - first:
+      213: 2523390238368173630
+    second: pruebaanimacionagarre(79
+  - first:
+      213: 2160197329635111505
+    second: pruebaanimacionagarre(77
+  - first:
+      213: -448944470893691900
+    second: pruebaanimacionagarre(6
+  - first:
+      213: 8937834102082838955
+    second: pruebaanimacionagarre(60
+  - first:
+      213: 6757238684516516140
+    second: pruebaanimacionagarre(61
+  - first:
+      213: 8747145136289965024
+    second: pruebaanimacionagarre(62
+  - first:
+      213: -825062540306707460
+    second: pruebaanimacionagarre(63
+  - first:
+      213: -3419014236299558073
+    second: pruebaanimacionagarre(64
+  - first:
+      213: 693449605325245864
+    second: pruebaanimacionagarre(65
+  - first:
+      213: 667930931658903576
+    second: pruebaanimacionagarre(66
+  - first:
+      213: -600817222230997905
+    second: pruebaanimacionagarre(67
+  - first:
+      213: 2816137004415723389
+    second: pruebaanimacionagarre(68
+  - first:
+      213: -1475453628206703720
+    second: pruebaanimacionagarre(69
+  - first:
+      213: 5192747260395026481
+    second: pruebaanimacionagarre(7
+  - first:
+      213: -1336992807530149851
+    second: pruebaanimacionagarre(70
+  - first:
+      213: 5765743229443208061
+    second: pruebaanimacionagarre(71
+  - first:
+      213: -5267851863276432839
+    second: pruebaanimacionagarre(72
+  - first:
+      213: 7921640853444659486
+    second: pruebaanimacionagarre(73
+  - first:
+      213: 6059981102740838060
+    second: pruebaanimacionagarre(74
+  - first:
+      213: -4722892106482887801
+    second: pruebaanimacionagarre(75
+  - first:
+      213: 6268442667009475256
+    second: pruebaanimacionagarre(76
+  - first:
+      213: 392538982375944507
+    second: pruebaanimacionagarre(78
+  - first:
+      213: -2445917718400156472
+    second: pruebaanimacionagarre(182
+  - first:
+      213: 3735848925717235452
+    second: pruebaanimacionagarre(181
+  - first:
+      213: -5013627121069386915
+    second: pruebaanimacionagarre(180
+  - first:
+      213: -235864573066926180
+    second: pruebaanimacionagarre(120
+  - first:
+      213: -8365718703251954147
+    second: pruebaanimacionagarre(121
+  - first:
+      213: -1752248635768613186
+    second: pruebaanimacionagarre(122
+  - first:
+      213: 6131921080827612549
+    second: pruebaanimacionagarre(123
+  - first:
+      213: 523348507760928277
+    second: pruebaanimacionagarre(124
+  - first:
+      213: 4601426632129112162
+    second: pruebaanimacionagarre(125
+  - first:
+      213: 3303453463532480670
+    second: pruebaanimacionagarre(126
+  - first:
+      213: 7858368887832522472
+    second: pruebaanimacionagarre(127
+  - first:
+      213: -4635527394264937083
+    second: pruebaanimacionagarre(128
+  - first:
+      213: 5396476078144321405
+    second: pruebaanimacionagarre(129
+  - first:
+      213: -5206204920527195849
+    second: pruebaanimacionagarre(13
+  - first:
+      213: -7214377790599322671
+    second: pruebaanimacionagarre(130
+  - first:
+      213: -1118517467056222179
+    second: pruebaanimacionagarre(131
+  - first:
+      213: 8403290350450828206
+    second: pruebaanimacionagarre(132
+  - first:
+      213: 3854055814587853839
+    second: pruebaanimacionagarre(133
+  - first:
+      213: 13540470347420623
+    second: pruebaanimacionagarre(134
+  - first:
+      213: 8932502362105289738
+    second: pruebaanimacionagarre(135
+  - first:
+      213: 1403118515904203277
+    second: pruebaanimacionagarre(136
+  - first:
+      213: 7036718947179448563
+    second: pruebaanimacionagarre(137
+  - first:
+      213: -8938853199784076145
+    second: pruebaanimacionagarre(12
+  - first:
+      213: -1245016273012186
+    second: pruebaanimacionagarre(138
+  - first:
+      213: 1539963338728586417
+    second: pruebaanimacionagarre(119
+  - first:
+      213: -123626577828376094
+    second: pruebaanimacionagarre(117
+  - first:
+      213: 4467950215080439272
+    second: pruebaanimacionagarre(10
+  - first:
+      213: -9068692614876746741
+    second: pruebaanimacionagarre(100
+  - first:
+      213: -1978133496214493180
+    second: pruebaanimacionagarre(101
+  - first:
+      213: 8868879829677826102
+    second: pruebaanimacionagarre(102
+  - first:
+      213: 7475605479457235126
+    second: pruebaanimacionagarre(103
+  - first:
+      213: 2113239018401988708
+    second: pruebaanimacionagarre(104
+  - first:
+      213: 122713372715142739
+    second: pruebaanimacionagarre(105
+  - first:
+      213: -4409647362567161448
+    second: pruebaanimacionagarre(106
+  - first:
+      213: 451872986898924318
+    second: pruebaanimacionagarre(107
+  - first:
+      213: -7047658773278857903
+    second: pruebaanimacionagarre(108
+  - first:
+      213: -4597178514260692776
+    second: pruebaanimacionagarre(109
+  - first:
+      213: -3582275781725986701
+    second: pruebaanimacionagarre(11
+  - first:
+      213: -1541343394809903461
+    second: pruebaanimacionagarre(110
+  - first:
+      213: -4982159070286668154
+    second: pruebaanimacionagarre(111
+  - first:
+      213: -2997688025623146408
+    second: pruebaanimacionagarre(112
+  - first:
+      213: 1858207285660135710
+    second: pruebaanimacionagarre(113
+  - first:
+      213: 7561927959083122873
+    second: pruebaanimacionagarre(114
+  - first:
+      213: 8688756758508213430
+    second: pruebaanimacionagarre(115
+  - first:
+      213: 1281866295926652779
+    second: pruebaanimacionagarre(116
+  - first:
+      213: 603066609303806644
+    second: pruebaanimacionagarre(118
+  - first:
+      213: -7205231893177475136
+    second: pruebaanimacionagarre(139
+  - first:
+      213: -3696568612905845969
+    second: pruebaanimacionagarre(14
+  - first:
+      213: -246507299153764526
+    second: pruebaanimacionagarre(140
+  - first:
+      213: 8922062923164349990
+    second: pruebaanimacionagarre(163
+  - first:
+      213: 389388134256102917
+    second: pruebaanimacionagarre(164
+  - first:
+      213: -6411919722629957298
+    second: pruebaanimacionagarre(165
+  - first:
+      213: -4043846212072439678
+    second: pruebaanimacionagarre(166
+  - first:
+      213: 8687021659353144514
+    second: pruebaanimacionagarre(167
+  - first:
+      213: -3152126956683802275
+    second: pruebaanimacionagarre(168
+  - first:
+      213: 3028002854254552197
+    second: pruebaanimacionagarre(169
+  - first:
+      213: -2961488324949310491
+    second: pruebaanimacionagarre(17
+  - first:
+      213: -1685358309336484302
+    second: pruebaanimacionagarre(170
+  - first:
+      213: -175991590555699149
+    second: pruebaanimacionagarre(171
+  - first:
+      213: 7311772399152045973
+    second: pruebaanimacionagarre(172
+  - first:
+      213: -1907830274601256791
+    second: pruebaanimacionagarre(173
+  - first:
+      213: -9012585021961212492
+    second: pruebaanimacionagarre(174
+  - first:
+      213: 2854711339461166913
+    second: pruebaanimacionagarre(175
+  - first:
+      213: -7634578052825120810
+    second: pruebaanimacionagarre(176
+  - first:
+      213: -9097351048720012817
+    second: pruebaanimacionagarre(177
+  - first:
+      213: 5999005941101576438
+    second: pruebaanimacionagarre(178
+  - first:
+      213: 1297222937674681032
+    second: pruebaanimacionagarre(179
+  - first:
+      213: -2766909236032661774
+    second: pruebaanimacionagarre(18
+  - first:
+      213: -1149746451012052233
+    second: pruebaanimacionagarre(162
+  - first:
+      213: 6102078424004371107
+    second: pruebaanimacionagarre(161
+  - first:
+      213: 8460593091811992399
+    second: pruebaanimacionagarre(160
+  - first:
+      213: 4277769746216423163
+    second: pruebaanimacionagarre(16
+  - first:
+      213: -7518185783336514095
+    second: pruebaanimacionagarre(141
+  - first:
+      213: -6467942092538629354
+    second: pruebaanimacionagarre(142
+  - first:
+      213: 1198655960372132960
+    second: pruebaanimacionagarre(143
+  - first:
+      213: 1471740276875288805
+    second: pruebaanimacionagarre(144
+  - first:
+      213: -6387363483157668161
+    second: pruebaanimacionagarre(145
+  - first:
+      213: 1027035524808595986
+    second: pruebaanimacionagarre(146
+  - first:
+      213: 6887904414369301275
+    second: pruebaanimacionagarre(147
+  - first:
+      213: -3575869563619026333
+    second: pruebaanimacionagarre(148
+  - first:
+      213: 990884432457113397
+    second: pruebaanimacionagarre(149
+  - first:
+      213: -163649690623601027
+    second: pruebaanimacionagarre(98
+  - first:
+      213: -295187882624264413
+    second: pruebaanimacionagarre(15
+  - first:
+      213: 2347839722849947464
+    second: pruebaanimacionagarre(151
+  - first:
+      213: 4899861415396542130
+    second: pruebaanimacionagarre(152
+  - first:
+      213: -9035689412140744183
+    second: pruebaanimacionagarre(153
+  - first:
+      213: 6570961369458659846
+    second: pruebaanimacionagarre(154
+  - first:
+      213: 8226160341963417464
+    second: pruebaanimacionagarre(155
+  - first:
+      213: 5231396659190965127
+    second: pruebaanimacionagarre(156
+  - first:
+      213: 3275636550185098147
+    second: pruebaanimacionagarre(157
+  - first:
+      213: 7647419882991179304
+    second: pruebaanimacionagarre(158
+  - first:
+      213: 2931172900857402645
+    second: pruebaanimacionagarre(159
+  - first:
+      213: -8074661657150744381
+    second: pruebaanimacionagarre(150
+  - first:
+      213: -4829499079409616616
+    second: pruebaanimacionagarre(99
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 4
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 28
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -6142956265591175957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(39
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 0
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 4322405869546555843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(4
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 0
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 5725976990082464354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(40
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 0
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -8912226237431252660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(41
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 0
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 8267216488233438908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(42
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 0
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -8482671414122491023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(43
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 0
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 5595276574431092820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(44
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 0
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 8633578478706366499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(45
+      rect:
+        serializedVersion: 2
+        x: 2320
+        y: 0
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -285029392003070621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(46
+      rect:
+        serializedVersion: 2
+        x: 2610
+        y: 0
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 648571268907504689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(47
+      rect:
+        serializedVersion: 2
+        x: 2900
+        y: 0
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -7107997251527440217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(48
+      rect:
+        serializedVersion: 2
+        x: 3190
+        y: 0
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 2453775817445567854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(49
+      rect:
+        serializedVersion: 2
+        x: 3480
+        y: 0
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -7642548241985774282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(5
+      rect:
+        serializedVersion: 2
+        x: 3770
+        y: 0
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 8682162957804962919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 233
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 3680925002286723628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(51
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 233
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -4361345310378331677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(52
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 233
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 4904354349992875185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(53
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 233
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 7256503036680935891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(54
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 233
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -970650175516880495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(55
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 233
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 3881099177787470782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(38
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 233
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 254488485349307410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(56
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 233
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 1553131164052321984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(37
+      rect:
+        serializedVersion: 2
+        x: 2320
+        y: 233
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 5071713408744351994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(35
+      rect:
+        serializedVersion: 2
+        x: 2610
+        y: 233
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -672722879683314583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(184
+      rect:
+        serializedVersion: 2
+        x: 2900
+        y: 233
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -2362502344238336648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(19
+      rect:
+        serializedVersion: 2
+        x: 3190
+        y: 233
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -6567922931959715991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(2
+      rect:
+        serializedVersion: 2
+        x: 3480
+        y: 233
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 7659777431488517307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(20
+      rect:
+        serializedVersion: 2
+        x: 3770
+        y: 233
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 8945594961345902828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 466
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -6084362115886163503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(22
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 466
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -3665215789101364397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(23
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 466
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 1244693302490205041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(24
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 466
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 9062864698447369327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(25
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 466
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -6071590550635314422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(26
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 466
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -1178852917103319962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(27
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 466
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 6062562661795722873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(28
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 466
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 4510330360070966751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(29
+      rect:
+        serializedVersion: 2
+        x: 2320
+        y: 466
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -7743648570423575834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(3
+      rect:
+        serializedVersion: 2
+        x: 2610
+        y: 466
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -8158633380915554219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(30
+      rect:
+        serializedVersion: 2
+        x: 2900
+        y: 466
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -1827091297961545910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(31
+      rect:
+        serializedVersion: 2
+        x: 3190
+        y: 466
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 5367851392861426480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(32
+      rect:
+        serializedVersion: 2
+        x: 3480
+        y: 466
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 5459213638418330716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(33
+      rect:
+        serializedVersion: 2
+        x: 3770
+        y: 466
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 4991806871308212079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 699
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -8430097325552763221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(36
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 699
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 6345809043135661721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(183
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 699
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -5091650599316543217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(57
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 699
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -7055338898989224823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(59
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 699
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -5722525758169742232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(80
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 699
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -2286924916569265738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(81
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 699
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -6885229538293861309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(82
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 699
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 2510573787709589942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(83
+      rect:
+        serializedVersion: 2
+        x: 2320
+        y: 699
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -4215870621813934607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(84
+      rect:
+        serializedVersion: 2
+        x: 2610
+        y: 699
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 9165929130375169634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(85
+      rect:
+        serializedVersion: 2
+        x: 2900
+        y: 699
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -5732643407120789667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(86
+      rect:
+        serializedVersion: 2
+        x: 3190
+        y: 699
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 2838868206382896486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(87
+      rect:
+        serializedVersion: 2
+        x: 3480
+        y: 699
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 7891308191656628351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(88
+      rect:
+        serializedVersion: 2
+        x: 3770
+        y: 699
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -2498301114843287835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 932
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -7178035875504345172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1165
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 2124699243049190999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1398
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 4362040797889664253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1631
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -6831828883688234922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(92
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1864
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -6699332500863195110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(93
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2097
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -4713916376631234836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(94
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2330
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 6451527133247234855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2563
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 7176078033571857581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2796
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -2660511842338542561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(97
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3029
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 9201586340917529511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3262
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 3157672884134094768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3495
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -1819766351796999397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(79
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3728
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 2523390238368173630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(77
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 932
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 2160197329635111505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(6
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 932
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -448944470893691900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(60
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 932
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 8937834102082838955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(61
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 932
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 6757238684516516140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(62
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 932
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 8747145136289965024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(63
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 932
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -825062540306707460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(64
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 932
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -3419014236299558073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(65
+      rect:
+        serializedVersion: 2
+        x: 2320
+        y: 932
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 693449605325245864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(66
+      rect:
+        serializedVersion: 2
+        x: 2610
+        y: 932
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 667930931658903576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(67
+      rect:
+        serializedVersion: 2
+        x: 2900
+        y: 932
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -600817222230997905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(68
+      rect:
+        serializedVersion: 2
+        x: 3190
+        y: 932
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 2816137004415723389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(69
+      rect:
+        serializedVersion: 2
+        x: 3480
+        y: 932
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -1475453628206703720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(7
+      rect:
+        serializedVersion: 2
+        x: 3770
+        y: 932
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 5192747260395026481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(70
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1165
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -1336992807530149851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(71
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1398
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 5765743229443208061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(72
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1631
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -5267851863276432839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(73
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1864
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 7921640853444659486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(74
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 2097
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 6059981102740838060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(75
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 2330
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -4722892106482887801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(76
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 2563
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 6268442667009475256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(78
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 2796
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 392538982375944507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(182
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 3029
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -2445917718400156472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(181
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 3262
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 3735848925717235452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(180
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 3495
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -5013627121069386915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(120
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 3728
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -235864573066926180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(121
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1165
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -8365718703251954147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(122
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 1165
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -1752248635768613186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(123
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 1165
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 6131921080827612549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(124
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 1165
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 523348507760928277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(125
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 1165
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 4601426632129112162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(126
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 1165
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 3303453463532480670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(127
+      rect:
+        serializedVersion: 2
+        x: 2320
+        y: 1165
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 7858368887832522472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(128
+      rect:
+        serializedVersion: 2
+        x: 2610
+        y: 1165
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -4635527394264937083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(129
+      rect:
+        serializedVersion: 2
+        x: 2900
+        y: 1165
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 5396476078144321405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(13
+      rect:
+        serializedVersion: 2
+        x: 3190
+        y: 1165
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -5206204920527195849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(130
+      rect:
+        serializedVersion: 2
+        x: 3480
+        y: 1165
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -7214377790599322671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(131
+      rect:
+        serializedVersion: 2
+        x: 3770
+        y: 1165
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -1118517467056222179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(132
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1398
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 8403290350450828206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(133
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1631
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 3854055814587853839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(134
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1864
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 13540470347420623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(135
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 2097
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 8932502362105289738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(136
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 2330
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 1403118515904203277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(137
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 2563
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 7036718947179448563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(12
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 2796
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -8938853199784076145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(138
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 3029
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -1245016273012186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(119
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 3262
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 1539963338728586417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(117
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 3495
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -123626577828376094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(10
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 3728
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 4467950215080439272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(100
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 1398
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -9068692614876746741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(101
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 1398
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -1978133496214493180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(102
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 1398
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 8868879829677826102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(103
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 1398
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 7475605479457235126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(104
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 1398
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 2113239018401988708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(105
+      rect:
+        serializedVersion: 2
+        x: 2320
+        y: 1398
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 122713372715142739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(106
+      rect:
+        serializedVersion: 2
+        x: 2610
+        y: 1398
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -4409647362567161448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(107
+      rect:
+        serializedVersion: 2
+        x: 2900
+        y: 1398
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 451872986898924318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(108
+      rect:
+        serializedVersion: 2
+        x: 3190
+        y: 1398
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -7047658773278857903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(109
+      rect:
+        serializedVersion: 2
+        x: 3480
+        y: 1398
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -4597178514260692776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(11
+      rect:
+        serializedVersion: 2
+        x: 3770
+        y: 1398
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -3582275781725986701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(110
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 1631
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -1541343394809903461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(111
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 1864
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -4982159070286668154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(112
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 2097
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -2997688025623146408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(113
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 2330
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 1858207285660135710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(114
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 2563
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 7561927959083122873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(115
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 2796
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 8688756758508213430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(116
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 3029
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 1281866295926652779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(118
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 3262
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 603066609303806644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(139
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 3495
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -7205231893177475136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(14
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 3728
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -3696568612905845969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(140
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 1631
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -246507299153764526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(163
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 1631
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 8922062923164349990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(164
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 1631
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 389388134256102917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(165
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 1631
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -6411919722629957298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(166
+      rect:
+        serializedVersion: 2
+        x: 2320
+        y: 1631
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -4043846212072439678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(167
+      rect:
+        serializedVersion: 2
+        x: 2610
+        y: 1631
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 8687021659353144514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(168
+      rect:
+        serializedVersion: 2
+        x: 2900
+        y: 1631
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -3152126956683802275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(169
+      rect:
+        serializedVersion: 2
+        x: 3190
+        y: 1631
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 3028002854254552197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(17
+      rect:
+        serializedVersion: 2
+        x: 3480
+        y: 1631
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -2961488324949310491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(170
+      rect:
+        serializedVersion: 2
+        x: 3770
+        y: 1631
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -1685358309336484302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(171
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 1864
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -175991590555699149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(172
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 2097
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 7311772399152045973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(173
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 2330
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -1907830274601256791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(174
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 2563
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -9012585021961212492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(175
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 2796
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 2854711339461166913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(176
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 3029
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -7634578052825120810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(177
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 3262
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -9097351048720012817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(178
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 3495
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 5999005941101576438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(179
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 3728
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 1297222937674681032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(18
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 1864
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -2766909236032661774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(162
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 1864
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -1149746451012052233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(161
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 1864
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 6102078424004371107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(160
+      rect:
+        serializedVersion: 2
+        x: 2320
+        y: 1864
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 8460593091811992399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(16
+      rect:
+        serializedVersion: 2
+        x: 2610
+        y: 1864
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 4277769746216423163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(141
+      rect:
+        serializedVersion: 2
+        x: 2900
+        y: 1864
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -7518185783336514095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(142
+      rect:
+        serializedVersion: 2
+        x: 3190
+        y: 1864
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -6467942092538629354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(143
+      rect:
+        serializedVersion: 2
+        x: 3480
+        y: 1864
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 1198655960372132960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(144
+      rect:
+        serializedVersion: 2
+        x: 3770
+        y: 1864
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 1471740276875288805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(145
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 2097
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -6387363483157668161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(146
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 2330
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 1027035524808595986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(147
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 2563
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 6887904414369301275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(148
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 2796
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -3575869563619026333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(149
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 3029
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 990884432457113397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(98
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 3262
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -163649690623601027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(15
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 3495
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -295187882624264413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(151
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 3728
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 2347839722849947464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(152
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 2097
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 4899861415396542130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(153
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 2097
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -9035689412140744183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(154
+      rect:
+        serializedVersion: 2
+        x: 2320
+        y: 2097
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 6570961369458659846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(155
+      rect:
+        serializedVersion: 2
+        x: 2610
+        y: 2097
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 8226160341963417464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(156
+      rect:
+        serializedVersion: 2
+        x: 2900
+        y: 2097
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 5231396659190965127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(157
+      rect:
+        serializedVersion: 2
+        x: 3190
+        y: 2097
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 3275636550185098147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(158
+      rect:
+        serializedVersion: 2
+        x: 3480
+        y: 2097
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 7647419882991179304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(159
+      rect:
+        serializedVersion: 2
+        x: 3770
+        y: 2097
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 2931172900857402645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(150
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 2330
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -8074661657150744381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pruebaanimacionagarre(99
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 2563
+        width: 289
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -4829499079409616616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

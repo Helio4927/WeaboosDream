@@ -1,0 +1,511 @@
+fileFormatVersion: 2
+guid: 78c8c5c936c129c42bda97067b5c19ec
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4819492195811401838
+    second: MissNasty_idle_0
+  - first:
+      213: -4289851309231579862
+    second: MissNasty_idle_1
+  - first:
+      213: -4994643588587814230
+    second: MissNasty_idle_2
+  - first:
+      213: 3825435314041511594
+    second: MissNasty_idle_3
+  - first:
+      213: 8237574527725185857
+    second: MissNasty_idle_4
+  - first:
+      213: 1169116008415550367
+    second: MissNasty_idle_5
+  - first:
+      213: -6799898319126015369
+    second: MissNasty_idle_6
+  - first:
+      213: 501558829002795058
+    second: MissNasty_idle_7
+  - first:
+      213: 520272622019691026
+    second: MissNasty_idle_8
+  - first:
+      213: 4105961764753678869
+    second: MissNasty_idle_9
+  - first:
+      213: -4660616723133635235
+    second: MissNasty_idle_10
+  - first:
+      213: 2337041934109587734
+    second: MissNasty_idle_11
+  - first:
+      213: -3402843027385697389
+    second: MissNasty_idle_12
+  - first:
+      213: 5990988800460751520
+    second: MissNasty_idle_13
+  - first:
+      213: -1620737881570029008
+    second: MissNasty_idle_14
+  - first:
+      213: -1156725559104615107
+    second: MissNasty_idle_15
+  - first:
+      213: 3659468183936693433
+    second: MissNasty_idle_16
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 28
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MissNasty_idle_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 77
+        height: 174
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f38dbd1b65e004388bc34d70987d44
+      internalID: 4819492195811401838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_idle_1
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 0
+        width: 77
+        height: 174
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3729def6dc1f4b14f808e7218ce4e768
+      internalID: -4289851309231579862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_idle_2
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 0
+        width: 77
+        height: 177
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6599334fb18fc5a469927794778fd798
+      internalID: -4994643588587814230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_idle_3
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 0
+        width: 77
+        height: 177
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c9aa0be324c354ea7e1fd206c6dc85
+      internalID: 3825435314041511594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_idle_4
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 0
+        width: 77
+        height: 177
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa36579e27d93af44a23660dfe35b74a
+      internalID: 8237574527725185857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_idle_5
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 0
+        width: 77
+        height: 176
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8605d70c786c24696799d0417b0ea2
+      internalID: 1169116008415550367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_idle_6
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 0
+        width: 80
+        height: 171
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1c2382e4185d8469f7dadb283f4ed9
+      internalID: -6799898319126015369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_idle_7
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 0
+        width: 90
+        height: 164
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac54ecac160042b45b88935ba2097fd7
+      internalID: 501558829002795058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_idle_8
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 0
+        width: 80
+        height: 164
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8880d2036e405e24b91e76bcfcc57623
+      internalID: 520272622019691026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_idle_9
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 0
+        width: 79
+        height: 164
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7a43608c0664c4aa02d781667f6523
+      internalID: 4105961764753678869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_idle_10
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 0
+        width: 77
+        height: 164
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82bb5fbf27ba8c04eb10316797d01ac3
+      internalID: -4660616723133635235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_idle_11
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 0
+        width: 77
+        height: 164
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 494a75a22cef5ec41a2faa1918235237
+      internalID: 2337041934109587734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_idle_12
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 0
+        width: 77
+        height: 164
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0a7c64c4058ff48be58a93ab57ac54
+      internalID: -3402843027385697389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_idle_13
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 0
+        width: 78
+        height: 164
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975440d678473104ea53b8bd1a6c732e
+      internalID: 5990988800460751520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_idle_14
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 0
+        width: 77
+        height: 164
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18eddeef95d08554cb6f19670087d1ab
+      internalID: -1620737881570029008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_idle_15
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 0
+        width: 77
+        height: 167
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f907b4f0d7d4344b1fb8ff24fd9cd4
+      internalID: -1156725559104615107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_idle_16
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 0
+        width: 77
+        height: 168
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8ca28ba30ed2d4191a3e6b20daf97f
+      internalID: 3659468183936693433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 14fc2238fb3c7b84b9e8bf7282e9c0e6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

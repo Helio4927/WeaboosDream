@@ -1,0 +1,415 @@
+fileFormatVersion: 2
+guid: 542cba2f72011cc41aa6432ce92fd1cc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1656995394431113630
+    second: MissNasty_attack_0
+  - first:
+      213: -4717388049170374112
+    second: MissNasty_attack_1
+  - first:
+      213: 1768302136127255180
+    second: MissNasty_attack_2
+  - first:
+      213: 3818507229005465602
+    second: MissNasty_attack_3
+  - first:
+      213: 8828418769401042163
+    second: MissNasty_attack_4
+  - first:
+      213: 503616455892512239
+    second: MissNasty_attack_5
+  - first:
+      213: -3291433424098445329
+    second: MissNasty_attack_6
+  - first:
+      213: 9166815959707739436
+    second: MissNasty_attack_7
+  - first:
+      213: -5769217299402878319
+    second: MissNasty_attack_8
+  - first:
+      213: -1290249915033741047
+    second: MissNasty_attack_9
+  - first:
+      213: 7337878901875656296
+    second: MissNasty_attack_10
+  - first:
+      213: 7315398579681715414
+    second: MissNasty_attack_11
+  - first:
+      213: -2033844059503902643
+    second: MissNasty_attack_12
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 28
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MissNasty_attack_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 845
+        width: 77
+        height: 173
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c293a56b2cde0c49b0ed6284bd9affe
+      internalID: 1656995394431113630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_attack_1
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 845
+        width: 83
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3202be18cab701949948bb567f9b66be
+      internalID: -4717388049170374112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_attack_2
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 845
+        width: 100
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581729821473100419203b7a0f891025
+      internalID: 1768302136127255180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_attack_3
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 845
+        width: 101
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e9ab87b1b4e184799ab4991892240c
+      internalID: 3818507229005465602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_attack_4
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 845
+        width: 100
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c866f02a7919114ba4c6059dd25c5a0
+      internalID: 8828418769401042163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_attack_5
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 845
+        width: 106
+        height: 178
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649950750aaee154d9266d94877d6193
+      internalID: 503616455892512239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_attack_6
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 661
+        width: 113
+        height: 165
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee35bce6d0e837b4e9fb1df56bbc4747
+      internalID: -3291433424098445329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_attack_7
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 661
+        width: 126
+        height: 157
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c5dc9a4436bb74db520d4b19c2835f
+      internalID: 9166815959707739436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_attack_8
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 661
+        width: 78
+        height: 161
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b622427562ae2449b174f51f4b067a3
+      internalID: -5769217299402878319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_attack_9
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 661
+        width: 76
+        height: 163
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0be7be1fd8017a498a20c9f50a37000
+      internalID: -1290249915033741047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_attack_10
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 661
+        width: 76
+        height: 165
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2556dcafcd8cc7e4d8d73bc638a0d961
+      internalID: 7337878901875656296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_attack_11
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 661
+        width: 75
+        height: 168
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ce82d6d2b8a5a40b3ac15d0b03062a
+      internalID: 7315398579681715414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_attack_12
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 477
+        width: 77
+        height: 171
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6341417ca939b1c46a773e2c1e1c2b03
+      internalID: -2033844059503902643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 6452d01a995ec5344a184c31caa5248d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

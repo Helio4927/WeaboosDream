@@ -295,7 +295,7 @@ GameObject:
   - component: {fileID: 5780021205775707767}
   m_Layer: 0
   m_Name: MissNassty
-  m_TagString: Player
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -448,7 +448,7 @@ MonoBehaviour:
   minTimeToChangeState: 1
   maxTimeToChangeState: 3
   distanceToDetection: 0.5
-  distanceToAttack: 0.2
+  distanceToAttack: 0.001
   speed: 2
 --- !u!1 &5780129927601413734
 GameObject:

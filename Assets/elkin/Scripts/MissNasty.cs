@@ -2,7 +2,7 @@
 using UnityEngine;
 using UnityEngine.AI;
 
-public class MissNasty : MonoBehaviour
+public class MissNasty : AnimEvents
 {
     public float minTimeToChangeState;
     public float maxTimeToChangeState;
@@ -17,6 +17,7 @@ public class MissNasty : MonoBehaviour
     private float _time;
     private float _timeToChangeState;
     private Player _player;
+    protected bool _isRight = false;
 
     public enum State
     {
@@ -69,7 +70,8 @@ public class MissNasty : MonoBehaviour
 
     void Update()
     {
-        CheckStateMachine();        
+        CheckStateMachine();
+        SetFlip(transform.position.x < _player.transform.position.x);
     }
 
     private void CheckStateMachine()
@@ -91,21 +93,29 @@ public class MissNasty : MonoBehaviour
                     if (CalculateDistance(_player.gameObject, gameObject) > distanceToDetection)
                     {
                         _agent.SetDestination(_player.transform.position);
+                        _agent.isStopped = false;
                         SetNewState(State.FOLLOW);
+                        _anim.Play("walk", 0, 0);
                     }
                 }
             break;
 
             case State.FOLLOW:
                 
-                if (CalculateDistance(_player.gameObject, gameObject) > distanceToAttack && CanNextState(_state, State.ATTACK))
+                if (CalculateDistance(_player.gameObject, gameObject) < distanceToAttack && CanNextState(_state, State.ATTACK))
                 {
-                    _agent.isStopped = true;
+                    _agent.isStopped = true;                   
                     SetNewState(State.ATTACK);
+                    _anim.Play("attack", 0, 0);                    
                 }
             break;
 
         }
+    }
+
+    public override void HacerDano()
+    {        
+         _player.ShowDamage(this);        
     }
 
     private float CalculateDistance(GameObject target, GameObject destination)
@@ -115,8 +125,27 @@ public class MissNasty : MonoBehaviour
         return distance;
     }
 
-    public void OnCompletedAnimation()
+    public override void OnAnimationCompleted(string animName)
     {
+        switch(_state)
+        {
+            case State.ATTACK:
+                SetNewState(State.IDLE);
+            break;
+        }
 
+    }
+
+    private void SetFlip(bool isRight)
+    {
+        _isRight = isRight;
+        if (_isRight)
+        {
+            transform.localScale = new Vector3(-1, 1, 1);
+        }
+        else
+        {
+            transform.localScale = Vector3.one;
+        }
     }
 }

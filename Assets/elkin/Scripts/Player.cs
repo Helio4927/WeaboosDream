@@ -95,6 +95,24 @@ public class Player : AnimEvents
         }
     }
 
+    public void ShowDamage(MissNasty boss)
+    {
+        var life = GetComponent<LifeBar>();
+        if (!life.IsAlive) return;
+
+        if (_isAlive)
+        {
+            _isDamaged = true;
+            _anim.Play("Damage", 0, 0);
+
+            //ResetAnim();
+        }
+        else
+        {
+
+        }
+    }
+
     public void ShowDamage(Enemy currentAttackingEnemy)
     {
         _isBlocked = false;

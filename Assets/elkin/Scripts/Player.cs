@@ -100,16 +100,20 @@ public class Player : AnimEvents
         var life = GetComponent<LifeBar>();
         if (!life.IsAlive) return;
 
+        _isAlive = life.UpdateHp(1);
+
         if (_isAlive)
         {
             _isDamaged = true;
             _anim.Play("Damage", 0, 0);
-
+            
+            soundManager.PlayRandomGemidoWeeb();
             //ResetAnim();
         }
         else
         {
-
+            soundManager.PlaySound(8);
+            _anim.Play("animMuerte");
         }
     }
 
@@ -395,7 +399,15 @@ public class Player : AnimEvents
                         var partName = hit.collider.name.Substring(0, 1).ToUpper();
                         //Debug.Log("Part: " +partName);
                         var comp = hit.collider.GetComponentInParent<Enemy>();
-                        if (comp) Hit(comp, partName);
+                        if (comp)
+                        {
+                            Hit(comp, partName);
+                        }
+                        else
+                        {
+                            var compMiss = hit.collider.GetComponentInParent<MissNasty>();
+                            if (compMiss) Hit(compMiss, partName);
+                        }
                     }           
                 }
             }
@@ -441,6 +453,25 @@ public class Player : AnimEvents
             ResetAnim();
         }           
        
+    }
+
+    public void Hit(MissNasty enemy, string inicial) //HE COMENTADO EL PRIMER FOREACH PORQUE NO HACÍA NADA MÁS QUE UN PRINT
+    {
+        var dist = Vector3.Distance(enemy.transform.position, transform.position);
+        if (dist > _maxDistance) return;
+
+        string animName = _actualAnim + inicial + _contador;
+        _actualAnim = inicial + _contador;
+
+        if (!_isAttacking)
+        {
+            Debug.Log("Atacando");
+            AtaqueNormal(animName);
+        }
+        else
+        {
+            _actions.Enqueue(new AnimStruct(animName, _currentEnemy));
+        }
     }
 
     public void Hit(Enemy enemy, string inicial) //HE COMENTADO EL PRIMER FOREACH PORQUE NO HACÍA NADA MÁS QUE UN PRINT

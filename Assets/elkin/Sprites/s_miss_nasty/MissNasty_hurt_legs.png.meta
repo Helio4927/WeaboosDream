@@ -1,46 +1,34 @@
 fileFormatVersion: 2
-guid: 542cba2f72011cc41aa6432ce92fd1cc
+guid: 77cffea9115f769458100d5e39fe3a13
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1656995394431113630
-    second: MissNasty_attack_0
+      213: 8735158685403507106
+    second: MissNasty_golpe_cabeza_0
   - first:
-      213: -4717388049170374112
-    second: MissNasty_attack_1
+      213: -6506856174570209127
+    second: MissNasty_golpe_cabeza_1
   - first:
-      213: 1768302136127255180
-    second: MissNasty_attack_2
+      213: -6169743560450802091
+    second: MissNasty_golpe_cabeza_2
   - first:
-      213: 3818507229005465602
-    second: MissNasty_attack_3
+      213: -2440326821284065495
+    second: MissNasty_golpe_cabeza_3
   - first:
-      213: 8828418769401042163
-    second: MissNasty_attack_4
+      213: 3769735436689721732
+    second: MissNasty_golpe_cabeza_4
   - first:
-      213: 503616455892512239
-    second: MissNasty_attack_5
+      213: 5944713146121525410
+    second: MissNasty_golpe_cabeza_5
   - first:
-      213: -3291433424098445329
-    second: MissNasty_attack_6
+      213: 2262168957577373359
+    second: MissNasty_golpe_cabeza_6
   - first:
-      213: 9166815959707739436
-    second: MissNasty_attack_7
+      213: 5314151780434889638
+    second: MissNasty_golpe_cabeza_7
   - first:
-      213: -5769217299402878319
-    second: MissNasty_attack_8
-  - first:
-      213: -1290249915033741047
-    second: MissNasty_attack_9
-  - first:
-      213: 7337878901875656296
-    second: MissNasty_attack_10
-  - first:
-      213: 7315398579681715414
-    second: MissNasty_attack_11
-  - first:
-      213: -2033844059503902643
-    second: MissNasty_attack_12
+      213: -6253674321347509037
+    second: MissNasty_golpe_cabeza_8
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -70,8 +58,8 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
-    aniso: 1
+    filterMode: -1
+    aniso: -1
     mipBias: -100
     wrapU: 1
     wrapV: 1
@@ -125,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: MissNasty_attack_0
+      name: MissNasty_golpe_cabeza_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 844
-        width: 162
-        height: 180
+        y: 338
+        width: 156
+        height: 174
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -139,20 +127,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a501676c43c4e4a47b9948af4d404fdd
-      internalID: 1656995394431113630
+      spriteID: 1fcd2d717fd310d49af17c01734af1b7
+      internalID: 8735158685403507106
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MissNasty_attack_1
+      name: MissNasty_golpe_cabeza_1
       rect:
         serializedVersion: 2
-        x: 162
-        y: 844
-        width: 162
-        height: 180
+        x: 156
+        y: 338
+        width: 156
+        height: 174
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -160,20 +148,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 300fc2e494e96d04db4911a89d3d4b53
-      internalID: -4717388049170374112
+      spriteID: 195299d57e55a994aa4dd6c508f5b72e
+      internalID: -6506856174570209127
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MissNasty_attack_2
+      name: MissNasty_golpe_cabeza_2
       rect:
         serializedVersion: 2
-        x: 324
-        y: 844
-        width: 162
-        height: 180
+        x: 312
+        y: 338
+        width: 156
+        height: 174
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -181,20 +169,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ba5256e7062cadf4daeec3471633c3b8
-      internalID: 1768302136127255180
+      spriteID: c4f41032c7da22c43b5b58d0457f3e23
+      internalID: -6169743560450802091
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MissNasty_attack_3
+      name: MissNasty_golpe_cabeza_3
       rect:
         serializedVersion: 2
-        x: 486
-        y: 844
-        width: 162
-        height: 180
+        x: 468
+        y: 338
+        width: 156
+        height: 174
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -202,20 +190,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4e8f8d7acb2d7d747bc90d0a39a9b8a7
-      internalID: 3818507229005465602
+      spriteID: b03c49428423f35469bcee49bf3632b8
+      internalID: -2440326821284065495
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MissNasty_attack_4
+      name: MissNasty_golpe_cabeza_4
       rect:
         serializedVersion: 2
-        x: 648
-        y: 844
-        width: 162
-        height: 180
+        x: 624
+        y: 338
+        width: 156
+        height: 174
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -223,20 +211,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ece7a7b5b60246e4c855dd6cf863636b
-      internalID: 8828418769401042163
+      spriteID: 4dc03ca77df504c42afdc288fc69461c
+      internalID: 3769735436689721732
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MissNasty_attack_5
+      name: MissNasty_golpe_cabeza_5
       rect:
         serializedVersion: 2
-        x: 810
-        y: 844
-        width: 162
-        height: 180
+        x: 780
+        y: 338
+        width: 156
+        height: 174
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -244,146 +232,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b0d66ec86e9ed5142bd4065c11bb6baf
-      internalID: 503616455892512239
+      spriteID: 6e74e11837235d84d80266c0220112aa
+      internalID: 5944713146121525410
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MissNasty_attack_6
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 664
-        width: 162
-        height: 180
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c426c4400a2e05b4694ea846f794cfc6
-      internalID: -3291433424098445329
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MissNasty_attack_7
-      rect:
-        serializedVersion: 2
-        x: 162
-        y: 664
-        width: 162
-        height: 180
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4016f293b2343e247992109b9107fbbb
-      internalID: 9166815959707739436
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MissNasty_attack_8
-      rect:
-        serializedVersion: 2
-        x: 324
-        y: 664
-        width: 162
-        height: 180
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d360488a2a585be4b8a2e600b7486e80
-      internalID: -5769217299402878319
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MissNasty_attack_9
-      rect:
-        serializedVersion: 2
-        x: 486
-        y: 664
-        width: 162
-        height: 180
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0f7277665991cdb40a9bb98cd7ab089a
-      internalID: -1290249915033741047
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MissNasty_attack_10
-      rect:
-        serializedVersion: 2
-        x: 648
-        y: 664
-        width: 162
-        height: 180
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f79548341d7cd8c45894d75f7dcbd78c
-      internalID: 7337878901875656296
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MissNasty_attack_11
-      rect:
-        serializedVersion: 2
-        x: 810
-        y: 664
-        width: 162
-        height: 180
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d81d7af64e027d043b1df61400f7af18
-      internalID: 7315398579681715414
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MissNasty_attack_12
+      name: MissNasty_golpe_cabeza_6
       rect:
         serializedVersion: 2
         x: 0
-        y: 484
-        width: 162
-        height: 180
+        y: 164
+        width: 156
+        height: 174
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -391,8 +253,50 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 60d9a63d09e3ed24993b40e797364b1a
-      internalID: -2033844059503902643
+      spriteID: 5c642a27c55ac5341b0bf9228c993d2b
+      internalID: 2262168957577373359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_golpe_cabeza_7
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 164
+        width: 156
+        height: 174
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21ff55bd4b79094ebf810a41b5f7ba4
+      internalID: 5314151780434889638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_golpe_cabeza_8
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 164
+        width: 156
+        height: 174
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04fe4fc2c733a9a49ae327eed29d496c
+      internalID: -6253674321347509037
       vertices: []
       indices: 
       edges: []
@@ -400,7 +304,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 6452d01a995ec5344a184c31caa5248d
+    spriteID: 8f0f7e41b0093f84598a7fdcad23cf4e
     internalID: 0
     vertices: []
     indices: 

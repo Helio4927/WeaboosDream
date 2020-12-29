@@ -51,50 +51,51 @@ public class InfoExam : MonoBehaviour {
     {
         if (!FindObjectOfType<GameManager>().interacionBloqueada)
         {
-        puedeExaminar = true;
-        foreach (Transform tempTransform in currentEscenario.transform)
-        {
-            if (tempTransform.tag.Equals("Enemy"))
+            puedeExaminar = true;
+            foreach (Transform tempTransform in currentEscenario.transform)
             {
-                puedeExaminar = false;
+                if (tempTransform.tag.Equals("Enemy"))
+                {
+                    puedeExaminar = false;
+                    break;
+                }
+
             }
 
-        }
-
-        if (puedeExaminar)
-        {
-            FindObjectOfType<GameManager>()._panelOpen = true;
-            if (ejecutaEspecial)
+            if (puedeExaminar)
             {
-                    if (this.gameObject.name.Contains("AreaInteracion02 PuertaNegra") && FindObjectOfType<GameManager>().usandoRombo)
-                    {
-                        this.gameObject.GetComponent<InfoExam>().ejecutaEspecial = true;
-                        this.gameObject.GetComponent<InfoExam>().idExaminar = 12;
-                        StartCoroutine(FindObjectOfType<CambioDeZona>().CambioDeNivel(19, GameObject.Find("PosicionEntradaAlcantarilla1").transform, true));
-                        gameManager._panelOpen = false;
-                        gameManager.romboColocado.SetActive(true);
-                        FindObjectOfType<ManagerSoundtrack>().PlaySoundtrackSong(1);
-                        FindObjectOfType<SoundManager>().PlaySound(6);
-                        managerInventario.GetComponent<inventoryManager>().RemoveItemManual(2);
-                    }
-                    else
-                    {
-                        EjecutarExamEspecial(idExaminar);
-                    }
+                FindObjectOfType<GameManager>()._panelOpen = true;
+                if (ejecutaEspecial)
+                {
+                        if (this.gameObject.name.Contains("AreaInteracion02 PuertaNegra") && FindObjectOfType<GameManager>().usandoRombo)
+                        {
+                            this.gameObject.GetComponent<InfoExam>().ejecutaEspecial = true;
+                            this.gameObject.GetComponent<InfoExam>().idExaminar = 12;
+                            StartCoroutine(FindObjectOfType<CambioDeZona>().CambioDeNivel(19, GameObject.Find("PosicionEntradaAlcantarilla1").transform, true));
+                            gameManager._panelOpen = false;
+                            gameManager.romboColocado.SetActive(true);
+                            FindObjectOfType<ManagerSoundtrack>().PlaySoundtrackSong(1);
+                            FindObjectOfType<SoundManager>().PlaySound(6);
+                            managerInventario.GetComponent<inventoryManager>().RemoveItemManual(2);
+                        }
+                        else
+                        {
+                            EjecutarExamEspecial(idExaminar);
+                        }
                  
 
-            }
-            else
-            {
+                }
+                else
+                {
                 
-                    EjecutarExamSimple();
-                    botonSi.SetActive(false);
-                    botonNo.SetActive(false);
-                    botonCerrar.SetActive(true);
+                        EjecutarExamSimple();
+                        botonSi.SetActive(false);
+                        botonNo.SetActive(false);
+                        botonCerrar.SetActive(true);
 
+                }
+                FindObjectOfType<CursorManager>().QuitarTodasLasVariablesDeUsar();
             }
-            FindObjectOfType<CursorManager>().QuitarTodasLasVariablesDeUsar();
-        }
         }
     }
 

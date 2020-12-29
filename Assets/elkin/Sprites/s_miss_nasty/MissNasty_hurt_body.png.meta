@@ -1,46 +1,46 @@
 fileFormatVersion: 2
-guid: 542cba2f72011cc41aa6432ce92fd1cc
+guid: e0624aa3cc41bd847b3a24cbd18ad08e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1656995394431113630
-    second: MissNasty_attack_0
+      213: -4376352880516604550
+    second: MissNasty_hurt_0
   - first:
-      213: -4717388049170374112
-    second: MissNasty_attack_1
+      213: 7191278304640897666
+    second: MissNasty_hurt_1
   - first:
-      213: 1768302136127255180
-    second: MissNasty_attack_2
+      213: 4240786369357050093
+    second: MissNasty_hurt_2
   - first:
-      213: 3818507229005465602
-    second: MissNasty_attack_3
+      213: 3390545558558957866
+    second: MissNasty_hurt_3
   - first:
-      213: 8828418769401042163
-    second: MissNasty_attack_4
+      213: 8368449940368510418
+    second: MissNasty_hurt_4
   - first:
-      213: 503616455892512239
-    second: MissNasty_attack_5
+      213: -7305930545673340928
+    second: MissNasty_hurt_5
   - first:
-      213: -3291433424098445329
-    second: MissNasty_attack_6
+      213: 7421046938845523881
+    second: MissNasty_hurt_6
   - first:
-      213: 9166815959707739436
-    second: MissNasty_attack_7
+      213: 4376105784240944738
+    second: MissNasty_hurt_7
   - first:
-      213: -5769217299402878319
-    second: MissNasty_attack_8
+      213: -1354823293876033207
+    second: MissNasty_hurt_8
   - first:
-      213: -1290249915033741047
-    second: MissNasty_attack_9
+      213: -8818708866463516976
+    second: MissNasty_hurt_9
   - first:
-      213: 7337878901875656296
-    second: MissNasty_attack_10
+      213: 5989160984822972400
+    second: MissNasty_hurt_10
   - first:
-      213: 7315398579681715414
-    second: MissNasty_attack_11
+      213: 2324306282715972057
+    second: MissNasty_hurt_11
   - first:
-      213: -2033844059503902643
-    second: MissNasty_attack_12
+      213: -9113882112755041464
+    second: MissNasty_hurt_12
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -70,8 +70,8 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
-    aniso: 1
+    filterMode: -1
+    aniso: -1
     mipBias: -100
     wrapU: 1
     wrapV: 1
@@ -125,7 +125,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: MissNasty_attack_0
+      name: MissNasty_hurt_0
       rect:
         serializedVersion: 2
         x: 0
@@ -139,14 +139,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a501676c43c4e4a47b9948af4d404fdd
-      internalID: 1656995394431113630
+      spriteID: bffdbbe699a0e8442aa8909e1f03de04
+      internalID: -4376352880516604550
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MissNasty_attack_1
+      name: MissNasty_hurt_1
       rect:
         serializedVersion: 2
         x: 162
@@ -160,14 +160,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 300fc2e494e96d04db4911a89d3d4b53
-      internalID: -4717388049170374112
+      spriteID: 137c0ca2484660643b9ddab73e0f82f4
+      internalID: 7191278304640897666
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MissNasty_attack_2
+      name: MissNasty_hurt_2
       rect:
         serializedVersion: 2
         x: 324
@@ -181,14 +181,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ba5256e7062cadf4daeec3471633c3b8
-      internalID: 1768302136127255180
+      spriteID: ef5653285ca118c4698f9649dcb70dff
+      internalID: 4240786369357050093
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MissNasty_attack_3
+      name: MissNasty_hurt_3
       rect:
         serializedVersion: 2
         x: 486
@@ -202,14 +202,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4e8f8d7acb2d7d747bc90d0a39a9b8a7
-      internalID: 3818507229005465602
+      spriteID: 2fa2d956d3e30b64298554acde75b4b5
+      internalID: 3390545558558957866
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MissNasty_attack_4
+      name: MissNasty_hurt_4
       rect:
         serializedVersion: 2
         x: 648
@@ -223,14 +223,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ece7a7b5b60246e4c855dd6cf863636b
-      internalID: 8828418769401042163
+      spriteID: a24f97d9876baa64b9e031cb1121d052
+      internalID: 8368449940368510418
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MissNasty_attack_5
+      name: MissNasty_hurt_5
       rect:
         serializedVersion: 2
         x: 810
@@ -244,14 +244,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b0d66ec86e9ed5142bd4065c11bb6baf
-      internalID: 503616455892512239
+      spriteID: cfed32ab153db1445963e82a0bf90ff8
+      internalID: -7305930545673340928
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MissNasty_attack_6
+      name: MissNasty_hurt_6
       rect:
         serializedVersion: 2
         x: 0
@@ -265,14 +265,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c426c4400a2e05b4694ea846f794cfc6
-      internalID: -3291433424098445329
+      spriteID: fbff31fa66d3f8e43978e0c2f83b7ee4
+      internalID: 7421046938845523881
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MissNasty_attack_7
+      name: MissNasty_hurt_7
       rect:
         serializedVersion: 2
         x: 162
@@ -286,14 +286,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4016f293b2343e247992109b9107fbbb
-      internalID: 9166815959707739436
+      spriteID: 2de0879c5bd41e04ca1d829b7a128af8
+      internalID: 4376105784240944738
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MissNasty_attack_8
+      name: MissNasty_hurt_8
       rect:
         serializedVersion: 2
         x: 324
@@ -307,14 +307,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d360488a2a585be4b8a2e600b7486e80
-      internalID: -5769217299402878319
+      spriteID: be5adcea6cc03094b86d072797a08b48
+      internalID: -1354823293876033207
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MissNasty_attack_9
+      name: MissNasty_hurt_9
       rect:
         serializedVersion: 2
         x: 486
@@ -328,14 +328,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0f7277665991cdb40a9bb98cd7ab089a
-      internalID: -1290249915033741047
+      spriteID: fbe13cec70ab2314f981eb04f442fab9
+      internalID: -8818708866463516976
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MissNasty_attack_10
+      name: MissNasty_hurt_10
       rect:
         serializedVersion: 2
         x: 648
@@ -349,14 +349,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f79548341d7cd8c45894d75f7dcbd78c
-      internalID: 7337878901875656296
+      spriteID: c4ce0db220585a04f8c36de70f4e85fe
+      internalID: 5989160984822972400
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MissNasty_attack_11
+      name: MissNasty_hurt_11
       rect:
         serializedVersion: 2
         x: 810
@@ -370,14 +370,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d81d7af64e027d043b1df61400f7af18
-      internalID: 7315398579681715414
+      spriteID: 91802de56e052d74e8193b4f2891b6ad
+      internalID: 2324306282715972057
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MissNasty_attack_12
+      name: MissNasty_hurt_12
       rect:
         serializedVersion: 2
         x: 0
@@ -391,8 +391,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 60d9a63d09e3ed24993b40e797364b1a
-      internalID: -2033844059503902643
+      spriteID: 672e8223c30871e40a92d3edfe8652e3
+      internalID: -9113882112755041464
       vertices: []
       indices: 
       edges: []
@@ -400,7 +400,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 6452d01a995ec5344a184c31caa5248d
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 

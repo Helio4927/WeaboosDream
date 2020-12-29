@@ -2,47 +2,49 @@
 using UnityEngine;
 using UnityEngine.AI;
 
-public class MissNasty : AnimEvents
+public class MissNasty : Enemy
 {
     public float minTimeToChangeState;
     public float maxTimeToChangeState;
     public float distanceToDetection;
-    public float distanceToAttack;
-    public float speed = 0.05f;
+    //public float distanceToAttack;
+    //public float speed = 0.05f;
 
-    private State _state = State.IDLE;
-    private Animator _anim;
+    private State _currentState = State.IDLE;
+    //private Animator _anim;
     private SoundManager _soundManager;
-    private NavMeshAgent _agent;
-    private float _time;
-    private float _timeToChangeState;
-    private Player _player;
+    //private NavMeshAgent _agent;
+    //private float _time;
+    //private float _timeToChangeState;
+    //private Player _player;
     protected bool _isRight = false;
 
-    public enum State
+    /*public enum State
     {
         IDLE, FOLLOW, ATTACK
-    }
+    }*/
 
 
-    private void Start()
+    public override void Start()
     {
-        _state = State.IDLE;
+        _currentState = State.IDLE;
         _player = FindObjectOfType<Player>();
         _agent = GetComponent<NavMeshAgent>();
         _soundManager = FindObjectOfType<SoundManager>();        
         _anim = GetComponentInChildren<Animator>();
+        _lifeBar = GetComponent<LifeBar>();
         _agent.speed = speed;
 
-        CalculateTimeNextState();
+        //CalculateTimeNextState();
+        //SetNewState(State.FOLLOW);
     }
 
     private void CalculateTimeNextState()
     {
-        _timeToChangeState = Random.Range(minTimeToChangeState, maxTimeToChangeState);
+        //_timeToChangeState = Random.Range(minTimeToChangeState, maxTimeToChangeState);
     }
     
-    private bool CanNextState(State prevState, State nextState)
+    protected override bool CanSetNextState(State prevState, State nextState)
     {
         switch(prevState)
         {
@@ -51,7 +53,7 @@ public class MissNasty : AnimEvents
                 return false;
 
             case State.IDLE:
-                if (nextState == State.FOLLOW) return true;
+                if (nextState == State.FOLLOW || nextState == State.HURT) return true;
                 return false;
 
             case State.ATTACK:
@@ -65,13 +67,41 @@ public class MissNasty : AnimEvents
 
     private void SetNewState(State newState)
     {
-        _state = newState;
+        _currentState = newState;
     }
 
-    void Update()
+    public override void Update()
     {
         CheckStateMachine();
         SetFlip(transform.position.x < _player.transform.position.x);
+    }
+
+    public override void ShowHitAnim(string animName)
+    {
+
+        if (_isAlive)
+        {
+            var damage = GetDamageValue(animName);
+            _isAlive = _lifeBar.UpdateHp(damage);
+            Debug.Log("Alive: " + _isAlive);
+            Debug.Log("Damage: " + damage);
+
+            if (_isAlive)
+            {
+                if (CanSetNextState(base._currentState, State.HURT))
+                {
+                    SetNewState(State.HURT);
+                    parts.gameObject.SetActive(_isAlive);
+                    CancelInvoke("RemoveTarget");
+                    CancelInvoke("Attack");
+                    _anim.Play("miss_nasty_hurt_legs", 0, 0);
+                    _agent.isStopped = true;
+                    //Invoke("LlamarFollowDespuesDeHurt", contadorPostRecibirAtaque);
+                }
+            }
+            
+        }
+       
     }
 
     private void CheckStateMachine()
@@ -81,32 +111,37 @@ public class MissNasty : AnimEvents
             _player = FindObjectOfType<Player>();
         }
 
-        switch (_state)
+        switch (_currentState)
         {
             case State.IDLE:
-                _time += Time.deltaTime;
-                if(_time > _timeToChangeState)
-                {
-                    if (!CanNextState(_state, State.FOLLOW)) return;
+               
+                if (!CanSetNextState(_currentState, State.FOLLOW)) return;
 
                     
-                    if (CalculateDistance(_player.gameObject, gameObject) > distanceToDetection)
-                    {
-                        _agent.SetDestination(_player.transform.position);
-                        _agent.isStopped = false;
-                        SetNewState(State.FOLLOW);
-                        _anim.Play("walk", 0, 0);
-                    }
-                }
+                /*if (CalculateDistance(_player.gameObject, gameObject) > distanceToDetection)
+                {
+                    _agent.SetDestination(_player.transform.position);
+                    _agent.isStopped = false;
+                    SetNewState(State.FOLLOW);
+                    _anim.Play("walk", 0, 0);
+                }*/
+              
             break;
 
             case State.FOLLOW:
                 
-                if (CalculateDistance(_player.gameObject, gameObject) < distanceToAttack && CanNextState(_state, State.ATTACK))
+                if (_player.IsAlive)                    
                 {
-                    _agent.isStopped = true;                   
-                    SetNewState(State.ATTACK);
-                    _anim.Play("attack", 0, 0);                    
+                    if(CalculateDistance(_player.gameObject, gameObject) < distanceToAttack && CanSetNextState(_currentState, State.ATTACK))
+                    {
+                        _agent.isStopped = true;
+                        SetNewState(State.ATTACK);
+                        _anim.Play("attack", 0, 0);
+                    }
+                }
+                else
+                {
+                    SetNewState(State.IDLE);
                 }
             break;
 
@@ -127,11 +162,13 @@ public class MissNasty : AnimEvents
 
     public override void OnAnimationCompleted(string animName)
     {
-        switch(_state)
+        switch(_currentState)
         {
             case State.ATTACK:
+            case State.HURT:                
                 SetNewState(State.IDLE);
             break;
+            
         }
 
     }

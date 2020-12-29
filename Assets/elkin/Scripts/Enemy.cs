@@ -51,7 +51,7 @@ public class Enemy : AnimEvents {
         ProccessOnceState();
     }
 
-    private int GetDamageValue(string animName)
+    protected int GetDamageValue(string animName)
     {
         var letra = animName[animName.Length - 2];
         Debug.Log("letra: "+letra);
@@ -69,7 +69,7 @@ public class Enemy : AnimEvents {
         }
     }
 
-    public void ShowHitAnim(string animName) {
+    public virtual void ShowHitAnim(string animName) {
         if (animName.Equals("Fatality001"))
         {
             _isAlive = _lifeBar.UpdateHp(100);
@@ -218,7 +218,7 @@ public class Enemy : AnimEvents {
         }
     }
 
-    void Update()
+    public virtual void Update()
     {
         if (!_player.IsAlive) return;
 

@@ -10,7 +10,7 @@ public class MissNasty : Enemy
     //public float distanceToAttack;
     //public float speed = 0.05f;
 
-    private State _currentState = State.IDLE;
+    //private State _currentState = State.IDLE;
     //private Animator _anim;
     private SoundManager _soundManager;
     //private NavMeshAgent _agent;
@@ -49,15 +49,35 @@ public class MissNasty : Enemy
         switch(prevState)
         {
             case State.FOLLOW:
-                if (nextState == State.IDLE || nextState == State.ATTACK) return true;
+                if (nextState == State.IDLE || nextState == State.ATTACK)
+                {
+                    _currentState = nextState;
+                    return true;
+                }
                 return false;
 
             case State.IDLE:
-                if (nextState == State.FOLLOW || nextState == State.HURT) return true;
+                if (nextState == State.FOLLOW || nextState == State.HURT || nextState == State.BLOCK)
+                {
+                    _currentState = nextState;
+                    return true;
+                }
                 return false;
 
             case State.ATTACK:
-                if (nextState == State.IDLE) return true;
+                if (nextState == State.IDLE)
+                {
+                    _currentState = nextState;
+                    return true;
+                }
+                return false;
+
+            case State.BLOCK:
+                if (nextState == State.IDLE)
+                {
+                    _currentState = nextState;
+                    return true;
+                }
                 return false;
 
             default:
@@ -86,11 +106,19 @@ public class MissNasty : Enemy
             Debug.Log("Alive: " + _isAlive);
             Debug.Log("Damage: " + damage);
 
+            
             if (_isAlive)
             {
-                if (CanSetNextState(base._currentState, State.HURT))
+                if(animName[0]=='P' && CanSetNextState(_currentState, State.BLOCK))
                 {
-                    SetNewState(State.HURT);
+                    _player.RecibirBloqueo();
+                    _anim.Play("miss_nasty_hurt_body", 0, 0);                    
+                    _agent.isStopped = true;
+                    return;
+                }
+
+                if (CanSetNextState(_currentState, State.HURT))
+                {                    
                     parts.gameObject.SetActive(_isAlive);
                     CancelInvoke("RemoveTarget");
                     CancelInvoke("Attack");
@@ -115,7 +143,7 @@ public class MissNasty : Enemy
         {
             case State.IDLE:
                
-                if (!CanSetNextState(_currentState, State.FOLLOW)) return;
+                //if (!CanSetNextState(_currentState, State.FOLLOW)) return;
 
                     
                 /*if (CalculateDistance(_player.gameObject, gameObject) > distanceToDetection)
@@ -165,10 +193,10 @@ public class MissNasty : Enemy
         switch(_currentState)
         {
             case State.ATTACK:
-            case State.HURT:                
+            case State.HURT:
+            case State.BLOCK:
                 SetNewState(State.IDLE);
             break;
-            
         }
 
     }

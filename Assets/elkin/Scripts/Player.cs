@@ -455,7 +455,7 @@ public class Player : AnimEvents
        
     }
 
-    public void Hit(MissNasty enemy, string inicial) //HE COMENTADO EL PRIMER FOREACH PORQUE NO HACÍA NADA MÁS QUE UN PRINT
+    public void Hit(MissNasty enemy, string inicial) 
     {
         var dist = Vector3.Distance(enemy.transform.position, transform.position);
         if (dist > _maxDistance) return;

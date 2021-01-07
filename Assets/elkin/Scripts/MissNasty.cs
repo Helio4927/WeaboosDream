@@ -6,23 +6,9 @@ public class MissNasty : Enemy
 {
     public float minTimeToChangeState;
     public float maxTimeToChangeState;
-    public float distanceToDetection;
-    //public float distanceToAttack;
-    //public float speed = 0.05f;
-
-    //private State _currentState = State.IDLE;
-    //private Animator _anim;
+    public float distanceToDetection; 
     private SoundManager _soundManager;
-    //private NavMeshAgent _agent;
-    //private float _time;
-    //private float _timeToChangeState;
-    //private Player _player;
-    protected bool _isRight = false;
-
-    /*public enum State
-    {
-        IDLE, FOLLOW, ATTACK
-    }*/
+    protected bool _isRight = false;  
 
 
     public override void Start()
@@ -57,7 +43,7 @@ public class MissNasty : Enemy
                 return false;
 
             case State.IDLE:
-                if (nextState == State.FOLLOW || nextState == State.HURT || nextState == State.BLOCK)
+                if (nextState == State.FOLLOW || nextState == State.HURT || nextState == State.BLOCK || nextState == State.IN_QTE)
                 {
                     _currentState = nextState;
                     return true;
@@ -111,25 +97,72 @@ public class MissNasty : Enemy
             {
                 if(animName[0]=='P' && CanSetNextState(_currentState, State.BLOCK))
                 {
-                    _player.RecibirBloqueo();
-                    _anim.Play("miss_nasty_hurt_body", 0, 0);                    
-                    _agent.isStopped = true;
-                    return;
-                }
-
-                if (CanSetNextState(_currentState, State.HURT))
-                {                    
                     parts.gameObject.SetActive(_isAlive);
                     CancelInvoke("RemoveTarget");
                     CancelInvoke("Attack");
+                    
                     _anim.Play("miss_nasty_hurt_legs", 0, 0);
                     _agent.isStopped = true;
-                    //Invoke("LlamarFollowDespuesDeHurt", contadorPostRecibirAtaque);
+                    soyVulnerable = true;
+
+                    
+                    CancelInvoke("QuitarVulnerable");
+                    Invoke("QuitarVulnerable", 3);
+                    return;
+                }
+
+                if (animName[0] == 'T' && CanSetNextState(_currentState, State.HURT))
+                {
+                    _player.RecibirBloqueo();
+                    _anim.Play("miss_nasty_hurt_body", 0, 0);
+                    _agent.isStopped = true;
+                    return;
+                    
+                }
+
+                if (animName[0] == 'C')
+                {
+                    if(soyVulnerable)
+                    {
+                        //cae al suelo
+                        //inicia qte
+                        StartingQTE();
+                        SetNewState(State.IN_QTE);
+                        GetComponent<QTE>().Init(QTEFinished);                       
+                        
+                        //Invoke("LlamarFollowDespuesDeHurt", contadorPostRecibirAtaque);
+                        return;
+                    }
+                    else
+                    {
+                        // agarrar al player
+                    }
+                    
                 }
             }
             
         }
        
+    }
+
+    private void StartingQTE()
+    {
+        parts.gameObject.SetActive(false);
+        _anim.Play("miss_nasty_hurt_head", 0, 0);
+        _agent.isStopped = true;
+        //parts.gameObject.SetActive(_isAlive);
+        CancelInvoke("RemoveTarget");
+        CancelInvoke("Attack");
+    }
+
+    private void QTEFinished()
+    {
+        Debug.Log("QTEFinished");
+    }
+
+    private void QuitarVulnerable()
+    {
+        soyVulnerable = false;
     }
 
     private void CheckStateMachine()

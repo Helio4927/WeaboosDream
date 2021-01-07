@@ -27,7 +27,7 @@ public class Enemy : AnimEvents {
     
     public enum State
     {
-        IDLE, FOLLOW, ATTACK, WAIT, HURT, DEATH, BLOCK,BEBLOCKED
+        IDLE, FOLLOW, ATTACK, WAIT, HURT, DEATH, BLOCK,BEBLOCKED, IN_QTE
     }
 
     public virtual void Start()

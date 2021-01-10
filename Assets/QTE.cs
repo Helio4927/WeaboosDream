@@ -5,21 +5,48 @@ using UnityEngine;
 
 public class QTE : MonoBehaviour
 {
-    public int amountAttempts = 2;
-    public int amountClicks = 2;
-    public float intervalTime = 3f;
-    public float duration = 2f;
+    [Header("Tiempo de espera antes de iniciar el QTE")]
+    public float delayToStartSeconds = 3;
 
-    private Action _action;
-    private float currentTime;
-    private float tickQteTime;
-    private State _currentState;
+    [Header("Tiempo para mantener la señal del QTE")]
+    public float showingSeconds = 2;
+
+    [Header("Tiempo para recibir clicks")]
+    public float clickingSeconds = 4;
+
+    [Header("Cantidad de veces que se realiza el QTE")]
+    public int amountAttempts = 2;
+
+    [Header("Cantidad de clicks esperados por intento")]
+    public int amountClicks = 2;
+
+    [Header("Tiempo entre intentos")]
+    public float intervalBetweenAttempt = 3f;   
+    
+    [Header("Imagen que se muestra para avisar que esta apunto de iniciar el QTE")]
+    public Sprite imgNormal;
+
+    [Header("Imagen que se muestra en el momento que se reciben clicks")]
+    public Sprite imgPress;
+
+    [SerializeField]
+    private State _currentState = State.NONE;
+        
+    private Action _action;     
     private int _clickCounter = 0;
+    private float _counterFaseSeconds;
     private int _currentAttempts = 0;
+    private SpriteRenderer _spriteRend;
+
     enum State {
-        WAITING, DOING, FINISHING
+        NONE, WAITING, SHOWING, CLICKING, HIDING, FINISHING
     }
 
+    private void Awake()
+    {
+        gameObject.SetActive(false);
+        _spriteRend = GetComponent<SpriteRenderer>();
+    }
     public void Init(Action action)
     {
         Debug.Log("QTE.Init");
@@ -27,10 +54,13 @@ public class QTE : MonoBehaviour
         _currentState = State.WAITING;
         _clickCounter = 0;
         _currentAttempts = 0;
+        gameObject.SetActive(true);
+        _counterFaseSeconds = 0;
     }
         
     void Update()
     {
+        _counterFaseSeconds += Time.deltaTime;
         ProccessState();        
     }
 
@@ -38,56 +68,83 @@ public class QTE : MonoBehaviour
     {
         switch(_currentState)
         {
+            case State.NONE:
+                break;
+
             case State.WAITING:
                 WaitingFase();
                 break;
 
-            case State.DOING:
-                DoingFase();
+            case State.SHOWING:
+                ShowingFase();
                 break;
+
+            case State.CLICKING:
+                ClickingFase();
+                break;
+
+            case State.HIDING:
+                HidingFase();
+                break;           
 
             case State.FINISHING:
                 FinishingFase();
                 break;
         }
-    }
-
-    private void DoingFase()
-    {        
-        tickQteTime += Time.deltaTime;
-
-        if (Input.GetMouseButton(0))
-        {
-            _clickCounter++;
-        }
-
-        if (tickQteTime > duration)
-        {
-            _currentAttempts++;
-            if(_currentAttempts >= amountAttempts)
-            {
-                _currentState = State.FINISHING;
-            }
-            else
-            {
-                _currentState = State.WAITING;
-            }
-            
-        }        
-    }
+    } 
 
     private void WaitingFase()
-    {       
-        currentTime += Time.deltaTime;
-
-        if (currentTime > intervalTime)
+    { 
+        if (_counterFaseSeconds > delayToStartSeconds)
         {
-            _currentState = State.DOING;
+            _currentState = State.SHOWING;
+            _counterFaseSeconds = 0;
         }        
+    }
+
+    private void ShowingFase()
+    {       
+        _spriteRend.sprite = imgNormal;
+        if (_counterFaseSeconds >= showingSeconds)
+        {
+            _counterFaseSeconds = 0;
+            _currentState = State.CLICKING;
+        }        
+    }
+
+    private void ClickingFase()
+    {
+        if (Input.GetMouseButtonDown(0))
+        {
+            _clickCounter++;
+        } 
+      
+        _spriteRend.sprite = imgPress;
+        if (_counterFaseSeconds >= clickingSeconds)
+        {
+            _currentAttempts++;
+            _counterFaseSeconds = 0;           
+            _currentState = _currentAttempts >= amountAttempts ? State.FINISHING : State.HIDING; 
+        }       
+    }
+
+    private void HidingFase()
+    {
+        _spriteRend.sprite = null;
+      
+        if (_counterFaseSeconds>=intervalBetweenAttempt)
+        {
+            _counterFaseSeconds = 0;
+            _currentState = State.SHOWING;
+        }
     }
 
     private void FinishingFase()
     {
-        _action.Invoke();           
+        Debug.Log("FinishingFase "+ _clickCounter);
+        _action.Invoke();
+        _currentState = State.NONE;
+        _counterFaseSeconds = 0;
+        gameObject.SetActive(false);
     }
 }

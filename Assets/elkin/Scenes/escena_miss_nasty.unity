@@ -34399,25 +34399,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 641947112}
   m_CullTransparentMesh: 0
---- !u!1 &646787083 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 5780021205775707764, guid: 8abe1957c32dd404abdb653e0e9566af,
-    type: 3}
-  m_PrefabInstance: {fileID: 8225846502805683245}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &646787084
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 646787083}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c6a016062a92bb949b7dff454ea9ca50, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  intervalTime: 3
 --- !u!1 &647467088
 GameObject:
   m_ObjectHideFlags: 0
@@ -120023,6 +120004,26 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Color.b
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 950893734767105589, guid: 8abe1957c32dd404abdb653e0e9566af,
+        type: 3}
+      propertyPath: amountAttempts
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 950893734767105589, guid: 8abe1957c32dd404abdb653e0e9566af,
+        type: 3}
+      propertyPath: clickingSeconds
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 950893734767105589, guid: 8abe1957c32dd404abdb653e0e9566af,
+        type: 3}
+      propertyPath: showingSeconds
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 950893734767105589, guid: 8abe1957c32dd404abdb653e0e9566af,
+        type: 3}
+      propertyPath: intervalBetweenAttempt
+      value: 0.2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8abe1957c32dd404abdb653e0e9566af, type: 3}

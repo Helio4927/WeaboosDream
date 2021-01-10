@@ -128,7 +128,7 @@ public class MissNasty : Enemy
                         //inicia qte
                         StartingQTE();
                         SetNewState(State.IN_QTE);
-                        GetComponent<QTE>().Init(QTEFinished);                       
+                        GetComponentInChildren<QTE>(true).Init(QTEFinished);                       
                         
                         //Invoke("LlamarFollowDespuesDeHurt", contadorPostRecibirAtaque);
                         return;

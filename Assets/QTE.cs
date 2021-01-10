@@ -5,6 +5,8 @@ using UnityEngine;
 
 public class QTE : MonoBehaviour
 {
+    
+
     [Header("Tiempo de espera antes de iniciar el QTE")]
     public float delayToStartSeconds = 3;
 
@@ -30,6 +32,9 @@ public class QTE : MonoBehaviour
     public Sprite imgPress;
 
     [SerializeField]
+    private SpriteRenderer _bar;
+
+    [SerializeField]
     private State _currentState = State.NONE;
         
     private Action _action;     
@@ -38,13 +43,21 @@ public class QTE : MonoBehaviour
     private int _currentAttempts = 0;
     private SpriteRenderer _spriteRend;
 
+    public float threshold = 0.2f;
+    public float increment = 0.2f;
+    public float decrement = 0.1f;
+    private float total;
+    private float amount;
+    private float counterThreshold;
+    
     enum State {
         NONE, WAITING, SHOWING, CLICKING, HIDING, FINISHING
     }
 
     private void Awake()
     {
-        gameObject.SetActive(false);
+        total = _bar.transform.localScale.x;
+        //gameObject.SetActive(false);
         _spriteRend = GetComponent<SpriteRenderer>();
     }
     public void Init(Action action)
@@ -61,7 +74,28 @@ public class QTE : MonoBehaviour
     void Update()
     {
         _counterFaseSeconds += Time.deltaTime;
-        ProccessState();        
+        var scale = _bar.transform.localScale;
+
+        if (Input.GetMouseButtonDown(0))
+        {
+            amount += increment;            
+                     
+            Debug.Log("Amount: "+amount);
+        }
+
+        counterThreshold += Time.deltaTime;
+        if(counterThreshold >= threshold)
+        {
+            counterThreshold = 0;
+            amount -= decrement;
+        }
+        //ProccessState();  
+
+        if (amount >= total) amount = total;
+        if (amount <= 0) amount = 0;
+
+        scale.x = amount;
+        _bar.transform.localScale = scale;
     }
 
     void ProccessState()

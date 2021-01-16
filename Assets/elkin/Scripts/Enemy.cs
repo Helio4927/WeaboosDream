@@ -314,7 +314,7 @@ public class Enemy : AnimEvents {
         }
     }
 
-    private void Deactive() {
+    protected void Deactive() {
         print(gameObject.name+" viene del deactive");
         gameObject.tag = "Untagged";
         _agent.isStopped = true;

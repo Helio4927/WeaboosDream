@@ -21,7 +21,7 @@ public class MissNasty : Enemy
         _anim = GetComponentInChildren<Animator>();
         _lifeBar = GetComponent<LifeBar>();
         _agent.speed = speed;
-
+        soyVulnerable = false;
         //CalculateTimeNextState();
         //SetNewState(State.FOLLOW);
     }
@@ -134,7 +134,8 @@ public class MissNasty : Enemy
                     if (soyVulnerable)
                     {
                         //cae al suelo      
-                        _anim.Play("miss_nasty_hurt_head", 0, 0);
+                        _anim.Play("miss_nasty_hurt_head_weak", 0, 0);
+                        
                         /*StartingQTE();
                         SetNewState(State.IN_QTE);
                         _qteManager.CallQTE("QteMissNastyWeak", QTEWeakFinished);*/
@@ -142,7 +143,13 @@ public class MissNasty : Enemy
                     else
                     {
                         // agarrar al player
+                        _anim.Play("miss_nasty_forcejeo", 0, 0);
+                        _player.HidePlayer();
+                        //inicia qte
+                        StartingQTE();
+                        SetNewState(State.IN_QTE);
                         _qteManager.CallQTE("QteMissNastyStrong", QTEStrongFinished);
+                        return;
                     }
                     
                 }
@@ -159,8 +166,7 @@ public class MissNasty : Enemy
 
     private void StartingQTE()
     {
-        parts.gameObject.SetActive(false);
-        _anim.Play("miss_nasty_hurt_head", 0, 0);
+        parts.gameObject.SetActive(false);        
         _agent.isStopped = true;
         //parts.gameObject.SetActive(_isAlive);
         CancelInvoke("RemoveTarget");
@@ -178,10 +184,21 @@ public class MissNasty : Enemy
     private void QTEStrongFinished(bool result)
     {
         Debug.Log("QTEStrongFinished: " + result);
-        _anim.gameObject.SetActive(true);
-        SetNewState(State.IDLE);
-        parts.gameObject.SetActive(true);
-        _anim.Play("miss_nasty_hurt_body", 0, 0);
+        if(result)
+        {
+            _anim.gameObject.SetActive(true);
+            SetNewState(State.IDLE);
+            parts.gameObject.SetActive(true);
+            _anim.Play("miss_nasty_hurt_body", 0, 0);
+            _player.ShowPlayer(); ;
+        }
+        else
+        {
+            _player.HidePlayer();
+            _anim.gameObject.SetActive(true);
+            parts.gameObject.SetActive(true);
+            _anim.Play("miss_nasty_fatality", 0, 0);
+        }        
     }
 
     private void QuitarVulnerable()
@@ -248,7 +265,7 @@ public class MissNasty : Enemy
     public override void OnAnimationCompleted(string animName)
     {
         
-        if( animName== "hurt_head")
+        if( animName== "hurt_head_weak")
         {
             //inicia qte
             _anim.gameObject.SetActive(false);
@@ -257,7 +274,17 @@ public class MissNasty : Enemy
             _qteManager.CallQTE("QteMissNastyWeak", QTEWeakFinished);
             return;
         }
-        
+        /*
+        if (animName == "hurt_head_strong")
+        {
+            //inicia qte
+            _anim.gameObject.SetActive(false);
+            StartingQTE();
+            SetNewState(State.IN_QTE);
+            _qteManager.CallQTE("QteMissNastyStrong", QTEStrongFinished);
+            return;
+        }
+        */
         switch (_currentState)
         {
             case State.ATTACK:

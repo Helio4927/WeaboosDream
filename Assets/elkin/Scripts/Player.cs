@@ -180,7 +180,10 @@ public class Player : AnimEvents
     private void NotificateEnemies(Enemy enToIgnore)
     {
         //print("se ha llamado a check de empuje");
-        _enemyList.ForEach(e => { if (e != enToIgnore) e.FarAway(); });
+        //if (enToIgnore is MissNasty) Debug.Log("<color=yellow>GOLPEO A MISS NASTY</color>");
+        _enemyList.ForEach(e => { 
+            if (e != enToIgnore) e.FarAway();            
+        });
     }
 
     public void RecibirBloqueo()
@@ -300,6 +303,18 @@ public class Player : AnimEvents
             //_anim.GetComponent<SpriteRenderer>().flipX = true;
         }
 
+    }
+
+    public void HidePlayer()
+    {
+        _anim.gameObject.SetActive(false);
+    }
+
+    public void ShowPlayer()
+    {
+        _anim.gameObject.SetActive(true);
+        _anim.SetBool("Tuberia", true);
+        _isAttacking = false;
     }
 
     public override void CheckEnemyType()

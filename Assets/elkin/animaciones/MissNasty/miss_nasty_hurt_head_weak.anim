@@ -6,7 +6,7 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: miss_nasty_hurt_head
+  m_Name: miss_nasty_hurt_head_weak
   serializedVersion: 6
   m_Legacy: 0
   m_Compressed: 0
@@ -101,7 +101,7 @@ AnimationClip:
   m_Events:
   - time: 0.85
     functionName: OnAnimationCompleted
-    data: hurt_head
+    data: hurt_head_weak
     objectReferenceParameter: {fileID: 0}
     floatParameter: 0
     intParameter: 0

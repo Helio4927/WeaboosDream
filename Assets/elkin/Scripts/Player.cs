@@ -201,6 +201,16 @@ public class Player : AnimEvents
         GetComponent<MoveAwayEffect>().MoveAway((transform.position - _currentEnemy.transform.position).normalized, this);
     }
 
+    public void MoveAwayPlayerOf(Transform target)
+    {
+        GetComponent<MoveAwayEffect>().MoveAway((transform.position - target.position).normalized, this);
+    }
+
+    public void ShowAnimDefend()
+    {
+        _anim.Play("Defend", 0, 0);
+    }
+
     public override void HabilitarElAtaque(bool valor)
     {
         habilitarAtaque = valor;
@@ -324,8 +334,7 @@ public class Player : AnimEvents
             _anim.speed=0;
             (_currentEnemy as SpecialEnemy).ShowSpecialAnim();
             //ocultar el player y el enemigo
-            //llamar la animacion de fatality del enemigo
-            
+            //llamar la animacion de fatality del enemigo            
         }
     }
 

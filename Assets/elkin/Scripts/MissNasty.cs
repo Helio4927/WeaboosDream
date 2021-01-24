@@ -141,15 +141,10 @@ public class MissNasty : Enemy
                         _qteManager.CallQTE("QteMissNastyWeak", QTEWeakFinished);*/
                     }
                     else
-                    {
-                        // agarrar al player
-                        _anim.Play("miss_nasty_forcejeo", 0, 0);
+                    {                        
                         _player.HidePlayer();
-                        //inicia qte
-                        StartingQTE();
-                        SetNewState(State.IN_QTE);
-                        _qteManager.CallQTE("QteMissNastyStrong", QTEStrongFinished);
-                        return;
+                        // detener golpe de player (animacion incluye el player)
+                        _anim.Play("miss_nasty_hurt_head_strong", 0, 0);                        
                     }
                     
                 }
@@ -176,9 +171,20 @@ public class MissNasty : Enemy
     private void QTEWeakFinished(bool result)
     {
         Debug.Log("QTEWeakFinished: " + result);
-        _anim.gameObject.SetActive(true);
-        SetNewState(State.IDLE);
-        parts.gameObject.SetActive(true);
+        if(result)
+        {
+            _anim.gameObject.SetActive(true);
+            parts.gameObject.SetActive(true);
+
+            SetNewState(State.IDLE);
+        }
+        else
+        {
+
+        }
+
+        _player.ShowAnimDefend();
+        _player.MoveAwayPlayerOf(transform);
     }
 
     private void QTEStrongFinished(bool result)
@@ -190,7 +196,8 @@ public class MissNasty : Enemy
             SetNewState(State.IDLE);
             parts.gameObject.SetActive(true);
             _anim.Play("miss_nasty_hurt_body", 0, 0);
-            _player.ShowPlayer(); ;
+            _player.ShowPlayer(); 
+            //revisar si requiere separar
         }
         else
         {
@@ -274,17 +281,18 @@ public class MissNasty : Enemy
             _qteManager.CallQTE("QteMissNastyWeak", QTEWeakFinished);
             return;
         }
-        /*
+        
         if (animName == "hurt_head_strong")
         {
+            _anim.gameObject.SetActive(true);
+            _anim.Play("miss_nasty_forcejeo", 0, 0);
             //inicia qte
-            _anim.gameObject.SetActive(false);
             StartingQTE();
             SetNewState(State.IN_QTE);
-            _qteManager.CallQTE("QteMissNastyStrong", QTEStrongFinished);
+            _qteManager.CallQTE("QteMissNastyStrong", QTEStrongFinished);           
             return;
         }
-        */
+        
         switch (_currentState)
         {
             case State.ATTACK:

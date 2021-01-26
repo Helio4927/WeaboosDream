@@ -23,11 +23,11 @@ public class MoveAwayEffect : MonoBehaviour {
         Invoke("ActivateComponent", _timeMoveAway);      
     }
 
-    public void MoveAway(Vector3 dir, Player player)
+    public void MoveAway(Vector3 dir, Player player, float forceOpt = 0.0f)
     {
         //Debug.Log("Move");
         player.enabled = false;
-        player.GetComponent<Rigidbody>().AddForce(dir * _force);
+        player.GetComponent<Rigidbody>().AddForce(dir * (!Mathf.Approximately(forceOpt,0) ? forceOpt : _force));
         Invoke("ActivateComponentPlayer", _timeMoveAway);
     }
 

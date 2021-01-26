@@ -9,8 +9,10 @@ public class MissNasty : Enemy
     public float maxTimeToChangeState;
     public float distanceToDetection; 
     private SoundManager _soundManager;
-    protected bool _isRight = false;  
-
+    protected bool _isRight = false;
+    public float distanceForce = 300;
+    public float ragePercentage = 40;
+    public float distanceToDash = 2;
 
     public override void Start()
     {
@@ -173,18 +175,16 @@ public class MissNasty : Enemy
         Debug.Log("QTEWeakFinished: " + result);
         if(result)
         {
-            _anim.gameObject.SetActive(true);
-            parts.gameObject.SetActive(true);
-
-            SetNewState(State.IDLE);
+            _anim.Play("hurt_in_floor", 0, 0);
         }
         else
         {
-
+            _anim.Play("hit_from_floor", 0, 0);         
         }
 
-        _player.ShowAnimDefend();
-        _player.MoveAwayPlayerOf(transform);
+        _anim.gameObject.SetActive(true);
+        parts.gameObject.SetActive(true);
+        _player.MoveAwayPlayerOf(transform, distanceForce);
     }
 
     private void QTEStrongFinished(bool result)
@@ -196,8 +196,8 @@ public class MissNasty : Enemy
             SetNewState(State.IDLE);
             parts.gameObject.SetActive(true);
             _anim.Play("miss_nasty_hurt_body", 0, 0);
-            _player.ShowPlayer(); 
-            //revisar si requiere separar
+            _player.ShowPlayer();
+            _player.MoveAwayPlayerOf(transform, distanceForce);            
         }
         else
         {
@@ -220,20 +220,22 @@ public class MissNasty : Enemy
             _player = FindObjectOfType<Player>();
         }
 
+        if (_player == null) return;
+
         switch (_currentState)
         {
             case State.IDLE:
                
-                //if (!CanSetNextState(_currentState, State.FOLLOW)) return;
+                if (!_player.IsAlive) return;
 
                     
-                /*if (CalculateDistance(_player.gameObject, gameObject) > distanceToDetection)
+                if (CalculateDistance(_player.gameObject, gameObject) < distanceToDetection)
                 {
                     _agent.SetDestination(_player.transform.position);
                     _agent.isStopped = false;
                     SetNewState(State.FOLLOW);
                     _anim.Play("walk", 0, 0);
-                }*/
+                }
               
             break;
 
@@ -241,11 +243,18 @@ public class MissNasty : Enemy
                 
                 if (_player.IsAlive)                    
                 {
-                    if(CalculateDistance(_player.gameObject, gameObject) < distanceToAttack && CanSetNextState(_currentState, State.ATTACK))
+                    if (Random.Range(0, 100) <= ragePercentage && CalculateDistance(_player.gameObject, gameObject) < distanceToDash)
                     {
+                        SetNewState(State.DASH);
+                        _anim.Play("dash", 0, 0);
+                        _agent.speed *= 2;
+                        Invoke("FinishDash", 1);
+                    }
+                    else if (CalculateDistance(_player.gameObject, gameObject) < distanceToAttack && CanSetNextState(_currentState, State.ATTACK))
+                    {    
                         _agent.isStopped = true;
                         SetNewState(State.ATTACK);
-                        _anim.Play("attack", 0, 0);
+                        _anim.Play("attack", 0, 0);                                             
                     }
                 }
                 else
@@ -254,7 +263,21 @@ public class MissNasty : Enemy
                 }
             break;
 
+            case State.DASH:
+                if (CalculateDistance(_player.gameObject, gameObject) < 1)
+                {
+                    _agent.isStopped = true;
+                    CancelInvoke("FinishDash");
+                    FinishDash();
+                }
+                break;
+
         }
+    }
+
+    private void FinishDash()
+    {
+        SetNewState(State.IDLE);
     }
 
     public override void HacerDano()
@@ -271,28 +294,48 @@ public class MissNasty : Enemy
 
     public override void OnAnimationCompleted(string animName)
     {
-        
-        if( animName== "hurt_head_weak")
+        switch(animName)
         {
-            //inicia qte
-            _anim.gameObject.SetActive(false);
-            StartingQTE();
-            SetNewState(State.IN_QTE);
-            _qteManager.CallQTE("QteMissNastyWeak", QTEWeakFinished);
-            return;
-        }
+            case "hit_from_floor":
+                //player muestra daño
+                _player.ShowDamage(this);
+                break;
+
+            case "hurt_in_floor":
+                var itWouldDie = _lifeBar.IsGoingToDie(10);
+                if (itWouldDie)
+                {
+                    SetNewState(State.IDLE);
+                    //player hace fatality
+                    _anim.Play("miss_nasty_dead",0,0);
+
+                }
+                else
+                {                    
+                    //al terminar hace defense
+                    _player.ShowAnimDefend();
+                }
+                break;
+
+            case "hurt_head_weak":
+                //inicia qte
+                _anim.gameObject.SetActive(false);
+                StartingQTE();
+                SetNewState(State.IN_QTE);
+                _qteManager.CallQTE("QteMissNastyWeak", QTEWeakFinished);                
+                break;
+
+            case "hurt_head_strong":
+                _anim.gameObject.SetActive(true);
+                _anim.Play("miss_nasty_forcejeo", 0, 0);
+                //inicia qte
+                StartingQTE();
+                SetNewState(State.IN_QTE);
+                _qteManager.CallQTE("QteMissNastyStrong", QTEStrongFinished);
+                break;
+        }    
         
-        if (animName == "hurt_head_strong")
-        {
-            _anim.gameObject.SetActive(true);
-            _anim.Play("miss_nasty_forcejeo", 0, 0);
-            //inicia qte
-            StartingQTE();
-            SetNewState(State.IN_QTE);
-            _qteManager.CallQTE("QteMissNastyStrong", QTEStrongFinished);           
-            return;
-        }
-        
+
         switch (_currentState)
         {
             case State.ATTACK:

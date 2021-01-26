@@ -201,9 +201,9 @@ public class Player : AnimEvents
         GetComponent<MoveAwayEffect>().MoveAway((transform.position - _currentEnemy.transform.position).normalized, this);
     }
 
-    public void MoveAwayPlayerOf(Transform target)
+    public void MoveAwayPlayerOf(Transform target, float force)
     {
-        GetComponent<MoveAwayEffect>().MoveAway((transform.position - target.position).normalized, this);
+        GetComponent<MoveAwayEffect>().MoveAway((transform.position - target.position).normalized, this, force);
     }
 
     public void ShowAnimDefend()
@@ -257,6 +257,13 @@ public class Player : AnimEvents
             print("VOLVER AL SUEÑO SI - NO ETC...");
             return;
         }
+
+        if (anim == "defend")
+        {
+            _anim.Play("Idle", 0, 0);
+            return;
+        }
+
         if (_actions.Count > 0)
         {
             // se mostrara fatality al 3 combo
@@ -387,26 +394,27 @@ public class Player : AnimEvents
         if (Camera.main == null || !_isAlive) return;        
 
         if (Input.GetMouseButtonDown(0) && !_isBlocked && !_isDamaged && !FindObjectOfType<GameManager>()._panelOpen)
-
         {
         //    FindObjectOfType<Camera>().GetComponent<CameraShake>().enabled = false;
             Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
             RaycastHit2D hit = Physics2D.Raycast(ray.origin, ray.direction, Mathf.Infinity);
+            var gameManager = FindObjectOfType<GameManager>();
             if (hit.collider == null)
             {
-                FindObjectOfType<GameManager>().usandoCurry = false;
-                FindObjectOfType<GameManager>().usandoRombo = false;
-                FindObjectOfType<GameManager>().usandoMoneda = false;
+                
+                gameManager.usandoCurry = false;
+                gameManager.usandoRombo = false;
+                gameManager.usandoMoneda = false;
                 FindObjectOfType<CursorManager>().setNormalTexture();
             }
             if (hit.collider != null)
             {
-                FindObjectOfType<GameManager>().ComprobacionesObjetoClave(hit.collider.gameObject);
+                gameManager.ComprobacionesObjetoClave(hit.collider.gameObject);
                 if (hit.collider.gameObject.tag.Equals("WorldItem") && !GameObject.Find("PanelRecogerObjeto") && !GameObject.Find("ContenidoInventario") && !FindObjectOfType<DialogueManager>().converActiva) //si choca con un objeto que se puede coger
                 {
                     print("entra en World Item");
                     hit.collider.gameObject.GetComponent<infoItem>().AbrirPanelExaminarObjeto();
-                    FindObjectOfType<GameManager>()._panelOpen = true;
+                    gameManager._panelOpen = true;
                 }
                 else if (hit.collider.gameObject.tag.Equals("AreaExam") && !GameObject.Find("PanelExaminar") && !GameObject.Find("ContenidoInventario") && !FindObjectOfType<DialogueManager>().converActiva) //si choca con un objeto que se puede examinar
                 {

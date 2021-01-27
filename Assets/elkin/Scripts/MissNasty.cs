@@ -82,11 +82,6 @@ public class MissNasty : Enemy
         }
     }
 
-    private void SetNewState(State newState)
-    {
-        _currentState = newState;
-    }
-
     public override void Update()
     {
         CheckStateMachine();
@@ -193,7 +188,7 @@ public class MissNasty : Enemy
         if(result)
         {
             _anim.gameObject.SetActive(true);
-            SetNewState(State.IDLE);
+            CanSetNextState(_currentState, State.IDLE);
             parts.gameObject.SetActive(true);
             _anim.Play("miss_nasty_hurt_body", 0, 0);
             _player.ShowPlayer();
@@ -222,18 +217,31 @@ public class MissNasty : Enemy
 
         if (_player == null) return;
 
+        var distanceCal = CalculateDistance(_player.gameObject, gameObject);
         switch (_currentState)
         {
             case State.IDLE:
                
                 if (!_player.IsAlive) return;
 
-                    
-                if (CalculateDistance(_player.gameObject, gameObject) < distanceToDetection)
+                var probability = Random.Range(0, 100);
+                Debug.Log("Current Distance: " + distanceCal);
+                Debug.Log("Probability: " + probability);
+                if (probability <= ragePercentage && distanceCal < distanceToDash && _currentState != State.DASH)
                 {
                     _agent.SetDestination(_player.transform.position);
                     _agent.isStopped = false;
-                    SetNewState(State.FOLLOW);
+                    CanSetNextState(_currentState, State.DASH);
+                    _anim.Play("dash", 0, 0);
+                    _agent.speed *= 2;
+                    Invoke("FinishDash", 10);
+
+                }else if (distanceCal < distanceToDetection)
+                {
+                    _agent.SetDestination(_player.transform.position);
+                    _agent.isStopped = false;
+                    _agent.speed = speed;
+                    CanSetNextState(_currentState, State.FOLLOW);
                     _anim.Play("walk", 0, 0);
                 }
               
@@ -242,29 +250,33 @@ public class MissNasty : Enemy
             case State.FOLLOW:
                 
                 if (_player.IsAlive)                    
-                {
-                    if (Random.Range(0, 100) <= ragePercentage && CalculateDistance(_player.gameObject, gameObject) < distanceToDash)
+                {                    
+                    /*var probability = Random.Range(0, 100);
+                    Debug.Log("Current Distance: "+distanceCal);
+                    Debug.Log("Probability: " + probability);
+                    if (probability <= ragePercentage && distanceCal < distanceToDash)
                     {
                         SetNewState(State.DASH);
                         _anim.Play("dash", 0, 0);
                         _agent.speed *= 2;
                         Invoke("FinishDash", 1);
                     }
-                    else if (CalculateDistance(_player.gameObject, gameObject) < distanceToAttack && CanSetNextState(_currentState, State.ATTACK))
+                    else */
+                    if (distanceCal < distanceToAttack && CanSetNextState(_currentState, State.ATTACK))
                     {    
                         _agent.isStopped = true;
-                        SetNewState(State.ATTACK);
+                        CanSetNextState(_currentState, State.ATTACK);
                         _anim.Play("attack", 0, 0);                                             
                     }
                 }
                 else
                 {
-                    SetNewState(State.IDLE);
+                    CanSetNextState(_currentState, State.IDLE);
                 }
             break;
 
             case State.DASH:
-                if (CalculateDistance(_player.gameObject, gameObject) < 1)
+                if (distanceCal < 1)
                 {
                     _agent.isStopped = true;
                     CancelInvoke("FinishDash");
@@ -277,7 +289,7 @@ public class MissNasty : Enemy
 
     private void FinishDash()
     {
-        SetNewState(State.IDLE);
+        CanSetNextState(_currentState, State.IDLE);
     }
 
     public override void HacerDano()
@@ -287,8 +299,7 @@ public class MissNasty : Enemy
 
     private float CalculateDistance(GameObject target, GameObject destination)
     {
-        var distance = Vector3.Distance(target.transform.position, destination.transform.position);
-        Debug.Log("Distance: " +distance);
+        var distance = Vector3.Distance(target.transform.position, destination.transform.position);        
         return distance;
     }
 
@@ -305,7 +316,7 @@ public class MissNasty : Enemy
                 var itWouldDie = _lifeBar.IsGoingToDie(10);
                 if (itWouldDie)
                 {
-                    SetNewState(State.IDLE);
+                    CanSetNextState(_currentState, State.IDLE);
                     //player hace fatality
                     _anim.Play("miss_nasty_dead",0,0);
 
@@ -321,7 +332,7 @@ public class MissNasty : Enemy
                 //inicia qte
                 _anim.gameObject.SetActive(false);
                 StartingQTE();
-                SetNewState(State.IN_QTE);
+                CanSetNextState(_currentState, State.IN_QTE);
                 _qteManager.CallQTE("QteMissNastyWeak", QTEWeakFinished);                
                 break;
 
@@ -330,9 +341,12 @@ public class MissNasty : Enemy
                 _anim.Play("miss_nasty_forcejeo", 0, 0);
                 //inicia qte
                 StartingQTE();
-                SetNewState(State.IN_QTE);
+                CanSetNextState(_currentState, State.IN_QTE);
                 _qteManager.CallQTE("QteMissNastyStrong", QTEStrongFinished);
                 break;
+
+            case "dash":
+                return;                
         }    
         
 
@@ -341,8 +355,8 @@ public class MissNasty : Enemy
             case State.ATTACK:
             case State.HURT:
             case State.BLOCK:
-                SetNewState(State.IDLE);
-            break;
+                CanSetNextState(_currentState, State.IDLE);
+                break;
         }
 
     }

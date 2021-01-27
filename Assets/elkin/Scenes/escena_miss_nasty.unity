@@ -120692,12 +120692,17 @@ PrefabInstance:
     - target: {fileID: 5780021205775707767, guid: 8abe1957c32dd404abdb653e0e9566af,
         type: 3}
       propertyPath: distanceToDash
-      value: 4
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 5780021205775707767, guid: 8abe1957c32dd404abdb653e0e9566af,
         type: 3}
       propertyPath: distanceToDetection
       value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 5780021205775707767, guid: 8abe1957c32dd404abdb653e0e9566af,
+        type: 3}
+      propertyPath: ragePercentage
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8abe1957c32dd404abdb653e0e9566af, type: 3}

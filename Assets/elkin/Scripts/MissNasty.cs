@@ -167,6 +167,9 @@ public class MissNasty : Enemy
 
     private void QTEWeakFinished(bool result)
     {
+        _anim.gameObject.SetActive(true);
+        parts.gameObject.SetActive(true);
+
         Debug.Log("QTEWeakFinished: " + result);
         if(result)
         {
@@ -176,10 +179,7 @@ public class MissNasty : Enemy
         {
             _anim.Play("hit_from_floor", 0, 0);         
         }
-
-        _anim.gameObject.SetActive(true);
-        parts.gameObject.SetActive(true);
-        _player.MoveAwayPlayerOf(transform, distanceForce);
+        _player.HidePlayer();        
     }
 
     private void QTEStrongFinished(bool result)
@@ -192,7 +192,7 @@ public class MissNasty : Enemy
             parts.gameObject.SetActive(true);
             _anim.Play("miss_nasty_hurt_body", 0, 0);
             _player.ShowPlayer();
-            _player.MoveAwayPlayerOf(transform, distanceForce);            
+            _player.MoveAwayPlayerOf(_player.transform.position - Vector3.right, distanceForce);            
         }
         else
         {
@@ -221,7 +221,7 @@ public class MissNasty : Enemy
         switch (_currentState)
         {
             case State.IDLE:
-               
+                /*
                 if (!_player.IsAlive) return;
 
                 var probability = Random.Range(0, 100);
@@ -244,7 +244,7 @@ public class MissNasty : Enemy
                     CanSetNextState(_currentState, State.FOLLOW);
                     _anim.Play("walk", 0, 0);
                 }
-              
+                */
             break;
 
             case State.FOLLOW:
@@ -322,10 +322,16 @@ public class MissNasty : Enemy
 
                 }
                 else
-                {                    
+                {
+                    //aca deberia ir animacion de ponerse de pie
+                    _anim.Play("idle", 0, 0);
+
                     //al terminar hace defense
+                    _player.ShowPlayer();
+                    _player.MoveAwayPlayerOf(_player.transform.position-Vector3.right, distanceForce);
                     _player.ShowAnimDefend();
                 }
+
                 break;
 
             case "hurt_head_weak":

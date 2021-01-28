@@ -201,9 +201,9 @@ public class Player : AnimEvents
         GetComponent<MoveAwayEffect>().MoveAway((transform.position - _currentEnemy.transform.position).normalized, this);
     }
 
-    public void MoveAwayPlayerOf(Transform target, float force)
+    public void MoveAwayPlayerOf(Vector3 position, float force)
     {
-        GetComponent<MoveAwayEffect>().MoveAway((transform.position - target.position).normalized, this, force);
+        GetComponent<MoveAwayEffect>().MoveAway((transform.position - position).normalized, this, force);
     }
 
     public void ShowAnimDefend()

@@ -264,7 +264,7 @@ public class Player : AnimEvents
             return;
         }
 
-        if (_actions.Count > 0)
+        if (_actions!=null && _actions.Count > 0)
         {
             // se mostrara fatality al 3 combo
             // porque no hay animaciones de 3 combo
@@ -395,7 +395,7 @@ public class Player : AnimEvents
 
         if (Input.GetMouseButtonDown(0) && !_isBlocked && !_isDamaged && !FindObjectOfType<GameManager>()._panelOpen)
         {
-        //    FindObjectOfType<Camera>().GetComponent<CameraShake>().enabled = false;
+        //    FiandObjectOfType<Camera>().GetComponent<CameraShake>().enabled = false;
             Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
             RaycastHit2D hit = Physics2D.Raycast(ray.origin, ray.direction, Mathf.Infinity);
             var gameManager = FindObjectOfType<GameManager>();
@@ -425,20 +425,21 @@ public class Player : AnimEvents
                 }
                 else//si choca con enemigo
                 {
-                    if (habilitarAtaque)
+                    var compMiss = hit.collider.GetComponentInParent<MissNasty>();
+                    if (habilitarAtaque || compMiss != null)
                     {
                         print("entra en enemigo");
                         var partName = hit.collider.name.Substring(0, 1).ToUpper();
                         //Debug.Log("Part: " +partName);
                         var comp = hit.collider.GetComponentInParent<Enemy>();
-                        if (comp)
+                        if (compMiss)
                         {
-                            Hit(comp, partName);
+                            Hit(compMiss, partName);
                         }
                         else
                         {
-                            var compMiss = hit.collider.GetComponentInParent<MissNasty>();
-                            if (compMiss) Hit(compMiss, partName);
+                            
+                            if (comp) Hit(comp, partName);
                         }
                     }           
                 }
@@ -494,6 +495,7 @@ public class Player : AnimEvents
 
         string animName = _actualAnim + inicial + _contador;
         _actualAnim = inicial + _contador;
+        _currentEnemy = enemy;
 
         if (!_isAttacking)
         {

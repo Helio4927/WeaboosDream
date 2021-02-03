@@ -88,6 +88,12 @@ public class MissNasty : Enemy
         SetFlip(transform.position.x < _player.transform.position.x);
     }
 
+    protected override int GetDamageValue(string animName)
+    {
+        // cambiar para obtener daño especifico
+        return base.GetDamageValue(animName);
+    }
+
     public override void ShowHitAnim(string animName)
     {
 
@@ -101,7 +107,8 @@ public class MissNasty : Enemy
             
             if (_isAlive)
             {
-                if(animName[0]=='P' && CanSetNextState(_currentState, State.BLOCK))
+                var letter = animName[animName.Length - 2];
+                if (letter=='P' && CanSetNextState(_currentState, State.BLOCK))
                 {
                     parts.gameObject.SetActive(_isAlive);
                     CancelInvoke("RemoveTarget");
@@ -117,7 +124,7 @@ public class MissNasty : Enemy
                     return;
                 }
 
-                if (animName[0] == 'T' && CanSetNextState(_currentState, State.HURT))
+                if (letter == 'T' && CanSetNextState(_currentState, State.HURT))
                 {
                     _player.RecibirBloqueo();
                     _anim.Play("miss_nasty_hurt_body", 0, 0);
@@ -126,7 +133,7 @@ public class MissNasty : Enemy
                     
                 }
 
-                if (animName[0] == 'C')
+                if (letter == 'C')
                 {                    
                     if (soyVulnerable)
                     {
@@ -192,7 +199,8 @@ public class MissNasty : Enemy
             parts.gameObject.SetActive(true);
             _anim.Play("miss_nasty_hurt_body", 0, 0);
             _player.ShowPlayer();
-            _player.MoveAwayPlayerOf(_player.transform.position - Vector3.right, distanceForce);            
+            _player.MoveAwayPlayerOf(_player.transform.position - Vector3.right, distanceForce);
+            _player.ShowAnimDefend();
         }
         else
         {
@@ -335,7 +343,7 @@ public class MissNasty : Enemy
                 break;
 
             case "hurt_head_weak":
-                //inicia qte
+                //inicia qte miss nasty debil
                 _anim.gameObject.SetActive(false);
                 StartingQTE();
                 CanSetNextState(_currentState, State.IN_QTE);
@@ -343,6 +351,7 @@ public class MissNasty : Enemy
                 break;
 
             case "hurt_head_strong":
+                //inicia qte miss nasty fuerte
                 _anim.gameObject.SetActive(true);
                 _anim.Play("miss_nasty_forcejeo", 0, 0);
                 //inicia qte

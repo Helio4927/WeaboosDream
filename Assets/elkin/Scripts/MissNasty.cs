@@ -181,12 +181,13 @@ public class MissNasty : Enemy
         if(result)
         {
             _anim.Play("hurt_in_floor", 0, 0);
+           
         }
         else
         {
-            _anim.Play("hit_from_floor", 0, 0);         
+            _anim.Play("hit_from_floor", 0, 0);            
         }
-        _player.HidePlayer();        
+        _player.HidePlayer();
     }
 
     private void QTEStrongFinished(bool result)
@@ -302,7 +303,14 @@ public class MissNasty : Enemy
 
     public override void HacerDano()
     {        
-         _player.ShowDamage(this);        
+        _player.ShowDamage(this);        
+    }
+
+    public override void HitFromFloorHacerDano()
+    {
+        _player.ShowPlayer();
+        _player.ShowDamage(this);
+        _player.MoveAwayPlayerOf(_player.transform.position - Vector3.right, distanceForce);
     }
 
     private float CalculateDistance(GameObject target, GameObject destination)
@@ -316,8 +324,8 @@ public class MissNasty : Enemy
         switch(animName)
         {
             case "hit_from_floor":
-                //player muestra daño
-                _player.ShowDamage(this);
+                //player muestra daño                
+                _anim.Play("idle", 0, 0);
                 break;
 
             case "hurt_in_floor":

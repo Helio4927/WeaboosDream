@@ -23,6 +23,11 @@ public class AnimEvents : MonoBehaviour {
         Debug.LogError("No se ha implementado HacerDano" + " :"+gameObject.name);
     }
 
+    public virtual void HitFromFloorHacerDano()
+    {
+        Debug.LogError("No se ha implementado HitFromFloorHacerDano" + " :" + gameObject.name);
+    }
+
     public virtual void SetVulnerable(bool vulnerable)
     {
         Debug.LogError("No se ha implementado SetVulnerable");

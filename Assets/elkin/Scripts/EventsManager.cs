@@ -13,9 +13,9 @@ public class EventsManager : MonoBehaviour
         _animEvents = GetComponentInParent<AnimEvents>();
         _soundManager = FindObjectOfType<SoundManager>();
     }
-  
+
     protected void OnAnimationStart(string animName)
-    {        
+    {
         _animEvents.OnAnimationStart(animName);
     }
     public void AuxShakeOn()
@@ -40,8 +40,13 @@ public class EventsManager : MonoBehaviour
     }
 
     protected void SetVulnerable(int vulnerable)
-    {      
+    {
         _animEvents.SetVulnerable(vulnerable == 1);   // 0 es false y 1 es true       
+    }
+
+    protected void HitFromFloorHacerDano()
+    {
+        _animEvents.HitFromFloorHacerDano();
     }
 
     protected void MoveAwayPlayer()

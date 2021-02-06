@@ -493,6 +493,7 @@ public class Player : AnimEvents
         var dist = Vector3.Distance(enemy.transform.position, transform.position);
         if (dist > _maxDistance) return;
 
+        _contador++;
         string animName = _actualAnim + inicial + _contador;
         _actualAnim = inicial + _contador;
         _currentEnemy = enemy;

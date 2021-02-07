@@ -134,19 +134,15 @@ public class MissNasty : Enemy
                 }
 
                 if (letter == 'C')
-                {                    
+                {
+                    _player.HidePlayer();
                     if (soyVulnerable)
                     {
-                        //cae al suelo      
+                        //recibe golpe y cae al suelo      
                         _anim.Play("miss_nasty_hurt_head_weak", 0, 0);
-                        
-                        /*StartingQTE();
-                        SetNewState(State.IN_QTE);
-                        _qteManager.CallQTE("QteMissNastyWeak", QTEWeakFinished);*/
                     }
                     else
-                    {                        
-                        _player.HidePlayer();
+                    {   
                         // detener golpe de player (animacion incluye el player)
                         _anim.Play("miss_nasty_hurt_head_strong", 0, 0);                        
                     }
@@ -352,7 +348,7 @@ public class MissNasty : Enemy
 
             case "hurt_head_weak":
                 //inicia qte miss nasty debil
-                _anim.gameObject.SetActive(false);
+                _anim.Play("wait_qte_weak", 0, 0);
                 StartingQTE();
                 CanSetNextState(_currentState, State.IN_QTE);
                 _qteManager.CallQTE("QteMissNastyWeak", QTEWeakFinished);                

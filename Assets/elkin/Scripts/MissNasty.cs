@@ -177,7 +177,6 @@ public class MissNasty : Enemy
         if(result)
         {
             _anim.Play("hurt_in_floor", 0, 0);
-           
         }
         else
         {

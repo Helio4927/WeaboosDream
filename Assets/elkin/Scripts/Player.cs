@@ -495,9 +495,9 @@ public class Player : AnimEvents
 
         _contador++;
         string animName = _actualAnim + inicial + _contador;
-        _actualAnim = inicial + _contador;
+        //_actualAnim = inicial + _contador;
         _currentEnemy = enemy;
-
+        _contador = 0;
         if (!_isAttacking)
         {
             Debug.Log("Atacando");

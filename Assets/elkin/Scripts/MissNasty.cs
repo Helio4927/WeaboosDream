@@ -37,6 +37,14 @@ public class MissNasty : Enemy
     {
         switch(prevState)
         {
+            case State.HURT:
+                if(nextState == State.IDLE)
+                {
+                    _currentState = nextState;
+                    return true;
+                }
+                return false;
+
             case State.FOLLOW:
                 if (nextState == State.IDLE || nextState == State.ATTACK)
                 {
@@ -318,16 +326,24 @@ public class MissNasty : Enemy
     {
         switch(animName)
         {
+            case "hurt_body":
+                //player muestra daño                
+                _anim.Play("idle", 0, 0);
+                CanSetNextState(_currentState, State.IDLE);
+                break;
+                
             case "hit_from_floor":
                 //player muestra daño                
                 _anim.Play("idle", 0, 0);
+                CanSetNextState(_currentState, State.IDLE);
                 break;
 
             case "hurt_in_floor":
                 var itWouldDie = _lifeBar.IsGoingToDie(10);
+                
                 if (itWouldDie)
                 {
-                    CanSetNextState(_currentState, State.IDLE);
+                    //CanSetNextState(_currentState, State.IDLE);
                     //player hace fatality
                     _anim.Play("miss_nasty_dead",0,0);
 
@@ -336,6 +352,7 @@ public class MissNasty : Enemy
                 {
                     //aca deberia ir animacion de ponerse de pie
                     _anim.Play("idle", 0, 0);
+                    CanSetNextState(_currentState, State.IDLE);
 
                     //al terminar hace defense
                     _player.ShowPlayer();

@@ -16,10 +16,11 @@ public class MissNasty : Enemy
 
     private bool _isInit;
     private float _time = 0;
+    private float _timeToEnableRage = 0;
 
     public float timeFollow = 2;
-    public float timeIdleFromFollow = 2;
-    
+    public float timeInIdle = 2;
+    public float timeForRage = 10;
 
     public override void Start()
     {
@@ -62,7 +63,7 @@ public class MissNasty : Enemy
                 return false;
 
             case State.IDLE:
-                if (nextState == State.FOLLOW || nextState == State.HURT || nextState == State.BLOCK || nextState == State.IN_QTE)
+                if (nextState == State.DASH || nextState == State.FOLLOW || nextState == State.HURT || nextState == State.BLOCK || nextState == State.IN_QTE)
                 {
                     _currentState = nextState;
                     return true;
@@ -87,6 +88,14 @@ public class MissNasty : Enemy
 
             case State.IN_QTE:
                 if (nextState == State.IDLE)
+                {
+                    _currentState = nextState;
+                    return true;
+                }
+                return false;
+
+            case State.DASH:
+                if (nextState == State.TIRED)
                 {
                     _currentState = nextState;
                     return true;
@@ -237,7 +246,13 @@ public class MissNasty : Enemy
 
         if (_player == null) return;
 
-        _time += Time.deltaTime;
+        if(_isInit)
+        {
+            _time += Time.deltaTime;
+            _timeToEnableRage += Time.deltaTime;
+        }
+        
+
         var currentDistance = CalculateDistance(_player.gameObject, gameObject);
         switch (_currentState)
         {
@@ -254,7 +269,7 @@ public class MissNasty : Enemy
                     _isInit = true;
                 }
 
-                if (_time > timeIdleFromFollow && _isInit )
+                if (_time > timeInIdle && _isInit )
                 {
                     _time = 0;
                     _agent.isStopped = false;
@@ -263,9 +278,21 @@ public class MissNasty : Enemy
                     SetDestinationByInterval();
                     _anim.Play("walk", 0, 0);
                 }
+                else if(currentDistance < distanceToDash && probability <= ragePercentage && _timeToEnableRage > timeForRage)
+                {
+                    _time = 0;
+                    _timeToEnableRage = 0;
+                    _agent.SetDestination(_player.transform.position);
+                    _agent.isStopped = false;
+                    CanSetNextState(_currentState, State.DASH);
+                    _anim.Play("dash", 0, 0);
+                    _agent.speed *= 2;
+                    Invoke("FinishDash", 10);
+                }
                 else
                 {
-                    _agent.isStopped = true;                    
+                    _agent.speed = speed;
+                    _agent.isStopped = true;
                 }
 
                 /*if (probability <= ragePercentage && distanceCal < distanceToDash && _currentState != State.DASH)
@@ -342,7 +369,9 @@ public class MissNasty : Enemy
 
     private void FinishDash()
     {
-        CanSetNextState(_currentState, State.IDLE);
+        _agent.isStopped = true;
+        _anim.Play("tired", 0, 0);
+        CanSetNextState(_currentState, State.TIRED);
     }
 
     public override void HacerDano()

@@ -14,6 +14,13 @@ public class MissNasty : Enemy
     public float ragePercentage = 40;
     public float distanceToDash = 2;
 
+    private bool _isInit;
+    private float _time = 0;
+
+    public float timeFollow = 2;
+    public float timeIdleFromFollow = 2;
+    
+
     public override void Start()
     {
         _currentState = State.IDLE;
@@ -24,6 +31,7 @@ public class MissNasty : Enemy
         _lifeBar = GetComponent<LifeBar>();
         _agent.speed = speed;
         soyVulnerable = false;
+        _isInit = false;
         //CalculateTimeNextState();
         //SetNewState(State.FOLLOW);
     }
@@ -229,17 +237,38 @@ public class MissNasty : Enemy
 
         if (_player == null) return;
 
-        var distanceCal = CalculateDistance(_player.gameObject, gameObject);
+        _time += Time.deltaTime;
+        var currentDistance = CalculateDistance(_player.gameObject, gameObject);
         switch (_currentState)
         {
             case State.IDLE:
-                /*
+                
                 if (!_player.IsAlive) return;
 
                 var probability = Random.Range(0, 100);
-                Debug.Log("Current Distance: " + distanceCal);
+                Debug.Log("Current Distance: " + currentDistance);
                 Debug.Log("Probability: " + probability);
-                if (probability <= ragePercentage && distanceCal < distanceToDash && _currentState != State.DASH)
+                
+                if(currentDistance < distanceToDetection)
+                {
+                    _isInit = true;
+                }
+
+                if (_time > timeIdleFromFollow && _isInit )
+                {
+                    _time = 0;
+                    _agent.isStopped = false;
+                    _agent.speed = speed;
+                    CanSetNextState(_currentState, State.FOLLOW);
+                    SetDestinationByInterval();
+                    _anim.Play("walk", 0, 0);
+                }
+                else
+                {
+                    _agent.isStopped = true;                    
+                }
+
+                /*if (probability <= ragePercentage && distanceCal < distanceToDash && _currentState != State.DASH)
                 {
                     _agent.SetDestination(_player.transform.position);
                     _agent.isStopped = false;
@@ -250,45 +279,48 @@ public class MissNasty : Enemy
 
                 }else if (distanceCal < distanceToDetection)
                 {
-                    _agent.SetDestination(_player.transform.position);
+                    
                     _agent.isStopped = false;
                     _agent.speed = speed;
                     CanSetNextState(_currentState, State.FOLLOW);
+                    SetDestinationByInterval();
                     _anim.Play("walk", 0, 0);
-                }
-                */
-            break;
+                }*/
+
+                break;
 
             case State.FOLLOW:
                 
+                
                 if (_player.IsAlive)                    
-                {                    
-                    /*var probability = Random.Range(0, 100);
-                    Debug.Log("Current Distance: "+distanceCal);
-                    Debug.Log("Probability: " + probability);
-                    if (probability <= ragePercentage && distanceCal < distanceToDash)
-                    {
-                        SetNewState(State.DASH);
-                        _anim.Play("dash", 0, 0);
-                        _agent.speed *= 2;
-                        Invoke("FinishDash", 1);
-                    }
-                    else */
-                    if (distanceCal < distanceToAttack && CanSetNextState(_currentState, State.ATTACK))
+                {
+                    Debug.Log("Agent: "+_agent.isStopped);
+
+                    
+                    if (currentDistance < distanceToAttack && CanSetNextState(_currentState, State.ATTACK))
                     {    
                         _agent.isStopped = true;
                         CanSetNextState(_currentState, State.ATTACK);
-                        _anim.Play("attack", 0, 0);                                             
+                        _anim.Play("attack", 0, 0);
                     }
+                    else if (_time > timeFollow)
+                    {
+                        _time = 0;
+                        _agent.isStopped = true;
+                        _anim.Play("idle", 0, 0);
+                        CanSetNextState(_currentState, State.IDLE);
+                    }
+
+                    
                 }
                 else
                 {
                     CanSetNextState(_currentState, State.IDLE);
                 }
-            break;
+                break;
 
             case State.DASH:
-                if (distanceCal < 1)
+                if (currentDistance < 1)
                 {
                     _agent.isStopped = true;
                     CancelInvoke("FinishDash");
@@ -297,6 +329,15 @@ public class MissNasty : Enemy
                 break;
 
         }
+    }
+
+    private void SetDestinationByInterval()
+    {
+        if(_currentState == State.FOLLOW)
+        {
+            _agent.SetDestination(_player.transform.position);
+            Invoke("SetDestinationByInterval", 1);
+        }        
     }
 
     private void FinishDash()
@@ -390,6 +431,7 @@ public class MissNasty : Enemy
             case State.ATTACK:
             case State.HURT:
             case State.BLOCK:
+                _anim.Play("idle", 0, 0);
                 CanSetNextState(_currentState, State.IDLE);
                 break;
         }

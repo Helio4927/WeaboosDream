@@ -21,7 +21,8 @@ public class MissNasty : Enemy
     public float timeFollow = 2;
     public float timeInIdle = 2;
     public float timeForRage = 10;
-
+    public float timeForTired = 10;
+    public float durationDash = 10;
     public override void Start()
     {
         _currentState = State.IDLE;
@@ -96,6 +97,14 @@ public class MissNasty : Enemy
 
             case State.DASH:
                 if (nextState == State.TIRED)
+                {
+                    _currentState = nextState;
+                    return true;
+                }
+                return false;
+
+            case State.TIRED:
+                if (nextState == State.IDLE)
                 {
                     _currentState = nextState;
                     return true;
@@ -278,16 +287,16 @@ public class MissNasty : Enemy
                     SetDestinationByInterval();
                     _anim.Play("walk", 0, 0);
                 }
-                else if(currentDistance < distanceToDash && probability <= ragePercentage && _timeToEnableRage > timeForRage)
-                {
+                else if(currentDistance> distanceToDetection && currentDistance < distanceToDash && probability <= ragePercentage && _timeToEnableRage > timeForRage)
+                {                    
                     _time = 0;
                     _timeToEnableRage = 0;
                     _agent.SetDestination(_player.transform.position);
                     _agent.isStopped = false;
                     CanSetNextState(_currentState, State.DASH);
                     _anim.Play("dash", 0, 0);
-                    _agent.speed *= 2;
-                    Invoke("FinishDash", 10);
+                    _agent.speed *= 8;
+                    Invoke("FinishDash", durationDash);
                 }
                 else
                 {
@@ -325,7 +334,8 @@ public class MissNasty : Enemy
 
                     
                     if (currentDistance < distanceToAttack && CanSetNextState(_currentState, State.ATTACK))
-                    {    
+                    {
+                        _time = 0;
                         _agent.isStopped = true;
                         CanSetNextState(_currentState, State.ATTACK);
                         _anim.Play("attack", 0, 0);
@@ -371,7 +381,14 @@ public class MissNasty : Enemy
     {
         _agent.isStopped = true;
         _anim.Play("tired", 0, 0);
+        _timeToEnableRage = 0;
         CanSetNextState(_currentState, State.TIRED);
+        Invoke("FinishedTiredState", timeForTired);
+    }
+
+    public void FinishedTiredState()
+    {
+        CanSetNextState(_currentState, State.IDLE);
     }
 
     public override void HacerDano()

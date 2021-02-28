@@ -360,6 +360,7 @@ public class MissNasty : Enemy
                 if (currentDistance < 1)
                 {
                     _agent.isStopped = true;
+                    _player.ShowDamage(this);
                     CancelInvoke("FinishDash");
                     FinishDash();
                 }

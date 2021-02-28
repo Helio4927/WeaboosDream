@@ -22,40 +22,40 @@ AnimationClip:
     - time: 0
       value: {fileID: 1656995394431113630, guid: 542cba2f72011cc41aa6432ce92fd1cc,
         type: 3}
-    - time: 0.06666667
+    - time: 0.033333335
       value: {fileID: -4717388049170374112, guid: 542cba2f72011cc41aa6432ce92fd1cc,
         type: 3}
-    - time: 0.13333334
+    - time: 0.06666667
       value: {fileID: 1768302136127255180, guid: 542cba2f72011cc41aa6432ce92fd1cc,
         type: 3}
-    - time: 0.2
+    - time: 0.11666667
       value: {fileID: 3818507229005465602, guid: 542cba2f72011cc41aa6432ce92fd1cc,
         type: 3}
-    - time: 0.26666668
+    - time: 0.15
       value: {fileID: 8828418769401042163, guid: 542cba2f72011cc41aa6432ce92fd1cc,
         type: 3}
-    - time: 0.33333334
+    - time: 0.18333334
       value: {fileID: 503616455892512239, guid: 542cba2f72011cc41aa6432ce92fd1cc,
         type: 3}
-    - time: 0.4
+    - time: 0.21666667
       value: {fileID: -3291433424098445329, guid: 542cba2f72011cc41aa6432ce92fd1cc,
         type: 3}
-    - time: 0.45
+    - time: 0.25
       value: {fileID: 9166815959707739436, guid: 542cba2f72011cc41aa6432ce92fd1cc,
         type: 3}
-    - time: 0.51666665
+    - time: 0.28333333
       value: {fileID: -5769217299402878319, guid: 542cba2f72011cc41aa6432ce92fd1cc,
         type: 3}
-    - time: 0.5833333
+    - time: 0.31666666
       value: {fileID: -1290249915033741047, guid: 542cba2f72011cc41aa6432ce92fd1cc,
         type: 3}
-    - time: 0.65
+    - time: 0.36666667
       value: {fileID: 7337878901875656296, guid: 542cba2f72011cc41aa6432ce92fd1cc,
         type: 3}
-    - time: 0.71666664
+    - time: 0.4
       value: {fileID: 7315398579681715414, guid: 542cba2f72011cc41aa6432ce92fd1cc,
         type: 3}
-    - time: 0.78333336
+    - time: 0.43333334
       value: {fileID: -2033844059503902643, guid: 542cba2f72011cc41aa6432ce92fd1cc,
         type: 3}
     attribute: m_Sprite
@@ -95,7 +95,7 @@ AnimationClip:
     m_AdditiveReferencePoseClip: {fileID: 0}
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
-    m_StopTime: 0.8
+    m_StopTime: 0.45000002
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0
@@ -115,14 +115,14 @@ AnimationClip:
   m_HasGenericRootTransform: 0
   m_HasMotionFloatCurves: 0
   m_Events:
-  - time: 0.45
+  - time: 0.26666668
     functionName: HacerDano
     data: 
     objectReferenceParameter: {fileID: 0}
     floatParameter: 0
     intParameter: 0
     messageOptions: 0
-  - time: 0.76666665
+  - time: 0.41666666
     functionName: OnAnimationCompleted
     data: attack
     objectReferenceParameter: {fileID: 0}

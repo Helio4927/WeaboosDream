@@ -56,7 +56,7 @@ public class MissNasty : Enemy
                 return false;
 
             case State.FOLLOW:
-                if (nextState == State.IDLE || nextState == State.ATTACK)
+                if (nextState == State.IDLE || nextState == State.ATTACK || nextState == State.HURT)
                 {
                     _currentState = nextState;
                     return true;
@@ -142,7 +142,7 @@ public class MissNasty : Enemy
             if (_isAlive)
             {
                 var letter = animName[animName.Length - 2];
-                if (letter=='P' && CanSetNextState(_currentState, State.BLOCK))
+                if (letter=='P' && CanSetNextState(_currentState, State.HURT))
                 {
                     parts.gameObject.SetActive(_isAlive);
                     CancelInvoke("RemoveTarget");
@@ -158,7 +158,7 @@ public class MissNasty : Enemy
                     return;
                 }
 
-                if (letter == 'T' && CanSetNextState(_currentState, State.HURT))
+                if (letter == 'T' && CanSetNextState(_currentState, State.BLOCK) )
                 {
                     _player.RecibirBloqueo();
                     _anim.Play("miss_nasty_hurt_body", 0, 0);

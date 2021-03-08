@@ -357,13 +357,16 @@ public class MissNasty : Enemy
                 break;
 
             case State.DASH:
-                if (currentDistance < 1)
+                Debug.Log("Current velocity: "+ _agent.velocity);
+                Debug.Log("DASH Current Distance: " + currentDistance);
+                if (currentDistance < 1 /*|| _agent.velocity.magnitude < 0.1f*/)
                 {
                     _agent.isStopped = true;
                     _player.ShowDamage(this);
                     CancelInvoke("FinishDash");
                     FinishDash();
                 }
+
                 break;
 
         }

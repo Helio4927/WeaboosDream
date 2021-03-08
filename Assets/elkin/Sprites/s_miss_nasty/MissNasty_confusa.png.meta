@@ -1,0 +1,439 @@
+fileFormatVersion: 2
+guid: dd66c284b1e41f1418a65b368da21195
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5130631671147905803
+    second: MissNasty_confusa_0
+  - first:
+      213: 770739384141994413
+    second: MissNasty_confusa_1
+  - first:
+      213: -2129265956294995196
+    second: MissNasty_confusa_2
+  - first:
+      213: -3998148136342790852
+    second: MissNasty_confusa_3
+  - first:
+      213: -4144208917462240588
+    second: MissNasty_confusa_4
+  - first:
+      213: -2881141148159660379
+    second: MissNasty_confusa_5
+  - first:
+      213: -2294474292241973229
+    second: MissNasty_confusa_6
+  - first:
+      213: -1747392399706311497
+    second: MissNasty_confusa_7
+  - first:
+      213: -2873167723710767493
+    second: MissNasty_confusa_8
+  - first:
+      213: -2612231525439352012
+    second: MissNasty_confusa_9
+  - first:
+      213: -781966572962209576
+    second: MissNasty_confusa_10
+  - first:
+      213: -3688698091519199664
+    second: MissNasty_confusa_11
+  - first:
+      213: 7734699512815787886
+    second: MissNasty_confusa_12
+  - first:
+      213: 4033165184316739518
+    second: MissNasty_confusa_13
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 28
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MissNasty_confusa_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 844
+        width: 106
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9638d08ca219a64ea12eba269902347
+      internalID: 5130631671147905803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_confusa_1
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 844
+        width: 106
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2634eaf24366fdf4daeb210021047d86
+      internalID: 770739384141994413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_confusa_2
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 844
+        width: 106
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556d407c81042de4d95f7c905762da18
+      internalID: -2129265956294995196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_confusa_3
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 844
+        width: 106
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d868d1b7cf3fffe4ba632acc70990980
+      internalID: -3998148136342790852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_confusa_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 664
+        width: 106
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c74d4fdc4c28b4b97e387d9ee068fc
+      internalID: -4144208917462240588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_confusa_5
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 664
+        width: 106
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278a4e8be7e78cb47b10ca5f27b78334
+      internalID: -2881141148159660379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_confusa_6
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 664
+        width: 106
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94203e336e5915040a226fe3e783be11
+      internalID: -2294474292241973229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_confusa_7
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 664
+        width: 106
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47074c7fb8d15e1408c50a1d66f6292c
+      internalID: -1747392399706311497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_confusa_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 484
+        width: 106
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7abb36849a5a2eb4ea716891992f8cf1
+      internalID: -2873167723710767493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_confusa_9
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 484
+        width: 106
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc237c7fccb51b0459bd308e51215697
+      internalID: -2612231525439352012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_confusa_10
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 484
+        width: 106
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd06f28b31e565408d846d991982abc
+      internalID: -781966572962209576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_confusa_11
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 484
+        width: 106
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f4876202b1ddd48a957edee38b1979
+      internalID: -3688698091519199664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_confusa_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 304
+        width: 106
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dbe2bb0fed78cd49a3f00ee4ac470b4
+      internalID: 7734699512815787886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_confusa_13
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 304
+        width: 106
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce5b2cb2c40d18418a90613d4986b62
+      internalID: 4033165184316739518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a4b13f891ef16f843b47b502bb381309
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

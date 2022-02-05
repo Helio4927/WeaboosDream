@@ -12,7 +12,8 @@ public class Enemy : AnimEvents {
     protected bool _isTarget = false;
     public float stuneTime = 0.5f;
     //private bool _isInvincible = false;
-    protected State _currentState;
+
+    [SerializeField] protected State _currentState;
     protected bool _isRigth = false;
     protected bool _isAlive = true;
     public float _distanceWhenPlayerHit = 2;

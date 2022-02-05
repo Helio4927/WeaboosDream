@@ -35,8 +35,9 @@ public class SimpleQTE : MonoBehaviour
         total = _bar.transform.localScale.x;
         gameObject.SetActive(false);
     }
-    public void Init(Action<bool> action)
+    public void Init(Action<bool> action, Vector3 qtePos)
     {
+        transform.position = new Vector2(qtePos.x, qtePos.y);
         Debug.Log("QTE.Init");
         _action = action;               
         gameObject.SetActive(true);        
@@ -47,11 +48,7 @@ public class SimpleQTE : MonoBehaviour
     }
         
     void Update()
-    {
-        if(Input.GetKeyDown(KeyCode.H))
-        {
-            Init((res) => Debug.Log("Resultado "+res));
-        }
+    {       
 
         if (!_isStarted) return;
 

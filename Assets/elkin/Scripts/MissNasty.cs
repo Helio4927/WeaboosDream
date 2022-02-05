@@ -48,7 +48,7 @@ public class MissNasty : Enemy
         switch(prevState)
         {
             case State.HURT:
-                if(nextState == State.IDLE)
+                if(nextState == State.IDLE || nextState == State.IN_QTE)
                 {
                     _currentState = nextState;
                     return true;
@@ -109,7 +109,7 @@ public class MissNasty : Enemy
                     _currentState = nextState;
                     return true;
                 }
-                return false;
+                return false;            
 
             default:
                 return false;
@@ -167,7 +167,7 @@ public class MissNasty : Enemy
                     
                 }
 
-                if (letter == 'C')
+                if (letter == 'C' && CanSetNextState(_currentState, State.HURT))
                 {
                     _player.HidePlayer();
                     if (soyVulnerable)
@@ -217,6 +217,7 @@ public class MissNasty : Enemy
             _anim.Play("hit_from_floor", 0, 0);            
         }
         _player.HidePlayer();
+        QuitarVulnerable();
     }
 
     private void QTEStrongFinished(bool result)
@@ -238,9 +239,11 @@ public class MissNasty : Enemy
             _anim.gameObject.SetActive(true);
             parts.gameObject.SetActive(true);
             _anim.Play("miss_nasty_fatality", 0, 0);
-        }        
+        }
+        QuitarVulnerable();
     }
 
+    /* Tambien se llama desde un Invoke */
     private void QuitarVulnerable()
     {
         soyVulnerable = false;

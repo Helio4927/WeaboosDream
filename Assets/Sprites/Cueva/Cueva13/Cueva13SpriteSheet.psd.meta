@@ -1,15 +1,27 @@
 fileFormatVersion: 2
 guid: cd69056d8ace3d34280fed500145fb13
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: Cueva13SpriteSheet_0
-    21300002: Cueva13SpriteSheet_1
-    21300004: Cueva13SpriteSheet_2
-    21300006: Cueva13SpriteSheet_3
-    21300008: Cueva13SpriteSheet_4
-    21300010: Cueva13SpriteSheet_5
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Cueva13SpriteSheet_0
+  - first:
+      213: 21300002
+    second: Cueva13SpriteSheet_1
+  - first:
+      213: 21300004
+    second: Cueva13SpriteSheet_2
+  - first:
+      213: 21300006
+    second: Cueva13SpriteSheet_3
+  - first:
+      213: 21300008
+    second: Cueva13SpriteSheet_4
+  - first:
+      213: 21300010
+    second: Cueva13SpriteSheet_5
   externalObjects: {}
-  serializedVersion: 7
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -63,8 +75,9 @@ TextureImporter:
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  applyGammaDecoding: 1
   platformSettings:
-  - serializedVersion: 2
+  - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -75,7 +88,8 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-  - serializedVersion: 2
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
     buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -86,6 +100,7 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -105,6 +120,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 12864e5d1450cc640b3cbb0179d2d825
+      internalID: 21300000
       vertices: []
       indices: 
       edges: []
@@ -125,6 +141,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 6800cef398a27224893d273d8917861d
+      internalID: 21300002
       vertices: []
       indices: 
       edges: []
@@ -145,6 +162,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 43a572c27e6e1934f8f359975a22dae9
+      internalID: 21300004
       vertices: []
       indices: 
       edges: []
@@ -165,6 +183,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 26bc1faa2878db74daf476adc4070e77
+      internalID: 21300006
       vertices: []
       indices: 
       edges: []
@@ -185,6 +204,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: e694fcdcb15ad3a4ab444d2d8ed4666e
+      internalID: 21300008
       vertices: []
       indices: 
       edges: []
@@ -205,6 +225,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 76f92e2ddaf80d44db4c4584dd2a3496
+      internalID: 21300010
       vertices: []
       indices: 
       edges: []
@@ -213,13 +234,15 @@ TextureImporter:
     physicsShape: []
     bones: []
     spriteID: 6d04c1334682b4e46b4ee86c5de8e720
+    internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
+    secondaryTextures: []
   spritePackingTag: 
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
+  pSDShowRemoveMatteOption: 1
   userData: 
   assetBundleName: 
   assetBundleVariant: 

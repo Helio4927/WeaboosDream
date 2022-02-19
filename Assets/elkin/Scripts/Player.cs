@@ -242,6 +242,12 @@ public class Player : AnimEvents
             FindObjectOfType<GameManager>().interacionBloqueada = false;
         }
     }
+
+    public void ResetActions()
+    {
+        _actions.Clear();
+    }
+
     public void IncrementarVida()
     {      
        _isAlive = GetComponent<LifeBar>().UpdateHp(-1);

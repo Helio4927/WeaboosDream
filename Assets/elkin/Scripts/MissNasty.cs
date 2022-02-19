@@ -216,6 +216,7 @@ public class MissNasty : Enemy
         {
             _anim.Play("hit_from_floor", 0, 0);            
         }
+        _player.ResetActions();
         _player.HidePlayer();
         QuitarVulnerable();
     }
@@ -332,8 +333,7 @@ public class MissNasty : Enemy
                 
                 
                 if (_player.IsAlive)                    
-                {
-                    Debug.Log("Agent: "+_agent.isStopped);
+                {                   
 
                     
                     if (currentDistance < distanceToAttack && CanSetNextState(_currentState, State.ATTACK))

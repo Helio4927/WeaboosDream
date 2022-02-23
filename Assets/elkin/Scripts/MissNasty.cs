@@ -241,6 +241,7 @@ public class MissNasty : Enemy
             parts.gameObject.SetActive(true);
             _anim.Play("miss_nasty_fatality", 0, 0);
         }
+        _player.ResetActions();
         QuitarVulnerable();
     }
 

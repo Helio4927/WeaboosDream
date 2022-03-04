@@ -121037,26 +121037,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 950893734767105589, guid: 8abe1957c32dd404abdb653e0e9566af,
-        type: 3}
-      propertyPath: amountAttempts
-      value: 10
-      objectReference: {fileID: 0}
-    - target: {fileID: 950893734767105589, guid: 8abe1957c32dd404abdb653e0e9566af,
-        type: 3}
-      propertyPath: clickingSeconds
-      value: 0.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 950893734767105589, guid: 8abe1957c32dd404abdb653e0e9566af,
-        type: 3}
-      propertyPath: showingSeconds
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 950893734767105589, guid: 8abe1957c32dd404abdb653e0e9566af,
-        type: 3}
-      propertyPath: intervalBetweenAttempt
-      value: 0.2
-      objectReference: {fileID: 0}
     - target: {fileID: 2491059105081269441, guid: 8abe1957c32dd404abdb653e0e9566af,
         type: 3}
       propertyPath: _animCruceta
@@ -121067,56 +121047,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: MissNassty
       objectReference: {fileID: 0}
-    - target: {fileID: 5780021205775707766, guid: 8abe1957c32dd404abdb653e0e9566af,
-        type: 3}
-      propertyPath: initHp
-      value: 100
-      objectReference: {fileID: 0}
-    - target: {fileID: 5780021205775707766, guid: 8abe1957c32dd404abdb653e0e9566af,
-        type: 3}
-      propertyPath: totalHp
-      value: 100
-      objectReference: {fileID: 0}
-    - target: {fileID: 5780021205775707767, guid: 8abe1957c32dd404abdb653e0e9566af,
-        type: 3}
-      propertyPath: _simpleQTE
-      value: 
-      objectReference: {fileID: 1403627638}
     - target: {fileID: 5780021205775707767, guid: 8abe1957c32dd404abdb653e0e9566af,
         type: 3}
       propertyPath: _qteManager
       value: 
       objectReference: {fileID: 152192002}
-    - target: {fileID: 5780021205775707767, guid: 8abe1957c32dd404abdb653e0e9566af,
-        type: 3}
-      propertyPath: distanceToDash
-      value: 10
-      objectReference: {fileID: 0}
-    - target: {fileID: 5780021205775707767, guid: 8abe1957c32dd404abdb653e0e9566af,
-        type: 3}
-      propertyPath: distanceToDetection
-      value: 4
-      objectReference: {fileID: 0}
-    - target: {fileID: 5780021205775707767, guid: 8abe1957c32dd404abdb653e0e9566af,
-        type: 3}
-      propertyPath: ragePercentage
-      value: 10
-      objectReference: {fileID: 0}
-    - target: {fileID: 5780021205775707767, guid: 8abe1957c32dd404abdb653e0e9566af,
-        type: 3}
-      propertyPath: timeForRage
-      value: 10
-      objectReference: {fileID: 0}
-    - target: {fileID: 5780021205775707767, guid: 8abe1957c32dd404abdb653e0e9566af,
-        type: 3}
-      propertyPath: timeForTired
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5780021205775707767, guid: 8abe1957c32dd404abdb653e0e9566af,
-        type: 3}
-      propertyPath: durationDash
-      value: 2
-      objectReference: {fileID: 0}
     - target: {fileID: 5782027420686019148, guid: 8abe1957c32dd404abdb653e0e9566af,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -121171,42 +121106,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5964646379398778618, guid: 8abe1957c32dd404abdb653e0e9566af,
-        type: 3}
-      propertyPath: m_Color.r
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5964646379398778618, guid: 8abe1957c32dd404abdb653e0e9566af,
-        type: 3}
-      propertyPath: m_Color.g
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5964646379398778618, guid: 8abe1957c32dd404abdb653e0e9566af,
-        type: 3}
-      propertyPath: m_Color.b
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5964646379398778618, guid: 8abe1957c32dd404abdb653e0e9566af,
-        type: 3}
-      propertyPath: m_Sprite
-      value: 
-      objectReference: {fileID: 6996334814825955966, guid: 64196f751fb1cb8469277038d149a6a5,
-        type: 3}
-    - target: {fileID: 5964646379398778618, guid: 8abe1957c32dd404abdb653e0e9566af,
-        type: 3}
-      propertyPath: m_WasSpriteAssigned
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5964646379398778618, guid: 8abe1957c32dd404abdb653e0e9566af,
-        type: 3}
-      propertyPath: m_Size.x
-      value: 11
-      objectReference: {fileID: 0}
-    - target: {fileID: 5964646379398778618, guid: 8abe1957c32dd404abdb653e0e9566af,
-        type: 3}
-      propertyPath: m_Size.y
-      value: 9.214286
       objectReference: {fileID: 0}
     - target: {fileID: 6805707939838144223, guid: 8abe1957c32dd404abdb653e0e9566af,
         type: 3}

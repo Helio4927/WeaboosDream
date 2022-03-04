@@ -225,6 +225,7 @@ SpriteRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
   m_RenderingLayerMask: 4294967295
   m_RendererPriority: 0
   m_Materials:
@@ -249,13 +250,13 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 2
-  m_Sprite: {fileID: 1656995394431113630, guid: 542cba2f72011cc41aa6432ce92fd1cc,
+  m_Sprite: {fileID: 6996334814825955966, guid: 64196f751fb1cb8469277038d149a6a5,
     type: 3}
-  m_Color: {r: 0, g: 0.9622642, b: 0.055090334, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 2.392857, y: 3.7857144}
+  m_Size: {x: 11, y: 9.214286}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -338,6 +339,7 @@ SpriteRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
   m_RenderingLayerMask: 4294967295
   m_RendererPriority: 0
   m_Materials:
@@ -418,6 +420,7 @@ SpriteRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
   m_RenderingLayerMask: 4294967295
   m_RendererPriority: 0
   m_Materials:
@@ -518,6 +521,7 @@ MeshRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
   m_RenderingLayerMask: 4294967295
   m_RendererPriority: 0
   m_Materials:
@@ -606,8 +610,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ab352956fe274664c914350bdf77e3a6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  totalHp: 10
-  initHp: 10
+  totalHp: 100
+  initHp: 100
   spriteBar: {fileID: 0}
 --- !u!114 &5780021205775707767
 MonoBehaviour:
@@ -626,6 +630,7 @@ MonoBehaviour:
   minDistanceToMoveAway: 2
   speed: 2
   stuneTime: 0.5
+  _currentState: 0
   _distanceWhenPlayerHit: 2
   _timeToDissapear: 1
   parts: {fileID: 8727564517603265637}
@@ -634,9 +639,18 @@ MonoBehaviour:
   tiempoEsperaAtaqueEnemigo: 0
   contadorPostRecibirAtaque: 0
   soundManager: {fileID: 0}
+  _qteManager: {fileID: 0}
   minTimeToChangeState: 1
   maxTimeToChangeState: 3
-  distanceToDetection: 0.5
+  distanceToDetection: 4
+  distanceForce: 300
+  ragePercentage: 10
+  distanceToDash: 10
+  timeFollow: 2
+  timeInIdle: 2
+  timeForRage: 10
+  timeForTired: 3
+  durationDash: 2
 --- !u!1 &5780129927601413734
 GameObject:
   m_ObjectHideFlags: 0
@@ -685,6 +699,7 @@ SpriteRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
   m_RenderingLayerMask: 4294967295
   m_RendererPriority: 0
   m_Materials:
@@ -1015,6 +1030,7 @@ SpriteRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
   m_RenderingLayerMask: 4294967295
   m_RendererPriority: 0
   m_Materials:

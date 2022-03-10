@@ -38,6 +38,39 @@ TextureImporter:
   - first:
       213: -5084838165623805393
     second: MissNastyTyred_11
+  - first:
+      213: 147065578356105594
+    second: MissNastyTired_0
+  - first:
+      213: -1360010090539602639
+    second: MissNastyTired_1
+  - first:
+      213: 5584473937655421864
+    second: MissNastyTired_2
+  - first:
+      213: 2638401148178965863
+    second: MissNastyTired_3
+  - first:
+      213: 9152296501930968665
+    second: MissNastyTired_4
+  - first:
+      213: 3915573452287676888
+    second: MissNastyTired_5
+  - first:
+      213: -1071061198262781444
+    second: MissNastyTired_6
+  - first:
+      213: -1902689794974687491
+    second: MissNastyTired_7
+  - first:
+      213: -8113746310335442332
+    second: MissNastyTired_8
+  - first:
+      213: 7240092163861527544
+    second: MissNastyTired_9
+  - first:
+      213: 7002848323799942437
+    second: MissNastyTired_10
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -135,13 +168,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: MissNastyTyred_0
+      name: MissNastyTired_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 364
-        width: 130
-        height: 182
+        y: 360
+        width: 124
+        height: 180
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -149,20 +182,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 559bbdc59aaeec7e0800000000000000
-      internalID: -1743197992617526955
+      spriteID: a716a944d5b7a0200800000000000000
+      internalID: 147065578356105594
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MissNastyTyred_1
+      name: MissNastyTired_1
       rect:
         serializedVersion: 2
-        x: 130
-        y: 364
-        width: 130
-        height: 182
+        x: 124
+        y: 360
+        width: 124
+        height: 180
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -170,20 +203,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0ef720c34780babb0800000000000000
-      internalID: -4923832472283480096
+      spriteID: 13da07e3706402de0800000000000000
+      internalID: -1360010090539602639
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MissNastyTyred_2
+      name: MissNastyTired_2
       rect:
         serializedVersion: 2
-        x: 260
-        y: 364
-        width: 130
-        height: 182
+        x: 248
+        y: 360
+        width: 124
+        height: 180
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -191,20 +224,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 21434a353835bb4e0800000000000000
-      internalID: -1964884988907998190
+      spriteID: 8abd06f5579008d40800000000000000
+      internalID: 5584473937655421864
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MissNastyTyred_3
+      name: MissNastyTired_3
       rect:
         serializedVersion: 2
-        x: 390
-        y: 364
-        width: 130
-        height: 182
+        x: 372
+        y: 360
+        width: 124
+        height: 180
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -212,104 +245,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a82b192626ed18090800000000000000
-      internalID: -8033895746110377334
+      spriteID: 765a03c8ddb7d9420800000000000000
+      internalID: 2638401148178965863
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MissNastyTyred_4
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 182
-        width: 130
-        height: 182
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ea90a726f59aa2de0800000000000000
-      internalID: -1357086110559630930
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MissNastyTyred_5
-      rect:
-        serializedVersion: 2
-        x: 130
-        y: 182
-        width: 130
-        height: 182
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2b120266cd3f1ba40800000000000000
-      internalID: 5382351157616189874
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MissNastyTyred_6
-      rect:
-        serializedVersion: 2
-        x: 260
-        y: 182
-        width: 130
-        height: 182
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 08ee45c0c448f9610800000000000000
-      internalID: 1630167052290682496
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MissNastyTyred_7
-      rect:
-        serializedVersion: 2
-        x: 390
-        y: 182
-        width: 130
-        height: 182
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 372f74c2a93cd5a40800000000000000
-      internalID: 5358654198576050803
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MissNastyTyred_8
+      name: MissNastyTired_4
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
-        width: 130
-        height: 182
+        y: 180
+        width: 124
+        height: 180
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -317,20 +266,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9b429e7fb2fab2fb0800000000000000
-      internalID: -4671447585089051463
+      spriteID: 95645a47d2d730f70800000000000000
+      internalID: 9152296501930968665
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MissNastyTyred_9
+      name: MissNastyTired_5
       rect:
         serializedVersion: 2
-        x: 130
-        y: 0
-        width: 130
-        height: 182
+        x: 124
+        y: 180
+        width: 124
+        height: 180
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -338,20 +287,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6325431b4c4be0740800000000000000
-      internalID: 5120228583246418486
+      spriteID: 8d19e8b2f49e65630800000000000000
+      internalID: 3915573452287676888
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MissNastyTyred_10
+      name: MissNastyTired_6
       rect:
         serializedVersion: 2
-        x: 260
-        y: 0
-        width: 130
-        height: 182
+        x: 248
+        y: 180
+        width: 124
+        height: 180
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -359,20 +308,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 85614290bd40858c0800000000000000
-      internalID: -4010450129375717800
+      spriteID: cf9b7d0d383d221f0800000000000000
+      internalID: -1071061198262781444
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MissNastyTyred_11
+      name: MissNastyTired_7
       rect:
         serializedVersion: 2
-        x: 390
-        y: 0
-        width: 130
-        height: 182
+        x: 372
+        y: 180
+        width: 124
+        height: 180
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -380,8 +329,71 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f2ae4a501a60f69b0800000000000000
-      internalID: -5084838165623805393
+      spriteID: dfed5cc56b94895e0800000000000000
+      internalID: -1902689794974687491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNastyTired_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 124
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462d1de18be266f80800000000000000
+      internalID: -8113746310335442332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNastyTired_9
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 0
+        width: 124
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb3e00a679f97460800000000000000
+      internalID: 7240092163861527544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNastyTired_10
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 0
+        width: 124
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5250904a27d1f2160800000000000000
+      internalID: 7002848323799942437
       vertices: []
       indices: 
       edges: []

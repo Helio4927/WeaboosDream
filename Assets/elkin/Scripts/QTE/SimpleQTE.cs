@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class SimpleQTE : MonoBehaviour
+public class SimpleQTE : MonoBehaviour, ISimpleQTE
 {
 
     [SerializeField]
@@ -102,4 +102,6 @@ public class SimpleQTE : MonoBehaviour
         gameObject.SetActive(false);
         _isStarted = false;
     }
+
+    public string Name => name;
 }

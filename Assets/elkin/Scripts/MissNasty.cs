@@ -173,7 +173,12 @@ public class MissNasty : Enemy
                     if (soyVulnerable)
                     {
                         //recibe golpe y cae al suelo      
-                        _anim.Play("miss_nasty_hurt_head_weak", 0, 0);
+                        //_anim.Play("miss_nasty_hurt_head_weak", 0, 0);
+                        //_anim.Play("wait_qte_weak", 0, 0);
+                        _anim.Play("hurt_in_floor", 0, 0);
+                        StartingQTE();
+                        CanSetNextState(_currentState, State.IN_QTE);
+                        _qteManager.CallQTE("QteMissNastyWeak", QTEWeakFinished);
                     }
                     else
                     {   
@@ -207,18 +212,27 @@ public class MissNasty : Enemy
         _anim.gameObject.SetActive(true);
         parts.gameObject.SetActive(true);
 
-        Debug.Log("QTEWeakFinished: " + result);
-        if(result)
+        //_anim.Play("hit_from_floor", 0, 0);
+        _player.ResetActions();           
+        QuitarVulnerable();
+
+        var itWouldDie = _lifeBar.IsGoingToDie(10);
+
+        if (itWouldDie)
         {
-            _anim.Play("hurt_in_floor", 0, 0);
+            //CanSetNextState(_currentState, State.IDLE);
+            //player hace fatality
+            _anim.Play("miss_nasty_dead", 0, 0);
+
         }
         else
         {
+            //aca deberia ir animacion de ponerse de pie
             _anim.Play("hit_from_floor", 0, 0);            
         }
-        _player.ResetActions();
-        _player.HidePlayer();
-        QuitarVulnerable();
+
+        Debug.Log("QTEWeakFinished: " + result);     
+        
     }
 
     private void QTEStrongFinished(bool result)
@@ -407,8 +421,8 @@ public class MissNasty : Enemy
     public override void HitFromFloorHacerDano()
     {
         _player.ShowPlayer();
-        _player.ShowDamage(this);
-        _player.MoveAwayPlayerOf(_player.transform.position - Vector3.right, distanceForce);
+        _player.ShowAnimDefend();
+        _player.MoveAwayPlayerOf(transform.position, distanceForce);
     }
 
     private float CalculateDistance(GameObject target, GameObject destination)
@@ -430,9 +444,9 @@ public class MissNasty : Enemy
             case "hit_from_floor":
                 //player muestra daño                
                 _anim.Play("idle", 0, 0);
-                CanSetNextState(_currentState, State.IDLE);
+                CanSetNextState(_currentState, State.IDLE);                
                 break;
-
+                /*
             case "hurt_in_floor":
                 var itWouldDie = _lifeBar.IsGoingToDie(10);
                 
@@ -456,13 +470,15 @@ public class MissNasty : Enemy
                 }
 
                 break;
-
+                */
             case "hurt_head_weak":
+                /*
                 //inicia qte miss nasty debil
                 _anim.Play("wait_qte_weak", 0, 0);
                 StartingQTE();
                 CanSetNextState(_currentState, State.IN_QTE);
-                _qteManager.CallQTE("QteMissNastyWeak", QTEWeakFinished);                
+                _qteManager.CallQTE("QteMissNastyWeak", QTEWeakFinished);       
+                */
                 break;
 
             case "hurt_head_strong":

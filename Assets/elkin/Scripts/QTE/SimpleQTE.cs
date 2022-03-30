@@ -15,7 +15,7 @@ public class SimpleQTE : MonoBehaviour, ISimpleQTE
     [SerializeField]
     private bool _isStarted = false;
 
-    private Action<bool> _action;        
+    private Action<bool, int> _action;        
 
     public float duration;
     public float threshold = 0.2f;
@@ -35,7 +35,7 @@ public class SimpleQTE : MonoBehaviour, ISimpleQTE
         total = _bar.transform.localScale.x;
         gameObject.SetActive(false);
     }
-    public void Init(Action<bool> action, Vector3 qtePos)
+    public void Init(Action<bool, int> action, Vector3 qtePos, Action<int> onUpdate = null)
     {
         transform.position = new Vector2(qtePos.x, qtePos.y);
         Debug.Log("QTE.Init");
@@ -88,7 +88,7 @@ public class SimpleQTE : MonoBehaviour, ISimpleQTE
     private void BadFinish()
     {
         Debug.Log("FinishingFase ");
-        _action.Invoke(false);
+        _action.Invoke(false, 0);
         anim.SetBool("play", false);
         gameObject.SetActive(false);
         _isStarted = false;        
@@ -97,7 +97,7 @@ public class SimpleQTE : MonoBehaviour, ISimpleQTE
     private void GoodFinish()
     {
         Debug.Log("FinishingFase ");
-        _action.Invoke(true);
+        _action.Invoke(true, 0);
         anim.SetBool("play", false);
         gameObject.SetActive(false);
         _isStarted = false;

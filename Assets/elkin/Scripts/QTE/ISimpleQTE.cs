@@ -5,6 +5,6 @@ using UnityEngine;
 
 public interface ISimpleQTE
 {
-    void Init(Action<bool> action, Vector3 qtePos);
+    void Init(Action<bool, int> action, Vector3 qtePos, Action<int> onUpdate);
     string Name { get; }
 }

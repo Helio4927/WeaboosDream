@@ -13,14 +13,14 @@ public class QteManager : MonoBehaviour
         _qteList = GetComponentsInChildren<ISimpleQTE>(true);
     }
 
-    public void CallQTE(string nameQte, Action<bool> action)
+    public void CallQTE(string nameQte, Action<bool, int> action, Action<int> onUpdate = null)
     {
         var qteWorldPos = Camera.main.ScreenToWorldPoint(_qtePos.position);
         foreach (var qte in _qteList)
         {
             if(qte.Name.Equals(nameQte))
             {
-                qte.Init(action, qteWorldPos);
+                qte.Init(action, qteWorldPos, onUpdate);
                 break;
             }
         }

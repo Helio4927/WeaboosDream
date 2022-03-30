@@ -178,7 +178,7 @@ public class MissNasty : Enemy
                         _anim.Play("hurt_in_floor", 0, 0);
                         StartingQTE();
                         CanSetNextState(_currentState, State.IN_QTE);
-                        _qteManager.CallQTE("QteMissNastyWeak", QTEWeakFinished);
+                        _qteManager.CallQTE("QteMissNastyWeak", QTEWeakFinished, OnUpdate);
                     }
                     else
                     {   
@@ -198,6 +198,24 @@ public class MissNasty : Enemy
        
     }
 
+    private void OnUpdate(int val)
+    {        
+        switch (val)
+        {
+            case 0:
+                _anim.speed = 1;
+                break;
+
+            case 1:
+                _anim.speed = 2;
+                break;
+
+            case 2:
+                _anim.speed = 3;
+                break;
+        }
+    }
+
     private void StartingQTE()
     {
         parts.gameObject.SetActive(false);        
@@ -207,8 +225,9 @@ public class MissNasty : Enemy
         CancelInvoke("Attack");
     }
 
-    private void QTEWeakFinished(bool result)
+    private void QTEWeakFinished(bool result, int val)
     {
+        _anim.speed = 1;
         _anim.gameObject.SetActive(true);
         parts.gameObject.SetActive(true);
 
@@ -216,7 +235,7 @@ public class MissNasty : Enemy
         _player.ResetActions();           
         QuitarVulnerable();
 
-        var itWouldDie = _lifeBar.IsGoingToDie(10);
+        var itWouldDie = _lifeBar.IsGoingToDie(val * 10);
 
         if (itWouldDie)
         {
@@ -235,7 +254,7 @@ public class MissNasty : Enemy
         
     }
 
-    private void QTEStrongFinished(bool result)
+    private void QTEStrongFinished(bool result, int val)
     {
         Debug.Log("QTEStrongFinished: " + result);
         if(result)

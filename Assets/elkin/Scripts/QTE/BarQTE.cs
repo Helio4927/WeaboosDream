@@ -26,7 +26,8 @@ public class BarQTE : MonoBehaviour, ISimpleQTE
     [SerializeField]
     private bool _isStarted = false;
 
-    private Action<bool> _action;
+    private Action<bool, int> _action;
+    private Action<int> _onUpdate;
 
     public float duration;
     public float threshold = 0.2f;
@@ -69,12 +70,15 @@ public class BarQTE : MonoBehaviour, ISimpleQTE
         anim = GetComponent<Animator>();
         anim.SetBool("play", false);
         total = _rightLimitIindicator.localPosition.x;
+
+        gameObject.SetActive(false);
         
     }
 
-    public void Init(Action<bool> action, Vector3 qtePos)
+    public void Init(Action<bool, int> action, Vector3 qtePos, Action<int> onUpdate)
     {
-        //transform.position = new Vector2(qtePos.x, qtePos.y);
+        _onUpdate = onUpdate;
+        transform.position = new Vector2(qtePos.x, qtePos.y);
         Debug.Log("QTE.Init");
         _action = action;
         gameObject.SetActive(true);
@@ -84,7 +88,7 @@ public class BarQTE : MonoBehaviour, ISimpleQTE
         time = 0;
     }
 
-    private void Test(bool val)
+    private void Test(bool result, int val)
     {
         Debug.Log($"Test {val}");
     }
@@ -93,7 +97,7 @@ public class BarQTE : MonoBehaviour, ISimpleQTE
     {
         if (Input.GetKeyDown(KeyCode.H))
         {
-            Init(Test, Vector3.zero);
+            Init(Test, Vector3.zero, null);
         }
 
         if (!_isStarted) return;
@@ -146,13 +150,14 @@ public class BarQTE : MonoBehaviour, ISimpleQTE
             _damageType = 0;
         }
 
+        _onUpdate?.Invoke(_damageType);
         Debug.Log("DamageType "+_damageType);
     }
 
     private void BadFinish()
     {
         Debug.Log("FinishingFase ");
-        _action.Invoke(false);
+        _action.Invoke(false, _damageType);
         anim.SetBool("play", false);
         gameObject.SetActive(false);
         _isStarted = false;
@@ -161,7 +166,7 @@ public class BarQTE : MonoBehaviour, ISimpleQTE
     private void GoodFinish()
     {
         Debug.Log("FinishingFase ");
-        _action.Invoke(true);
+        _action.Invoke(true, _damageType);
         anim.SetBool("play", false);
         gameObject.SetActive(false);
         _isStarted = false;

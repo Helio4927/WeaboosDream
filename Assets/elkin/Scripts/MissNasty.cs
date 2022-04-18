@@ -104,7 +104,7 @@ public class MissNasty : Enemy
                 return false;
 
             case State.TIRED:
-                if (nextState == State.IDLE)
+                if (nextState == State.IDLE || nextState == State.HURT)
                 {
                     _currentState = nextState;
                     return true;
@@ -120,6 +120,11 @@ public class MissNasty : Enemy
     {
         CheckStateMachine();
         SetFlip(transform.position.x < _player.transform.position.x);
+
+        if(_currentState == State.DASH && _agent.velocity.sqrMagnitude<=0)
+        {
+            Debug.Log("Se detuvo durante el dash");
+        }
     }
 
     protected override int GetDamageValue(string animName)
@@ -308,8 +313,8 @@ public class MissNasty : Enemy
                 if (!_player.IsAlive) return;
 
                 var probability = Random.Range(0, 100);
-                Debug.Log("Current Distance: " + currentDistance);
-                Debug.Log("Probability: " + probability);
+                //Debug.Log("Current Distance: " + currentDistance);
+                //Debug.Log("Probability: " + probability);
                 
                 if(currentDistance < distanceToDetection)
                 {
@@ -396,7 +401,7 @@ public class MissNasty : Enemy
             case State.DASH:
                 Debug.Log("Current velocity: "+ _agent.velocity);
                 Debug.Log("DASH Current Distance: " + currentDistance);
-                if (currentDistance < 1 /*|| _agent.velocity.magnitude < 0.1f*/)
+                if (currentDistance < 3 /*|| _agent.velocity.magnitude < 0.1f*/)
                 {
                     _agent.isStopped = true;
                     _player.ShowDamage(this);
@@ -538,5 +543,15 @@ public class MissNasty : Enemy
         {
             transform.localScale = Vector3.one;
         }
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        Debug.Log("OnTriggerEnter2D: "+ collision.gameObject.name);   
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        Debug.Log("OnCollisionEnter2D: "+collision.gameObject.name);
     }
 }

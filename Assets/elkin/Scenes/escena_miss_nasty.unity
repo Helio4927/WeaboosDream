@@ -52512,7 +52512,7 @@ MonoBehaviour:
   tamanoCamara: 5
   currentEscenario: {fileID: 0}
   puedePasar: 0
-  escalaPlayer: 1.1
+  escalaPlayer: 1
   cambioCancion: 0
   siguienteCancion: 0
 --- !u!65 &1088975577

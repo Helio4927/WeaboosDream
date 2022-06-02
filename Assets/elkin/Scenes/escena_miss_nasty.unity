@@ -34266,6 +34266,12 @@ ParticleSystem:
         m_PostInfinity: 2
         m_RotationOrder: 4
     vectorLabel1_3: W
+--- !u!1 &613153035 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1010066631188850, guid: 342b4e3154be8e7438ae1fd34fe5dcf1,
+    type: 3}
+  m_PrefabInstance: {fileID: 1073950275}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &618102322
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -93500,6 +93506,7 @@ MonoBehaviour:
   PaqueteCarne: {fileID: 1140526757}
   PaqueteCarneAbierta: {fileID: 1099582331}
   PaqueteCadaveres: {fileID: 691754135}
+  sobranteRosa: {fileID: 613153035}
   luzMaquinaExp: {fileID: 1468263700}
   cubreLED: {fileID: 1414552723}
   panelHerido: {fileID: 1654408770}

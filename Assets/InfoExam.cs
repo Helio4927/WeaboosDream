@@ -604,6 +604,7 @@ public class InfoExam : MonoBehaviour {
     public void AddCurry()
     {
         FindObjectOfType<GameManager>().PaqueteCadaveres.SetActive(true);
+        FindObjectOfType<GameManager>().sobranteRosa.SetActive(false);
         FindObjectOfType<GameManager>().dialogoPostCurry.SetActive(true);
         managerInventario.gameObject.transform.GetChild(0).gameObject.SetActive(true);
         FindObjectOfType<CursorManager>().CursorMouseOn(true);

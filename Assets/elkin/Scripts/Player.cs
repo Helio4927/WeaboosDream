@@ -114,6 +114,7 @@ public class Player : AnimEvents
         {
             soundManager.PlaySound(8);
             _anim.Play("animMuerte");
+            Invoke("EncenderPanelGameOver", 5f);
         }
     }
 
@@ -261,6 +262,7 @@ public class Player : AnimEvents
         {
             print("PANEL DE MUERTE AQUI HA ACABADO LA ANIMACION");
             print("VOLVER AL SUEÑO SI - NO ETC...");
+            Invoke("EncenderPanelGameOver", 5f);
             return;
         }
 

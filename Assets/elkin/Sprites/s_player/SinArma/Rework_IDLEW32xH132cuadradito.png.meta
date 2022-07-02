@@ -1,34 +1,40 @@
 fileFormatVersion: 2
-guid: 9681c914136be89489eefede27156516
+guid: 5f6eb642f41f1ea4a87afd691049338b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2675745880276338096
-    second: Rework_walking_Cycle3W70xh130(SINARMA)_0
+      213: 4809488690398286728
+    second: Rework_IDLEW32xH132cuadradito_0
   - first:
-      213: -4041516662060819344
-    second: Rework_walking_Cycle3W70xh130(SINARMA)_1
+      213: 842224683138342778
+    second: Rework_IDLEW32xH132cuadradito_1
   - first:
-      213: 6107177808656887565
-    second: Rework_walking_Cycle3W70xh130(SINARMA)_2
+      213: 1076869927300151470
+    second: Rework_IDLEW32xH132cuadradito_2
   - first:
-      213: 1016832599803638408
-    second: Rework_walking_Cycle3W70xh130(SINARMA)_3
+      213: 578955009461686502
+    second: Rework_IDLEW32xH132cuadradito_3
   - first:
-      213: -5811755838672291415
-    second: Rework_walking_Cycle3W70xh130(SINARMA)_4
+      213: 5089690871253432127
+    second: Rework_IDLEW32xH132cuadradito_4
   - first:
-      213: 4061451965773934596
-    second: Rework_walking_Cycle3W70xh130(SINARMA)_5
+      213: -5408836868745308585
+    second: Rework_IDLEW32xH132cuadradito_5
   - first:
-      213: 94167112268173315
-    second: Rework_walking_Cycle3W70xh130(SINARMA)_6
+      213: -4906562351698771192
+    second: Rework_IDLEW32xH132cuadradito_6
   - first:
-      213: 1705787812154331443
-    second: Rework_walking_Cycle3W70xh130(SINARMA)_7
+      213: 9154972545145375063
+    second: Rework_IDLEW32xH132cuadradito_7
   - first:
-      213: -2750442453973458292
-    second: Rework_walking_Cycle3W70xh130(SINARMA)_8
+      213: 7731266001129212503
+    second: Rework_IDLEW32xH132cuadradito_8
+  - first:
+      213: -5346441777938955563
+    second: Rework_IDLEW32xH132cuadradito_9
+  - first:
+      213: -3429708817322877748
+    second: Rework_IDLEW32xH132cuadradito_10
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -93,7 +99,7 @@ TextureImporter:
     textureFormat: -1
     textureCompression: 0
     compressionQuality: 50
-    crunchedCompression: 0
+    crunchedCompression: 1
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
@@ -105,7 +111,7 @@ TextureImporter:
     textureFormat: -1
     textureCompression: 0
     compressionQuality: 50
-    crunchedCompression: 0
+    crunchedCompression: 1
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
@@ -117,7 +123,7 @@ TextureImporter:
     textureFormat: -1
     textureCompression: 0
     compressionQuality: 50
-    crunchedCompression: 0
+    crunchedCompression: 1
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
@@ -126,160 +132,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Rework_walking_Cycle3W70xh130(SINARMA)_0
+      name: Rework_IDLEW32xH132cuadradito_0
       rect:
         serializedVersion: 2
-        x: 7
-        y: 262
-        width: 55
-        height: 127
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 05af9e07c47dddad0800000000000000
-      internalID: -2675745880276338096
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Rework_walking_Cycle3W70xh130(SINARMA)_1
-      rect:
-        serializedVersion: 2
-        x: 79
-        y: 263
-        width: 38
-        height: 126
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 07cda0c3206a9e7c0800000000000000
-      internalID: -4041516662060819344
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Rework_walking_Cycle3W70xh130(SINARMA)_2
-      rect:
-        serializedVersion: 2
-        x: 94
-        y: 260
-        width: 19
-        height: 11
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d0f64291cdd01c450800000000000000
-      internalID: 6107177808656887565
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Rework_walking_Cycle3W70xh130(SINARMA)_3
-      rect:
-        serializedVersion: 2
-        x: 153
-        y: 261
-        width: 26
-        height: 127
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8823553bcd38c1e00800000000000000
-      internalID: 1016832599803638408
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Rework_walking_Cycle3W70xh130(SINARMA)_4
-      rect:
-        serializedVersion: 2
-        x: 15
-        y: 131
-        width: 39
-        height: 129
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9a9b2a25bde785fa0800000000000000
-      internalID: -5811755838672291415
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Rework_walking_Cycle3W70xh130(SINARMA)_5
-      rect:
-        serializedVersion: 2
-        x: 75
-        y: 131
-        width: 60
-        height: 128
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 400744c5b0d2d5830800000000000000
-      internalID: 4061451965773934596
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Rework_walking_Cycle3W70xh130(SINARMA)_6
-      rect:
-        serializedVersion: 2
-        x: 143
-        y: 131
-        width: 50
-        height: 128
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 300d44c5d7c8e4100800000000000000
-      internalID: 94167112268173315
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Rework_walking_Cycle3W70xh130(SINARMA)_7
-      rect:
-        serializedVersion: 2
-        x: 6
+        x: 1
         y: 1
-        width: 53
-        height: 127
+        width: 30
+        height: 130
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -287,20 +146,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 33156ad3afc2ca710800000000000000
-      internalID: 1705787812154331443
+      spriteID: 883d27e6b7cbeb240800000000000000
+      internalID: 4809488690398286728
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rework_walking_Cycle3W70xh130(SINARMA)_8
+      name: Rework_IDLEW32xH132cuadradito_1
       rect:
         serializedVersion: 2
-        x: 80
-        y: 0
-        width: 45
-        height: 129
+        x: 33
+        y: 1
+        width: 30
+        height: 130
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -308,8 +167,197 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c8222cb192774d9d0800000000000000
-      internalID: -2750442453973458292
+      spriteID: a7fd68313ee20bb00800000000000000
+      internalID: 842224683138342778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rework_IDLEW32xH132cuadradito_2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1
+        width: 30
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8b60e4e7fc1fe00800000000000000
+      internalID: 1076869927300151470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rework_IDLEW32xH132cuadradito_3
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1
+        width: 30
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e095ef738cd80800800000000000000
+      internalID: 578955009461686502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rework_IDLEW32xH132cuadradito_4
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1
+        width: 30
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37fb9d81e632a640800000000000000
+      internalID: 5089690871253432127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rework_IDLEW32xH132cuadradito_5
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1
+        width: 30
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756566e6683ffe4b0800000000000000
+      internalID: -5408836868745308585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rework_IDLEW32xH132cuadradito_6
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1
+        width: 30
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80380b6898368ebb0800000000000000
+      internalID: -4906562351698771192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rework_IDLEW32xH132cuadradito_7
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1
+        width: 30
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75908d1560ffc0f70800000000000000
+      internalID: 9154972545145375063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rework_IDLEW32xH132cuadradito_8
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1
+        width: 30
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a8c5d4779fa4b60800000000000000
+      internalID: 7731266001129212503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rework_IDLEW32xH132cuadradito_9
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1
+        width: 30
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d204a5978f9dc5b0800000000000000
+      internalID: -5346441777938955563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rework_IDLEW32xH132cuadradito_10
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1
+        width: 30
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cccd174800a3760d0800000000000000
+      internalID: -3429708817322877748
       vertices: []
       indices: 
       edges: []
@@ -317,7 +365,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: 1067f36388ca4204ca25bcf2e72b71e4
     internalID: 0
     vertices: []
     indices: 

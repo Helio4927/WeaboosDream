@@ -21,6 +21,7 @@ public class GameManager : MonoBehaviour {
     public GameObject PaqueteCarne;
     public GameObject PaqueteCarneAbierta;
     public GameObject PaqueteCadaveres;
+    public GameObject sobranteRosa;
 
     public GameObject luzMaquinaExp;
     public GameObject cubreLED;

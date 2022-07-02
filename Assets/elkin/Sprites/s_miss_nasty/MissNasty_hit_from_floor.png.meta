@@ -1,0 +1,428 @@
+fileFormatVersion: 2
+guid: 9718766d3a6f07540814fb710f4b5cc2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3587291151801172798
+    second: MissNasty_hit_from_floor_0
+  - first:
+      213: 6877012878074528017
+    second: MissNasty_hit_from_floor_1
+  - first:
+      213: 7481668514697027058
+    second: MissNasty_hit_from_floor_2
+  - first:
+      213: 4859805328494163916
+    second: MissNasty_hit_from_floor_3
+  - first:
+      213: 1537353364886847434
+    second: MissNasty_hit_from_floor_4
+  - first:
+      213: 503164960333567749
+    second: MissNasty_hit_from_floor_5
+  - first:
+      213: 3601744254015965231
+    second: MissNasty_hit_from_floor_6
+  - first:
+      213: -3695337808656598256
+    second: MissNasty_hit_from_floor_7
+  - first:
+      213: -7180177348578025437
+    second: MissNasty_hit_from_floor_8
+  - first:
+      213: -5211477675222366334
+    second: MissNasty_hit_from_floor_9
+  - first:
+      213: 5479662433563320534
+    second: MissNasty_hit_from_floor_10
+  - first:
+      213: -4862468064540555400
+    second: MissNasty_hit_from_floor_11
+  - first:
+      213: -2716030595307811902
+    second: MissNasty_hit_from_floor_12
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 28
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MissNasty_hit_from_floor_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 884
+        width: 228
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f85327782850b14eaf8121290226831
+      internalID: 3587291151801172798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_hit_from_floor_1
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 884
+        width: 228
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010775c43fa2baa42a5481e21bfb9f54
+      internalID: 6877012878074528017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_hit_from_floor_2
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 884
+        width: 228
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cde7ccd3342109478d8a726b7e3fb84
+      internalID: 7481668514697027058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_hit_from_floor_3
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 884
+        width: 228
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1016375a643e14ebb9769a31d4424a
+      internalID: 4859805328494163916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_hit_from_floor_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 744
+        width: 228
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a14bfc1cb55c440991dda42ccdb995
+      internalID: 1537353364886847434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_hit_from_floor_5
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 744
+        width: 228
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077ba5d451fb36348a7f99e80d1e5831
+      internalID: 503164960333567749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_hit_from_floor_6
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 744
+        width: 228
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce38d5a7fee17e345816a635dd5d8b4e
+      internalID: 3601744254015965231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_hit_from_floor_7
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 744
+        width: 228
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7cc2d47e26e064397127df25342d43
+      internalID: -3695337808656598256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_hit_from_floor_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 604
+        width: 228
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7469ded91ca784bb77e24427417ccb
+      internalID: -7180177348578025437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_hit_from_floor_9
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 604
+        width: 228
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c37bc5507baedd4895a1b440e6461c7
+      internalID: -5211477675222366334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_hit_from_floor_10
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 604
+        width: 228
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 699fa7ce57c5a394f86d81ab70536b73
+      internalID: 5479662433563320534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_hit_from_floor_11
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 604
+        width: 228
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76ab1995f3016e4da575ffce1bab97e
+      internalID: -4862468064540555400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_hit_from_floor_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 464
+        width: 228
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e80d8fb109f52a488123b53d94dabf2
+      internalID: -2716030595307811902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 95305fc05c8ba40468c8bedc9ce4eb81
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

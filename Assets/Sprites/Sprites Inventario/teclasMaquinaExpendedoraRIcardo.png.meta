@@ -1,25 +1,57 @@
 fileFormatVersion: 2
 guid: 1dc8779f3c213d24eb77a74d63771e3d
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: teclasMaquinaExpendedoraRIcardo_0
-    21300002: teclasMaquinaExpendedoraRIcardo_1
-    21300004: teclasMaquinaExpendedoraRIcardo_2
-    21300006: teclasMaquinaExpendedoraRIcardo_3
-    21300008: teclasMaquinaExpendedoraRIcardo_4
-    21300010: teclasMaquinaExpendedoraRIcardo_5
-    21300012: teclasMaquinaExpendedoraRIcardo_6
-    21300014: teclasMaquinaExpendedoraRIcardo_7
-    21300016: teclasMaquinaExpendedoraRIcardo_8
-    21300018: teclasMaquinaExpendedoraRIcardo_9
-    21300020: teclasMaquinaExpendedoraRIcardo_10
-    21300022: teclasMaquinaExpendedoraRIcardo_11
-    21300024: teclasMaquinaExpendedoraRIcardo_12
-    21300026: teclasMaquinaExpendedoraRIcardo_13
-    21300028: teclasMaquinaExpendedoraRIcardo_14
-    21300030: teclasMaquinaExpendedoraRIcardo_15
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: teclasMaquinaExpendedoraRIcardo_0
+  - first:
+      213: 21300002
+    second: teclasMaquinaExpendedoraRIcardo_1
+  - first:
+      213: 21300004
+    second: teclasMaquinaExpendedoraRIcardo_2
+  - first:
+      213: 21300006
+    second: teclasMaquinaExpendedoraRIcardo_3
+  - first:
+      213: 21300008
+    second: teclasMaquinaExpendedoraRIcardo_4
+  - first:
+      213: 21300010
+    second: teclasMaquinaExpendedoraRIcardo_5
+  - first:
+      213: 21300012
+    second: teclasMaquinaExpendedoraRIcardo_6
+  - first:
+      213: 21300014
+    second: teclasMaquinaExpendedoraRIcardo_7
+  - first:
+      213: 21300016
+    second: teclasMaquinaExpendedoraRIcardo_8
+  - first:
+      213: 21300018
+    second: teclasMaquinaExpendedoraRIcardo_9
+  - first:
+      213: 21300020
+    second: teclasMaquinaExpendedoraRIcardo_10
+  - first:
+      213: 21300022
+    second: teclasMaquinaExpendedoraRIcardo_11
+  - first:
+      213: 21300024
+    second: teclasMaquinaExpendedoraRIcardo_12
+  - first:
+      213: 21300026
+    second: teclasMaquinaExpendedoraRIcardo_13
+  - first:
+      213: 21300028
+    second: teclasMaquinaExpendedoraRIcardo_14
+  - first:
+      213: 21300030
+    second: teclasMaquinaExpendedoraRIcardo_15
   externalObjects: {}
-  serializedVersion: 6
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -73,40 +105,44 @@ TextureImporter:
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  applyGammaDecoding: 1
   platformSettings:
-  - serializedVersion: 2
+  - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-  - serializedVersion: 2
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
     buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-  - serializedVersion: 2
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
     buildTarget: Android
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -126,6 +162,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: ad88d7c067c497142b2c877e56f74a59
+      internalID: 21300000
       vertices: []
       indices: 
       edges: []
@@ -146,6 +183,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 890496a29dc563748a0b163f64438716
+      internalID: 21300002
       vertices: []
       indices: 
       edges: []
@@ -166,6 +204,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 9f72b90da1d7f814c8a1d2f7558ee1e3
+      internalID: 21300004
       vertices: []
       indices: 
       edges: []
@@ -186,6 +225,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 521b0589f775c3c4bb0662ecf86127c8
+      internalID: 21300006
       vertices: []
       indices: 
       edges: []
@@ -206,6 +246,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 133d259a6c7ca1a4e8dc0bc074be0b70
+      internalID: 21300008
       vertices: []
       indices: 
       edges: []
@@ -226,6 +267,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 8690a16d01703f548b97ab20437c27d3
+      internalID: 21300010
       vertices: []
       indices: 
       edges: []
@@ -246,6 +288,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: be9a220a35b514444aa992fc04d8ece9
+      internalID: 21300012
       vertices: []
       indices: 
       edges: []
@@ -266,6 +309,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 8d19106aa0fb66d4d9320aa09b3255d7
+      internalID: 21300014
       vertices: []
       indices: 
       edges: []
@@ -286,6 +330,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 0b3cd30b07c0222409abb6fd32f07556
+      internalID: 21300016
       vertices: []
       indices: 
       edges: []
@@ -306,6 +351,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: dd58f8b71a41cfe459165f94a18fce1c
+      internalID: 21300018
       vertices: []
       indices: 
       edges: []
@@ -326,6 +372,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 83609b6d6fc8fbf46a5731f3f21c3f31
+      internalID: 21300020
       vertices: []
       indices: 
       edges: []
@@ -346,6 +393,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: bc90946b80daadd44aa43b781847d6e8
+      internalID: 21300022
       vertices: []
       indices: 
       edges: []
@@ -366,6 +414,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: ce5979318afaa6d46b63baed8e463440
+      internalID: 21300024
       vertices: []
       indices: 
       edges: []
@@ -386,6 +435,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: a7b869a0d3ceb5749bded285cc7331a1
+      internalID: 21300026
       vertices: []
       indices: 
       edges: []
@@ -406,6 +456,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 4cd675ed29e5f294b94de4e48f1a089f
+      internalID: 21300028
       vertices: []
       indices: 
       edges: []
@@ -426,6 +477,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b554c7b0c4cb2a3479e1fc68d8b97ab1
+      internalID: 21300030
       vertices: []
       indices: 
       edges: []
@@ -434,11 +486,15 @@ TextureImporter:
     physicsShape: []
     bones: []
     spriteID: f9f2de4114e50be49a4d48fcaf5ce104
+    internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
+    secondaryTextures: []
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

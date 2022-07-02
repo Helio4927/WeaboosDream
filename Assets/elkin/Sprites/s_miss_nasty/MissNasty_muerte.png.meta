@@ -1,0 +1,5777 @@
+fileFormatVersion: 2
+guid: 118ce79a71677884aacf926ad9bb3ba5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5526108151314984305
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _0
+  - first:
+      213: -5830167318799926147
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _1
+  - first:
+      213: 3875259344422846121
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _2
+  - first:
+      213: 9127086300987222934
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _3
+  - first:
+      213: 5462249333764690061
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _4
+  - first:
+      213: 1839225571910922150
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _5
+  - first:
+      213: -130962640864494393
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _6
+  - first:
+      213: 1082017565998516060
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _7
+  - first:
+      213: 2199398002354894028
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _8
+  - first:
+      213: 6516190281685769455
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _9
+  - first:
+      213: 393923400840046119
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _10
+  - first:
+      213: -694383860105784316
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _11
+  - first:
+      213: -3258232401142898050
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _12
+  - first:
+      213: 5190891874180080720
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _13
+  - first:
+      213: -8221671462961502239
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _14
+  - first:
+      213: 3781710324238811768
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _15
+  - first:
+      213: -7778863536321321661
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _16
+  - first:
+      213: -1644197220124214020
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _17
+  - first:
+      213: 8054287790180326287
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _18
+  - first:
+      213: 8990296004899200983
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _19
+  - first:
+      213: 1278412280508650936
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _20
+  - first:
+      213: 712196910174483963
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _21
+  - first:
+      213: -4194247579396552201
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _22
+  - first:
+      213: 7585318483105354656
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _23
+  - first:
+      213: -923090234267472357
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _24
+  - first:
+      213: -1911726229122094750
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _25
+  - first:
+      213: -6050518392145965720
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _26
+  - first:
+      213: 7798405268712746490
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _27
+  - first:
+      213: -6600456710833106413
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _28
+  - first:
+      213: -8484526624688103479
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _29
+  - first:
+      213: -347926745433985252
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _30
+  - first:
+      213: -7453542378217177218
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _31
+  - first:
+      213: 6902160673647004722
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _32
+  - first:
+      213: -7601649853474339031
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _33
+  - first:
+      213: 2575422398464364468
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _34
+  - first:
+      213: -5834710632464015480
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _35
+  - first:
+      213: 7019211100199074751
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _36
+  - first:
+      213: -895205314226449169
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _37
+  - first:
+      213: 8767969827103665410
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _38
+  - first:
+      213: 7934595386811023994
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _39
+  - first:
+      213: 3158416484553003520
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _40
+  - first:
+      213: 1063495514425506870
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _41
+  - first:
+      213: 205199649251005885
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _42
+  - first:
+      213: -2909141497411385914
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _43
+  - first:
+      213: 1788505217277033331
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _44
+  - first:
+      213: -1645183243684643807
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _45
+  - first:
+      213: -2594172654539504148
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _46
+  - first:
+      213: -2110944411410276444
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _47
+  - first:
+      213: 5143684546486243482
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _48
+  - first:
+      213: -2823305058641223335
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _49
+  - first:
+      213: 7187703593000523835
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _50
+  - first:
+      213: -4803294734748197139
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _51
+  - first:
+      213: 5751415738409095276
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _52
+  - first:
+      213: -1079523212201084822
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _53
+  - first:
+      213: 8383605427982753405
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _54
+  - first:
+      213: -8597459818097195674
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _55
+  - first:
+      213: -5783920900979249557
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _56
+  - first:
+      213: 7831157495831072011
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _57
+  - first:
+      213: 4609174423663269816
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _58
+  - first:
+      213: 5893852649367030688
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _59
+  - first:
+      213: -5665079197004004003
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _60
+  - first:
+      213: -2853651256447575246
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _61
+  - first:
+      213: -5305180055537190342
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _62
+  - first:
+      213: -1284437451997506201
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _63
+  - first:
+      213: 6190978525990912210
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _64
+  - first:
+      213: 9208879883863935607
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _65
+  - first:
+      213: -6179183744718738133
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _66
+  - first:
+      213: 2889311926751126510
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _67
+  - first:
+      213: -5829708439475771130
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _68
+  - first:
+      213: -6450926127328655663
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _69
+  - first:
+      213: -5462384406933374290
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _70
+  - first:
+      213: -8213333188816355104
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _71
+  - first:
+      213: 8475056519324696504
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _72
+  - first:
+      213: 1723399359451211056
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _73
+  - first:
+      213: 451864578329710252
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _74
+  - first:
+      213: -5314534120862783786
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _75
+  - first:
+      213: 1091055344102965067
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _76
+  - first:
+      213: -1059487900131773144
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _77
+  - first:
+      213: -2306514256672409798
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _78
+  - first:
+      213: -4307164795859753516
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _79
+  - first:
+      213: -6633137918361544204
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _80
+  - first:
+      213: 6844298100790344873
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _81
+  - first:
+      213: 2099876678417750535
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _82
+  - first:
+      213: -3298535778086837546
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _83
+  - first:
+      213: 477224669782195187
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _84
+  - first:
+      213: 1627635367731372187
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _85
+  - first:
+      213: 2395730484360910837
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _86
+  - first:
+      213: 1996429152738235003
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _87
+  - first:
+      213: 8112993985620996221
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _88
+  - first:
+      213: 7904356561978995195
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _89
+  - first:
+      213: -7137461216103063400
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _90
+  - first:
+      213: 2936308522533958422
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _91
+  - first:
+      213: 1108224480253045013
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _92
+  - first:
+      213: -3976872031576046930
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _93
+  - first:
+      213: 7384015878042838146
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _94
+  - first:
+      213: -4282878231736012898
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _95
+  - first:
+      213: 1241588588006186145
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _96
+  - first:
+      213: 22365804955182802
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _97
+  - first:
+      213: -3975289140383396035
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _98
+  - first:
+      213: 6051382195196415625
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _99
+  - first:
+      213: 4558326659020045326
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _100
+  - first:
+      213: -511495223517786184
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _101
+  - first:
+      213: -8093630259591998329
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _102
+  - first:
+      213: -2695579248115445864
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _103
+  - first:
+      213: -262006025231873364
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _104
+  - first:
+      213: 8066042945881746433
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _105
+  - first:
+      213: 6104877378897352422
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _106
+  - first:
+      213: 4087017864786565601
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _107
+  - first:
+      213: -3412187787718629677
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _108
+  - first:
+      213: -1799208309572573385
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _109
+  - first:
+      213: 4064491221523073352
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _110
+  - first:
+      213: -8362569826332715734
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _111
+  - first:
+      213: 2050851003208981508
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _112
+  - first:
+      213: -5695941677158596683
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _113
+  - first:
+      213: 341498994234339967
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _114
+  - first:
+      213: -7906491538349705593
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _115
+  - first:
+      213: 7126156513284955241
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _116
+  - first:
+      213: 8772406065974473951
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _117
+  - first:
+      213: 7800275769511072743
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _118
+  - first:
+      213: 86440396562603637
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _119
+  - first:
+      213: 1741270163844986012
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _120
+  - first:
+      213: -7052710595926975879
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _121
+  - first:
+      213: -1979747980779072747
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _122
+  - first:
+      213: 5509664346830123717
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _123
+  - first:
+      213: 4091293449063409858
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _124
+  - first:
+      213: 2358443294640000600
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _125
+  - first:
+      213: -6662113868923352043
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _126
+  - first:
+      213: -4242040737777975854
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _127
+  - first:
+      213: -279235761866219266
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _128
+  - first:
+      213: -5093908933877384410
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _129
+  - first:
+      213: -7264349740280078951
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _130
+  - first:
+      213: 5260891811656205543
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _131
+  - first:
+      213: -5403223851762667908
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _132
+  - first:
+      213: -8798248919720419121
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _133
+  - first:
+      213: -2384392336508721675
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _134
+  - first:
+      213: -4080546433941167473
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _135
+  - first:
+      213: 2582250217552283986
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _136
+  - first:
+      213: 7221200367582496837
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _137
+  - first:
+      213: 8133479728477650938
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _138
+  - first:
+      213: 845691714905702447
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _139
+  - first:
+      213: 6267785719806876409
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _140
+  - first:
+      213: -7484798353754894622
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _141
+  - first:
+      213: 3092025697518214953
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _142
+  - first:
+      213: -987148613760898202
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _143
+  - first:
+      213: 2820162271173857897
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _144
+  - first:
+      213: 2414387395884961350
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _145
+  - first:
+      213: 4538079981467929267
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _146
+  - first:
+      213: -4425796921443344141
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _147
+  - first:
+      213: 9066966044451884948
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _148
+  - first:
+      213: 6031982357547110921
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _149
+  - first:
+      213: 6568991863363370147
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _150
+  - first:
+      213: 1172524964041547791
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _151
+  - first:
+      213: -6581189484990733683
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _152
+  - first:
+      213: 2743337832884429152
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _153
+  - first:
+      213: 8374562978617031402
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _154
+  - first:
+      213: 7485838622739508358
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _155
+  - first:
+      213: -58605208689248330
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _156
+  - first:
+      213: 12523707417019058
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _157
+  - first:
+      213: 6025012552596966450
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _158
+  - first:
+      213: 6485177999792566808
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _159
+  - first:
+      213: 2324090980654961148
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _160
+  - first:
+      213: -819694814030788858
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _161
+  - first:
+      213: 1370405279572802340
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _162
+  - first:
+      213: -1086115304296603496
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _163
+  - first:
+      213: -3696893250293547335
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _164
+  - first:
+      213: -1133441735808152297
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _165
+  - first:
+      213: 3761875383543891145
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _166
+  - first:
+      213: 590618921426059231
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _167
+  - first:
+      213: 2539659842513964572
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _168
+  - first:
+      213: 6900794176298984646
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _169
+  - first:
+      213: 5825054403578212064
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _170
+  - first:
+      213: 8551793195513871782
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _171
+  - first:
+      213: -2202945640725376999
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _172
+  - first:
+      213: -5471596479235291222
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _173
+  - first:
+      213: 5744592390176022873
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _174
+  - first:
+      213: -6558102847038961748
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _175
+  - first:
+      213: 7934321000930016849
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _176
+  - first:
+      213: 5298102778002745764
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _177
+  - first:
+      213: -6463051038749546748
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _178
+  - first:
+      213: 7285790929667245252
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _179
+  - first:
+      213: 3255055202008080258
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _180
+  - first:
+      213: -9127304289540214463
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _181
+  - first:
+      213: -5603951281524672959
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _182
+  - first:
+      213: 3553499024588303912
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _183
+  - first:
+      213: 431478778283914675
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _184
+  - first:
+      213: -8654168045900390335
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _185
+  - first:
+      213: -3350584882482645231
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _186
+  - first:
+      213: 1359641213297385429
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _187
+  - first:
+      213: -7653539898874167349
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _188
+  - first:
+      213: 3455038464271952872
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _189
+  - first:
+      213: -9019494559964891305
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _190
+  - first:
+      213: 925720378274374875
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _191
+  - first:
+      213: 4938896909803327826
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _192
+  - first:
+      213: -6955899238088409852
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _193
+  - first:
+      213: 1068415955593662051
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _194
+  - first:
+      213: 3010054810548277166
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _195
+  - first:
+      213: -4329155182806268148
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _196
+  - first:
+      213: 6949789038941776094
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _197
+  - first:
+      213: -3440616168299018864
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _198
+  - first:
+      213: 397127989516290146
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _199
+  - first:
+      213: 4798771953084353150
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _200
+  - first:
+      213: 1054802352852447859
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _201
+  - first:
+      213: -90594531657754964
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _202
+  - first:
+      213: 7650609510968174223
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _203
+  - first:
+      213: 7875258518529946010
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _204
+  - first:
+      213: -4281471270981081044
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _205
+  - first:
+      213: 8898053889330093775
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _206
+  - first:
+      213: -5457943059352161529
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _207
+  - first:
+      213: 1910605304991175089
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _208
+  - first:
+      213: -6768588107361684468
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _209
+  - first:
+      213: -6894885961749218483
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _210
+  - first:
+      213: -8304962301559946192
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _211
+  - first:
+      213: 6222740894486908580
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _212
+  - first:
+      213: -4097845322570772865
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _213
+  - first:
+      213: -8246500280236714968
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _214
+  - first:
+      213: 3911084478085849798
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _215
+  - first:
+      213: -8240007933159673717
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _216
+  - first:
+      213: -7521701762260642646
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _217
+  - first:
+      213: -4803039178484248554
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _218
+  - first:
+      213: 8936496516065188258
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _219
+  - first:
+      213: -141925162083534623
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _220
+  - first:
+      213: -2630885569767601689
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _221
+  - first:
+      213: -4927444392976857621
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _222
+  - first:
+      213: 4765303686434373664
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _223
+  - first:
+      213: -327505791195668851
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _224
+  - first:
+      213: 8213485843825879712
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _225
+  - first:
+      213: -1809048750096452821
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _226
+  - first:
+      213: -3950822265329474691
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _227
+  - first:
+      213: 2196469734542714538
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _228
+  - first:
+      213: -9192646979838888590
+    second: PlaceholderMuerteMissnasty4-Width268xheight162 _229
+  - first:
+      213: -9200459648213489312
+    second: MissNasty_muerte_0
+  - first:
+      213: -6942409303896273463
+    second: MissNasty_muerte_1
+  - first:
+      213: 319939641488566020
+    second: MissNasty_muerte_2
+  - first:
+      213: -7386934226484976761
+    second: MissNasty_muerte_3
+  - first:
+      213: 8250200309352410630
+    second: MissNasty_muerte_4
+  - first:
+      213: -4928257268957268379
+    second: MissNasty_muerte_5
+  - first:
+      213: 4863913369116243966
+    second: MissNasty_muerte_6
+  - first:
+      213: -3795711072001217045
+    second: MissNasty_muerte_7
+  - first:
+      213: 6863464084285065044
+    second: MissNasty_muerte_8
+  - first:
+      213: -1057208944715653313
+    second: MissNasty_muerte_9
+  - first:
+      213: -8337655963050579053
+    second: MissNasty_muerte_10
+  - first:
+      213: -7325945838601706478
+    second: MissNasty_muerte_11
+  - first:
+      213: -1244942154832846013
+    second: MissNasty_muerte_12
+  - first:
+      213: 1781220028200208445
+    second: MissNasty_muerte_13
+  - first:
+      213: -7516606130793038821
+    second: MissNasty_muerte_14
+  - first:
+      213: 5702441078403515190
+    second: MissNasty_muerte_15
+  - first:
+      213: -6362293910022393103
+    second: MissNasty_muerte_16
+  - first:
+      213: -2328847053570944184
+    second: MissNasty_muerte_17
+  - first:
+      213: -853060608731809039
+    second: MissNasty_muerte_18
+  - first:
+      213: 3717230321901330558
+    second: MissNasty_muerte_19
+  - first:
+      213: 9106093223728721648
+    second: MissNasty_muerte_20
+  - first:
+      213: -1333501225008096732
+    second: MissNasty_muerte_21
+  - first:
+      213: 4815960326502282137
+    second: MissNasty_muerte_22
+  - first:
+      213: 3925298454812545370
+    second: MissNasty_muerte_23
+  - first:
+      213: -8309822723577507465
+    second: MissNasty_muerte_24
+  - first:
+      213: 5586928454564319617
+    second: MissNasty_muerte_25
+  - first:
+      213: -4346828989045157773
+    second: MissNasty_muerte_26
+  - first:
+      213: -3715299499624046217
+    second: MissNasty_muerte_27
+  - first:
+      213: -6537418763005121622
+    second: MissNasty_muerte_28
+  - first:
+      213: -2689355930885686123
+    second: MissNasty_muerte_29
+  - first:
+      213: 4992470438046410561
+    second: MissNasty_muerte_30
+  - first:
+      213: -5044233697812485954
+    second: MissNasty_muerte_31
+  - first:
+      213: -4724716690364547546
+    second: MissNasty_muerte_32
+  - first:
+      213: -5612540785899839701
+    second: MissNasty_muerte_33
+  - first:
+      213: 7423803022048567443
+    second: MissNasty_muerte_34
+  - first:
+      213: -7099902227367800844
+    second: MissNasty_muerte_35
+  - first:
+      213: 7906123641814059542
+    second: MissNasty_muerte_36
+  - first:
+      213: 6553671099740134354
+    second: MissNasty_muerte_37
+  - first:
+      213: 8954496074379076454
+    second: MissNasty_muerte_38
+  - first:
+      213: -4674091479129322000
+    second: MissNasty_muerte_39
+  - first:
+      213: -7177386154737349422
+    second: MissNasty_muerte_40
+  - first:
+      213: -6742751733247016970
+    second: MissNasty_muerte_41
+  - first:
+      213: 6836728511901182395
+    second: MissNasty_muerte_42
+  - first:
+      213: 3082300242207765160
+    second: MissNasty_muerte_43
+  - first:
+      213: -6448082011562298960
+    second: MissNasty_muerte_44
+  - first:
+      213: -9118867058335181104
+    second: MissNasty_muerte_45
+  - first:
+      213: -2954154912093177740
+    second: MissNasty_muerte_46
+  - first:
+      213: 6700657393791516330
+    second: MissNasty_muerte_47
+  - first:
+      213: 2746970305569239499
+    second: MissNasty_muerte_48
+  - first:
+      213: -4448712809580616375
+    second: MissNasty_muerte_49
+  - first:
+      213: -5660136168704936409
+    second: MissNasty_muerte_50
+  - first:
+      213: 337454123325886805
+    second: MissNasty_muerte_51
+  - first:
+      213: -6043733686337950912
+    second: MissNasty_muerte_52
+  - first:
+      213: 1719887637810698102
+    second: MissNasty_muerte_53
+  - first:
+      213: -8255525432481309171
+    second: MissNasty_muerte_54
+  - first:
+      213: 8818570031541158529
+    second: MissNasty_muerte_55
+  - first:
+      213: 148895040010190809
+    second: MissNasty_muerte_56
+  - first:
+      213: 4810635792326304719
+    second: MissNasty_muerte_57
+  - first:
+      213: -8833794863587313468
+    second: MissNasty_muerte_58
+  - first:
+      213: 4192925156952727283
+    second: MissNasty_muerte_59
+  - first:
+      213: 4515707792128925266
+    second: MissNasty_muerte_60
+  - first:
+      213: -3938371439610909206
+    second: MissNasty_muerte_61
+  - first:
+      213: 3393848999322932967
+    second: MissNasty_muerte_62
+  - first:
+      213: -7949597602734458844
+    second: MissNasty_muerte_63
+  - first:
+      213: -5939855930827327463
+    second: MissNasty_muerte_64
+  - first:
+      213: 9148718632052987671
+    second: MissNasty_muerte_65
+  - first:
+      213: -6122153715377476933
+    second: MissNasty_muerte_66
+  - first:
+      213: 7965896784064439043
+    second: MissNasty_muerte_67
+  - first:
+      213: 7371234522250921294
+    second: MissNasty_muerte_68
+  - first:
+      213: 5160599820179610343
+    second: MissNasty_muerte_69
+  - first:
+      213: -6201437051823525638
+    second: MissNasty_muerte_70
+  - first:
+      213: 9020552200517083437
+    second: MissNasty_muerte_71
+  - first:
+      213: 3522666824298616974
+    second: MissNasty_muerte_72
+  - first:
+      213: -7105515165575903081
+    second: MissNasty_muerte_73
+  - first:
+      213: 2012710036845677447
+    second: MissNasty_muerte_74
+  - first:
+      213: -4001339446419272209
+    second: MissNasty_muerte_75
+  - first:
+      213: -7769517977303402130
+    second: MissNasty_muerte_76
+  - first:
+      213: 109566326002509100
+    second: MissNasty_muerte_77
+  - first:
+      213: -7572961678609973741
+    second: MissNasty_muerte_78
+  - first:
+      213: 8907374376841876615
+    second: MissNasty_muerte_79
+  - first:
+      213: 7238668643236802229
+    second: MissNasty_muerte_80
+  - first:
+      213: -3219128192526532923
+    second: MissNasty_muerte_81
+  - first:
+      213: -4525380565522507548
+    second: MissNasty_muerte_82
+  - first:
+      213: -2617295790706043088
+    second: MissNasty_muerte_83
+  - first:
+      213: 7856902021958294606
+    second: MissNasty_muerte_84
+  - first:
+      213: -2645560403231485230
+    second: MissNasty_muerte_85
+  - first:
+      213: -923096663644165852
+    second: MissNasty_muerte_86
+  - first:
+      213: -2770404317562741563
+    second: MissNasty_muerte_87
+  - first:
+      213: -7816510789976343096
+    second: MissNasty_muerte_88
+  - first:
+      213: 3356014931344613966
+    second: MissNasty_muerte_89
+  - first:
+      213: -2422086135534608260
+    second: MissNasty_muerte_90
+  - first:
+      213: -4369185423558824271
+    second: MissNasty_muerte_91
+  - first:
+      213: -6186244724135650741
+    second: MissNasty_muerte_92
+  - first:
+      213: 200056371289895971
+    second: MissNasty_muerte_93
+  - first:
+      213: 847088386007138418
+    second: MissNasty_muerte_94
+  - first:
+      213: 2440590857661926607
+    second: MissNasty_muerte_95
+  - first:
+      213: -6896085344031072066
+    second: MissNasty_muerte_96
+  - first:
+      213: 1028281215676115009
+    second: MissNasty_muerte_97
+  - first:
+      213: -6236969055893595007
+    second: MissNasty_muerte_98
+  - first:
+      213: 5463161792679531456
+    second: MissNasty_muerte_99
+  - first:
+      213: -8938456223672854719
+    second: MissNasty_muerte_100
+  - first:
+      213: 6555066317445268218
+    second: MissNasty_muerte_101
+  - first:
+      213: 8520743917427801844
+    second: MissNasty_muerte_102
+  - first:
+      213: 5686348458372459032
+    second: MissNasty_muerte_103
+  - first:
+      213: -2702491312142261825
+    second: MissNasty_muerte_104
+  - first:
+      213: 7073169940194765948
+    second: MissNasty_muerte_105
+  - first:
+      213: -9222440726490348722
+    second: MissNasty_muerte_106
+  - first:
+      213: -2854963929537558373
+    second: MissNasty_muerte_107
+  - first:
+      213: 1368609970785915680
+    second: MissNasty_muerte_108
+  - first:
+      213: -2246313653563144922
+    second: MissNasty_muerte_109
+  - first:
+      213: 2956515275608147366
+    second: MissNasty_muerte_110
+  - first:
+      213: -7156983822292981714
+    second: MissNasty_muerte_111
+  - first:
+      213: -7637157589784381771
+    second: MissNasty_muerte_112
+  - first:
+      213: -5997336608238989756
+    second: MissNasty_muerte_113
+  - first:
+      213: 5636389666048562059
+    second: MissNasty_muerte_114
+  - first:
+      213: -2480011122694036777
+    second: MissNasty_muerte_115
+  - first:
+      213: 801309030527477217
+    second: MissNasty_muerte_116
+  - first:
+      213: -35058898919082261
+    second: MissNasty_muerte_117
+  - first:
+      213: -1473905862073594518
+    second: MissNasty_muerte_118
+  - first:
+      213: -2207966086290177872
+    second: MissNasty_muerte_119
+  - first:
+      213: -3153388429424753547
+    second: MissNasty_muerte_120
+  - first:
+      213: -5745489468295561845
+    second: MissNasty_muerte_121
+  - first:
+      213: 5253095900513067177
+    second: MissNasty_muerte_122
+  - first:
+      213: -5337279924980205554
+    second: MissNasty_muerte_123
+  - first:
+      213: 3442255447047617191
+    second: MissNasty_muerte_124
+  - first:
+      213: -5148327881855729981
+    second: MissNasty_muerte_125
+  - first:
+      213: -6968555908095169986
+    second: MissNasty_muerte_126
+  - first:
+      213: -5219976676525238135
+    second: MissNasty_muerte_127
+  - first:
+      213: -3184744199070056194
+    second: MissNasty_muerte_128
+  - first:
+      213: -525358318195770950
+    second: MissNasty_muerte_129
+  - first:
+      213: -2321061307812061158
+    second: MissNasty_muerte_130
+  - first:
+      213: -4014071016110458032
+    second: MissNasty_muerte_131
+  - first:
+      213: -3334582870763311033
+    second: MissNasty_muerte_132
+  - first:
+      213: -4489601012819178774
+    second: MissNasty_muerte_133
+  - first:
+      213: 8623020584904544745
+    second: MissNasty_muerte_134
+  - first:
+      213: 1285952713979873929
+    second: MissNasty_muerte_135
+  - first:
+      213: 3634052315070101216
+    second: MissNasty_muerte_136
+  - first:
+      213: -7712068015632006287
+    second: MissNasty_muerte_137
+  - first:
+      213: 3689015605320175438
+    second: MissNasty_muerte_138
+  - first:
+      213: 8024665591292157036
+    second: MissNasty_muerte_139
+  - first:
+      213: 7806632937257215650
+    second: MissNasty_muerte_140
+  - first:
+      213: -95680629371562481
+    second: MissNasty_muerte_141
+  - first:
+      213: 6494794968632285271
+    second: MissNasty_muerte_142
+  - first:
+      213: 7735210177760788736
+    second: MissNasty_muerte_143
+  - first:
+      213: 338916521022329063
+    second: MissNasty_muerte_144
+  - first:
+      213: 3158208865097172450
+    second: MissNasty_muerte_145
+  - first:
+      213: -8711021155671010176
+    second: MissNasty_muerte_146
+  - first:
+      213: -9017832371172050987
+    second: MissNasty_muerte_147
+  - first:
+      213: -4102891484803344181
+    second: MissNasty_muerte_148
+  - first:
+      213: -5333613686030118484
+    second: MissNasty_muerte_149
+  - first:
+      213: 2292253716007684586
+    second: MissNasty_muerte_150
+  - first:
+      213: -65976878389267684
+    second: MissNasty_muerte_151
+  - first:
+      213: 1228693520502017867
+    second: MissNasty_muerte_152
+  - first:
+      213: -3519763749661360308
+    second: MissNasty_muerte_153
+  - first:
+      213: 8284079797397461068
+    second: MissNasty_muerte_154
+  - first:
+      213: 4147655319847471495
+    second: MissNasty_muerte_155
+  - first:
+      213: 8257416600974846791
+    second: MissNasty_muerte_156
+  - first:
+      213: -3077028069500377
+    second: MissNasty_muerte_157
+  - first:
+      213: 1429196667127814435
+    second: MissNasty_muerte_158
+  - first:
+      213: -5001546068978015975
+    second: MissNasty_muerte_159
+  - first:
+      213: -5445987480196055725
+    second: MissNasty_muerte_160
+  - first:
+      213: 5330106900274324472
+    second: MissNasty_muerte_161
+  - first:
+      213: -96299170279988631
+    second: MissNasty_muerte_162
+  - first:
+      213: 7233369395163184981
+    second: MissNasty_muerte_163
+  - first:
+      213: -8678514120079330224
+    second: MissNasty_muerte_164
+  - first:
+      213: -4000415457760797586
+    second: MissNasty_muerte_165
+  - first:
+      213: -5197100582271005995
+    second: MissNasty_muerte_166
+  - first:
+      213: 6144243954249812494
+    second: MissNasty_muerte_167
+  - first:
+      213: 1939625391660273053
+    second: MissNasty_muerte_168
+  - first:
+      213: 2007427320207251577
+    second: MissNasty_muerte_169
+  - first:
+      213: 2916971410130088796
+    second: MissNasty_muerte_170
+  - first:
+      213: -1059194462279865119
+    second: MissNasty_muerte_171
+  - first:
+      213: -2259778135165917260
+    second: MissNasty_muerte_172
+  - first:
+      213: -4102221791587324358
+    second: MissNasty_muerte_173
+  - first:
+      213: 2379160865705583850
+    second: MissNasty_muerte_174
+  - first:
+      213: 3562047626316312431
+    second: MissNasty_muerte_175
+  - first:
+      213: -2711843923173758794
+    second: MissNasty_muerte_176
+  - first:
+      213: -557023753277199004
+    second: MissNasty_muerte_177
+  - first:
+      213: -1834948629038465463
+    second: MissNasty_muerte_178
+  - first:
+      213: 7381229996793630308
+    second: MissNasty_muerte_179
+  - first:
+      213: -2302378725321956763
+    second: MissNasty_muerte_180
+  - first:
+      213: -1169567188199877057
+    second: MissNasty_muerte_181
+  - first:
+      213: 1438320540303631584
+    second: MissNasty_muerte_182
+  - first:
+      213: -6396267496011867608
+    second: MissNasty_muerte_183
+  - first:
+      213: -2238741861896544417
+    second: MissNasty_muerte_184
+  - first:
+      213: 8671952033509980000
+    second: MissNasty_muerte_185
+  - first:
+      213: 5253341928058458433
+    second: MissNasty_muerte_186
+  - first:
+      213: 2474093729179433442
+    second: MissNasty_muerte_187
+  - first:
+      213: 2378131640199465181
+    second: MissNasty_muerte_188
+  - first:
+      213: 5793830768225508910
+    second: MissNasty_muerte_189
+  - first:
+      213: -4247308804343553265
+    second: MissNasty_muerte_190
+  - first:
+      213: 4510796454333012759
+    second: MissNasty_muerte_191
+  - first:
+      213: -2426054621711714112
+    second: MissNasty_muerte_192
+  - first:
+      213: -5406507009760903266
+    second: MissNasty_muerte_193
+  - first:
+      213: -943193334399313321
+    second: MissNasty_muerte_194
+  - first:
+      213: 1651973021035072281
+    second: MissNasty_muerte_195
+  - first:
+      213: -634034139078575179
+    second: MissNasty_muerte_196
+  - first:
+      213: -2902641911362815957
+    second: MissNasty_muerte_197
+  - first:
+      213: 5627958024206978363
+    second: MissNasty_muerte_198
+  - first:
+      213: -8354845030677397548
+    second: MissNasty_muerte_199
+  - first:
+      213: 6145455560702014604
+    second: MissNasty_muerte_200
+  - first:
+      213: -7948677198026901591
+    second: MissNasty_muerte_201
+  - first:
+      213: 3412950443940909325
+    second: MissNasty_muerte_202
+  - first:
+      213: -3549759996734043296
+    second: MissNasty_muerte_203
+  - first:
+      213: -1185043467761893336
+    second: MissNasty_muerte_204
+  - first:
+      213: 4190448146953788303
+    second: MissNasty_muerte_205
+  - first:
+      213: -3153533179325048576
+    second: MissNasty_muerte_206
+  - first:
+      213: -4654492240888044344
+    second: MissNasty_muerte_207
+  - first:
+      213: 636954954238664535
+    second: MissNasty_muerte_208
+  - first:
+      213: 8766038318013890884
+    second: MissNasty_muerte_209
+  - first:
+      213: -9157334677832393388
+    second: MissNasty_muerte_210
+  - first:
+      213: 3806738647829899642
+    second: MissNasty_muerte_211
+  - first:
+      213: -666579459526493530
+    second: MissNasty_muerte_212
+  - first:
+      213: 8606806372595622602
+    second: MissNasty_muerte_213
+  - first:
+      213: 7433104740144177226
+    second: MissNasty_muerte_214
+  - first:
+      213: 3941212819831252932
+    second: MissNasty_muerte_215
+  - first:
+      213: 1300551104430109502
+    second: MissNasty_muerte_216
+  - first:
+      213: 503858823233999805
+    second: MissNasty_muerte_217
+  - first:
+      213: -5113628340375997428
+    second: MissNasty_muerte_218
+  - first:
+      213: -5365997451753505183
+    second: MissNasty_muerte_219
+  - first:
+      213: -100498534081032056
+    second: MissNasty_muerte_220
+  - first:
+      213: -7985433173747292510
+    second: MissNasty_muerte_221
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 28
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MissNasty_muerte_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1864
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96e516faf132c041b6c4c1e46d246aa
+      internalID: -9200459648213489312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_1
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1864
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12134d89966a75547a49032c2b7e0409
+      internalID: -6942409303896273463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_2
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1864
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51b08c8dca9a874fb75f2b117fe54a5
+      internalID: 319939641488566020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_3
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1864
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b322e143c0471a4ca345ad34abfd81f
+      internalID: -7386934226484976761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_4
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 1864
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7235895f34afd134da481e9f2eaa2954
+      internalID: 8250200309352410630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_5
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1864
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4fc48aa81f4da4eaedf20d581543b9
+      internalID: -4928257268957268379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_6
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 1864
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce14d8ee5b6f11145ba8b4074a5d16a5
+      internalID: 4863913369116243966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_7
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 1864
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b657a0d224cae68449ef78d63ddb8ae3
+      internalID: -3795711072001217045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_8
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 1864
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e59507038ab5449b87d841bb0aa8c7
+      internalID: 6863464084285065044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_9
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 1864
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4056c00c60c1446a4c4039a53a953b
+      internalID: -1057208944715653313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_10
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 1864
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7003a08415f6047bc89ea656251573
+      internalID: -8337655963050579053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_11
+      rect:
+        serializedVersion: 2
+        x: 3146
+        y: 1864
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b7351aa890025843b6cbb817be871fa
+      internalID: -7325945838601706478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_12
+      rect:
+        serializedVersion: 2
+        x: 3432
+        y: 1864
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c85b79098c4c5f43a179c50ce39f57c
+      internalID: -1244942154832846013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_13
+      rect:
+        serializedVersion: 2
+        x: 3718
+        y: 1864
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564c10cc6f0803f49a40244583193ca7
+      internalID: 1781220028200208445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_14
+      rect:
+        serializedVersion: 2
+        x: 4004
+        y: 1864
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f907b3519904543a7990ff7c0ddcba
+      internalID: -7516606130793038821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_15
+      rect:
+        serializedVersion: 2
+        x: 4290
+        y: 1864
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6af9c3047c1024f940e214ff3bd8bf
+      internalID: 5702441078403515190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_16
+      rect:
+        serializedVersion: 2
+        x: 4576
+        y: 1864
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c2096ad530bb440881edcdbaccfac2
+      internalID: -6362293910022393103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_17
+      rect:
+        serializedVersion: 2
+        x: 4862
+        y: 1864
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395ad5dcd393ac7499073e315bf7fb02
+      internalID: -2328847053570944184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_18
+      rect:
+        serializedVersion: 2
+        x: 5148
+        y: 1864
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd52e8a295cb4414ea92d7be8a744272
+      internalID: -853060608731809039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_19
+      rect:
+        serializedVersion: 2
+        x: 5434
+        y: 1864
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424f1f5064562f643afaad539c1a19f3
+      internalID: 3717230321901330558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_20
+      rect:
+        serializedVersion: 2
+        x: 5720
+        y: 1864
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d909c16c056cc0343b8ef7374b783efe
+      internalID: 9106093223728721648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_21
+      rect:
+        serializedVersion: 2
+        x: 6006
+        y: 1864
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ec458529ae7344ea2c117577146ba3
+      internalID: -1333501225008096732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_22
+      rect:
+        serializedVersion: 2
+        x: 6292
+        y: 1864
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1615e7c57af073148a0d93b73086c2ed
+      internalID: 4815960326502282137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_23
+      rect:
+        serializedVersion: 2
+        x: 6578
+        y: 1864
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a19249a1a993a84ea48ef81f3fb01f0
+      internalID: 3925298454812545370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_24
+      rect:
+        serializedVersion: 2
+        x: 6864
+        y: 1864
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f086020bba7ce6348b96d008401599bd
+      internalID: -8309822723577507465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_25
+      rect:
+        serializedVersion: 2
+        x: 7150
+        y: 1864
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0974e6b7c0b9243a724a3673079e4e
+      internalID: 5586928454564319617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_26
+      rect:
+        serializedVersion: 2
+        x: 7436
+        y: 1864
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f60a6521b4a1034b970249902f098dd
+      internalID: -4346828989045157773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_27
+      rect:
+        serializedVersion: 2
+        x: 7722
+        y: 1864
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b79836d3a12d6f4695b8b66ddb42fcb
+      internalID: -3715299499624046217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1680
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24bcb247a349d3b4498cffc0f7a4ba1d
+      internalID: -6537418763005121622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_29
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1680
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079185bec9a4c5d4d8e0b28aed36abef
+      internalID: -2689355930885686123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_30
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1680
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774dd555bde7af84db8abfcc94f039fc
+      internalID: 4992470438046410561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_31
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1680
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa67baafc20643140ab5dc8de4d4d73e
+      internalID: -5044233697812485954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_32
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 1680
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822397bc9715ddb468696b2acce1dbe9
+      internalID: -4724716690364547546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_33
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1680
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3467c5821fec14b92a361c843cdf11
+      internalID: -5612540785899839701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_34
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 1680
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f08ac2647e8594fa3bd3cd77449c99
+      internalID: 7423803022048567443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_35
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 1680
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7358f3493188a404fad8d747593ba9b6
+      internalID: -7099902227367800844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_36
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 1680
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e75d57232d2e747a4e3ab3c9fa5d9c
+      internalID: 7906123641814059542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_37
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 1680
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff24606d15dab2b44a64a85f72ed11bb
+      internalID: 6553671099740134354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_38
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 1680
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f94de84e07a6474fa5d1df1bb078405
+      internalID: 8954496074379076454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_39
+      rect:
+        serializedVersion: 2
+        x: 3146
+        y: 1680
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389bff555947680489c7272b228b777a
+      internalID: -4674091479129322000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_40
+      rect:
+        serializedVersion: 2
+        x: 3432
+        y: 1680
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b068e639c92b37c4c9dacd065020ee3b
+      internalID: -7177386154737349422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_41
+      rect:
+        serializedVersion: 2
+        x: 3718
+        y: 1680
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080b82452d8b75946a66ec47edc0fd95
+      internalID: -6742751733247016970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_42
+      rect:
+        serializedVersion: 2
+        x: 4004
+        y: 1680
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057c31240c525d14a92179ff52c25cd5
+      internalID: 6836728511901182395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_43
+      rect:
+        serializedVersion: 2
+        x: 4290
+        y: 1680
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1bbec3db38f5374eb5955e13c973ca3
+      internalID: 3082300242207765160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_44
+      rect:
+        serializedVersion: 2
+        x: 4576
+        y: 1680
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6920b372ce74147a3d86175ba4bc00
+      internalID: -6448082011562298960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_45
+      rect:
+        serializedVersion: 2
+        x: 4862
+        y: 1680
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da16992f8b9ba2449657744ba9943e5
+      internalID: -9118867058335181104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_46
+      rect:
+        serializedVersion: 2
+        x: 5148
+        y: 1680
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837218c73c7484c49be88d5cc26a9a44
+      internalID: -2954154912093177740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_47
+      rect:
+        serializedVersion: 2
+        x: 5434
+        y: 1680
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5791bdf5a27c74d816a3a040c1af24
+      internalID: 6700657393791516330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_48
+      rect:
+        serializedVersion: 2
+        x: 5720
+        y: 1680
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d1251c41e6d744ab518567116d652e
+      internalID: 2746970305569239499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_49
+      rect:
+        serializedVersion: 2
+        x: 6006
+        y: 1680
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4149864f4c7afc149a70990a440baca2
+      internalID: -4448712809580616375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_50
+      rect:
+        serializedVersion: 2
+        x: 6292
+        y: 1680
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148ab0354dfda3049bb70dd79d6c8efc
+      internalID: -5660136168704936409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_51
+      rect:
+        serializedVersion: 2
+        x: 6578
+        y: 1680
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475f096dba8269942ad758e44153e2fb
+      internalID: 337454123325886805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_52
+      rect:
+        serializedVersion: 2
+        x: 6864
+        y: 1680
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09bb2f6b3934b3a47aa06f99a81193a9
+      internalID: -6043733686337950912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_53
+      rect:
+        serializedVersion: 2
+        x: 7150
+        y: 1680
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b51a3b230cb6fa4797f157fabf1091f
+      internalID: 1719887637810698102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_54
+      rect:
+        serializedVersion: 2
+        x: 7436
+        y: 1680
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0be340cd5f08484c89c1f2c8d8c74e5
+      internalID: -8255525432481309171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_55
+      rect:
+        serializedVersion: 2
+        x: 7722
+        y: 1680
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b037d1578ed8c2946b03e29ea4f5964e
+      internalID: 8818570031541158529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1496
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4aea285db17244eb8dbf0b95a95bcd
+      internalID: 148895040010190809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_57
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1496
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c126380c46ccc4e8f3be4df6a761c4
+      internalID: 4810635792326304719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_58
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1496
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e4ee1ef0368694387a0d63aebb8460
+      internalID: -8833794863587313468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_59
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1496
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaac834cd085c5b4c978db9225593e83
+      internalID: 4192925156952727283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_60
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 1496
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a560991aca2644aa08514ae1918eb1
+      internalID: 4515707792128925266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_61
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1496
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a94ef38db34e247836d5314e3acb38
+      internalID: -3938371439610909206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_62
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 1496
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92cf5a8a6999811468360cc3a29424f4
+      internalID: 3393848999322932967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_63
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 1496
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4fa1d97bb674f419aea84c7c7c6c35
+      internalID: -7949597602734458844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_64
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 1496
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00c975fdb2bd254f9ac4a62bb53ac0c
+      internalID: -5939855930827327463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_65
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 1496
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59bfae2808f6eeb45ae39d82d0dc4ce7
+      internalID: 9148718632052987671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_66
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 1496
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb2895269ad6c14880bf5778d04a3ca
+      internalID: -6122153715377476933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_67
+      rect:
+        serializedVersion: 2
+        x: 3146
+        y: 1496
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2cd3b70749a90e4eb483cbfe4241187
+      internalID: 7965896784064439043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_68
+      rect:
+        serializedVersion: 2
+        x: 3432
+        y: 1496
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc9fd68444e9e24980b59ddc06fc735
+      internalID: 7371234522250921294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_69
+      rect:
+        serializedVersion: 2
+        x: 3718
+        y: 1496
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f84901d41a88345941e4accbbafbc1
+      internalID: 5160599820179610343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_70
+      rect:
+        serializedVersion: 2
+        x: 4004
+        y: 1496
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b081a0603edfb469e041539e21f44b
+      internalID: -6201437051823525638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_71
+      rect:
+        serializedVersion: 2
+        x: 4290
+        y: 1496
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ed0f1f4a355b74fa7b826477509898
+      internalID: 9020552200517083437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_72
+      rect:
+        serializedVersion: 2
+        x: 4576
+        y: 1496
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a558316b43b964d955271f8188f8df
+      internalID: 3522666824298616974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_73
+      rect:
+        serializedVersion: 2
+        x: 4862
+        y: 1496
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5ad6a119e2b4d47bef6763043af7dd
+      internalID: -7105515165575903081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_74
+      rect:
+        serializedVersion: 2
+        x: 5148
+        y: 1496
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1f6fe812c52674891b584d1d0a5daf
+      internalID: 2012710036845677447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_75
+      rect:
+        serializedVersion: 2
+        x: 5434
+        y: 1496
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765b3323e9e6ea94aace5fea6ec8bac0
+      internalID: -4001339446419272209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_76
+      rect:
+        serializedVersion: 2
+        x: 5720
+        y: 1496
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d278fcb8522384694d82bb6f43ab0f
+      internalID: -7769517977303402130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_77
+      rect:
+        serializedVersion: 2
+        x: 6006
+        y: 1496
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d068c9dd74fff14f9d7f4a19e79610d
+      internalID: 109566326002509100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_78
+      rect:
+        serializedVersion: 2
+        x: 6292
+        y: 1496
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499c514cc1bedad4f90836d668181518
+      internalID: -7572961678609973741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_79
+      rect:
+        serializedVersion: 2
+        x: 6578
+        y: 1496
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef95690666177446866c7a61a7021fb
+      internalID: 8907374376841876615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_80
+      rect:
+        serializedVersion: 2
+        x: 6864
+        y: 1496
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2069c6bc7a741747a08495ba679e0ef
+      internalID: 7238668643236802229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_81
+      rect:
+        serializedVersion: 2
+        x: 7150
+        y: 1496
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cce22cb1264b034da9bf237de6eed6b
+      internalID: -3219128192526532923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_82
+      rect:
+        serializedVersion: 2
+        x: 7436
+        y: 1496
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f137bbbd357ddb945bd2a5bc3fb2d18a
+      internalID: -4525380565522507548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_83
+      rect:
+        serializedVersion: 2
+        x: 7722
+        y: 1496
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ff91ff6374ddb49b9f3443fe5ff932
+      internalID: -2617295790706043088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1312
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f114b02b99a78d342ad0d10992c30d51
+      internalID: 7856902021958294606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_85
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1312
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27df99bdecfb862459f2e311671d0df8
+      internalID: -2645560403231485230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_86
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1312
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd9e4958cbd4f2419af43bbc77e3beb
+      internalID: -923096663644165852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_87
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1312
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2eeeda6108bcdc44a77ea10bd3a6751
+      internalID: -2770404317562741563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_88
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 1312
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab067ca98877dff468dcb88734f92b7c
+      internalID: -7816510789976343096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_89
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1312
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d1fa2b0cf44694d9c860096d9401f1
+      internalID: 3356014931344613966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_90
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 1312
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e92d14d8e30a440b465d8d562deb73
+      internalID: -2422086135534608260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_91
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 1312
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b5d9833799fa64a8cad3631a5460a4
+      internalID: -4369185423558824271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_92
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 1312
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c6a7f0dc28cb8498d44340a635390d
+      internalID: -6186244724135650741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_93
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 1312
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c95c77ab481274994fcf80ec78b21d
+      internalID: 200056371289895971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_94
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 1312
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cdd520f2de8503489605608d9142e62
+      internalID: 847088386007138418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_95
+      rect:
+        serializedVersion: 2
+        x: 3146
+        y: 1312
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df99e2472821574e931a22a5825f85f
+      internalID: 2440590857661926607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_96
+      rect:
+        serializedVersion: 2
+        x: 3432
+        y: 1312
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8d362873230e9489eac603526f4458
+      internalID: -6896085344031072066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_97
+      rect:
+        serializedVersion: 2
+        x: 3718
+        y: 1312
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b1dd96846f0514ea6178fb01776d63
+      internalID: 1028281215676115009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_98
+      rect:
+        serializedVersion: 2
+        x: 4004
+        y: 1312
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826afa827bdbeca49a98f607b5ebf4a9
+      internalID: -6236969055893595007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_99
+      rect:
+        serializedVersion: 2
+        x: 4290
+        y: 1312
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7108934b5ca55cd46af5b8394bad5122
+      internalID: 5463161792679531456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_100
+      rect:
+        serializedVersion: 2
+        x: 4576
+        y: 1312
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6afa25fae76bf15429c0c1dfac85946f
+      internalID: -8938456223672854719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_101
+      rect:
+        serializedVersion: 2
+        x: 4862
+        y: 1312
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360d67aafbc883145be59a185b575b8e
+      internalID: 6555066317445268218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_102
+      rect:
+        serializedVersion: 2
+        x: 5148
+        y: 1312
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a8121d2809a0746acde3b53dafebae
+      internalID: 8520743917427801844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_103
+      rect:
+        serializedVersion: 2
+        x: 5434
+        y: 1312
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9227885f4596bea499eda4bd8a56855c
+      internalID: 5686348458372459032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_104
+      rect:
+        serializedVersion: 2
+        x: 5720
+        y: 1312
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1127e04bb59e3f469b04b358b52ea42
+      internalID: -2702491312142261825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_105
+      rect:
+        serializedVersion: 2
+        x: 6006
+        y: 1312
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47634c292eafb434d883b3fe0a153bd0
+      internalID: 7073169940194765948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_106
+      rect:
+        serializedVersion: 2
+        x: 6292
+        y: 1312
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab5ea3ba4588e04a85404877279f250
+      internalID: -9222440726490348722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_107
+      rect:
+        serializedVersion: 2
+        x: 6578
+        y: 1312
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e12373f808ced489198bb3316376ff
+      internalID: -2854963929537558373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_108
+      rect:
+        serializedVersion: 2
+        x: 6864
+        y: 1312
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15e0f666db7a4144b745c7815167d45
+      internalID: 1368609970785915680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_109
+      rect:
+        serializedVersion: 2
+        x: 7150
+        y: 1312
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4792d6e752a615145b8a08ebc0c78ca9
+      internalID: -2246313653563144922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_110
+      rect:
+        serializedVersion: 2
+        x: 7436
+        y: 1312
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41842fe97e1b3674b85669b6702943a6
+      internalID: 2956515275608147366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_111
+      rect:
+        serializedVersion: 2
+        x: 7722
+        y: 1312
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f5f6c0402013743bc7ebc4f1383009
+      internalID: -7156983822292981714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1128
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36aceed974acca04995e0c96dd9a904d
+      internalID: -7637157589784381771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_113
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1128
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c214155e8095943a0591d49aef695b
+      internalID: -5997336608238989756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_114
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1128
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2ebcc8b7e7ccb408855caa1b561b27
+      internalID: 5636389666048562059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_115
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1128
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e15e1bee02db8347b836cbc63582893
+      internalID: -2480011122694036777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_116
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 1128
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d71c6c0b3923f44aec37ecdf98977b
+      internalID: 801309030527477217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_117
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1128
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b123c1ea830c249803f8456220d447
+      internalID: -35058898919082261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_118
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 1128
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb5417a02a8ade4c8a9d87e2ada885c
+      internalID: -1473905862073594518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_119
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 1128
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a6b1633084166c4da405e6abd97021e
+      internalID: -2207966086290177872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_120
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 1128
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476e4614a805d994596d5c84ea970a32
+      internalID: -3153388429424753547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_121
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 1128
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ca92b53dbf81543a14eb861fa0c04e
+      internalID: -5745489468295561845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_122
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 1128
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a03ecd66b772644ab3d2cb64afcbaef
+      internalID: 5253095900513067177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_123
+      rect:
+        serializedVersion: 2
+        x: 3146
+        y: 1128
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df443290834ecb94f82e631113f7bc4e
+      internalID: -5337279924980205554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_124
+      rect:
+        serializedVersion: 2
+        x: 3432
+        y: 1128
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229132e52e73621499cbd17e41aa5aca
+      internalID: 3442255447047617191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_125
+      rect:
+        serializedVersion: 2
+        x: 3718
+        y: 1128
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b783049b5105d4e88098433218eb75
+      internalID: -5148327881855729981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_126
+      rect:
+        serializedVersion: 2
+        x: 4004
+        y: 1128
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c054259f91d9848a23a800a9a991eb
+      internalID: -6968555908095169986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_127
+      rect:
+        serializedVersion: 2
+        x: 4290
+        y: 1128
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc89e88bfb61b7944953af89ee13d985
+      internalID: -5219976676525238135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_128
+      rect:
+        serializedVersion: 2
+        x: 4576
+        y: 1128
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ebfed89120f3c644a751dd651db5710
+      internalID: -3184744199070056194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_129
+      rect:
+        serializedVersion: 2
+        x: 4862
+        y: 1128
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02167771f531f984081d6311476ba986
+      internalID: -525358318195770950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_130
+      rect:
+        serializedVersion: 2
+        x: 5148
+        y: 1128
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f311d797b04664d81716741c7ceb39
+      internalID: -2321061307812061158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_131
+      rect:
+        serializedVersion: 2
+        x: 5434
+        y: 1128
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77fcb64a96ead134b9da2752836d78b1
+      internalID: -4014071016110458032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_132
+      rect:
+        serializedVersion: 2
+        x: 5720
+        y: 1128
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e765c6f0363dfbb43b7598a91b99bf59
+      internalID: -3334582870763311033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_133
+      rect:
+        serializedVersion: 2
+        x: 6006
+        y: 1128
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ca3ad6be4bce44ea6ac046d9816017
+      internalID: -4489601012819178774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_134
+      rect:
+        serializedVersion: 2
+        x: 6292
+        y: 1128
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9869a033936e4d44c9d4e8362274dbc7
+      internalID: 8623020584904544745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_135
+      rect:
+        serializedVersion: 2
+        x: 6578
+        y: 1128
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4241190c21ca4624ab150dc37f80cf6f
+      internalID: 1285952713979873929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_136
+      rect:
+        serializedVersion: 2
+        x: 6864
+        y: 1128
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4aad606f5d5054db3fff615df5c248
+      internalID: 3634052315070101216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_137
+      rect:
+        serializedVersion: 2
+        x: 7150
+        y: 1128
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67091edf10e04ad40b51d8acc36b59db
+      internalID: -7712068015632006287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_138
+      rect:
+        serializedVersion: 2
+        x: 7436
+        y: 1128
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e005a897044ad419dba8ec7564ffaa
+      internalID: 3689015605320175438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_139
+      rect:
+        serializedVersion: 2
+        x: 7722
+        y: 1128
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3c4638c879f4344835d85f5d8d450e
+      internalID: 8024665591292157036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 944
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24dcdd05b11fbc446bed51ecb6b03b7b
+      internalID: 7806632937257215650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_141
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 944
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b89dad71140f943a3a266760c1b89c
+      internalID: -95680629371562481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_142
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 944
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13388a01fa026954e92158d19328aff7
+      internalID: 6494794968632285271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_143
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 944
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c43fd03a86f97f49badf7b91d170e2e
+      internalID: 7735210177760788736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_144
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 944
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edeb72a2466e47d4fa09a32cddf2c83a
+      internalID: 338916521022329063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_145
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 944
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f9ea826c10cbd46a9fe09b897e5174
+      internalID: 3158208865097172450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_146
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 944
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e742c71e04ac15544abce98855f59a9e
+      internalID: -8711021155671010176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_147
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 944
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf631fa8f19d24a4ba8607123955bce4
+      internalID: -9017832371172050987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_148
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 944
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278113a9a862a0d42abd8eece83b8daf
+      internalID: -4102891484803344181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_149
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 944
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4520b44d834e1459e1a28250ac1821
+      internalID: -5333613686030118484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_150
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 944
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ec7fe8079163449bb6f17914382a24
+      internalID: 2292253716007684586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_151
+      rect:
+        serializedVersion: 2
+        x: 3146
+        y: 944
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12bd0482fe4abb242bd01599bf71c210
+      internalID: -65976878389267684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_152
+      rect:
+        serializedVersion: 2
+        x: 3432
+        y: 944
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a29007570187cf46aaffaf43c6b6117
+      internalID: 1228693520502017867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_153
+      rect:
+        serializedVersion: 2
+        x: 3718
+        y: 944
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272a9416864e5e84695c81ef55dda99a
+      internalID: -3519763749661360308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_154
+      rect:
+        serializedVersion: 2
+        x: 4004
+        y: 944
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77553202659a9f54ea0498c482275059
+      internalID: 8284079797397461068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_155
+      rect:
+        serializedVersion: 2
+        x: 4290
+        y: 944
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04ff6c489c2db442b4529b1476486f5
+      internalID: 4147655319847471495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_156
+      rect:
+        serializedVersion: 2
+        x: 4576
+        y: 944
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594e84d346b95d1418bf8234c6913779
+      internalID: 8257416600974846791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_157
+      rect:
+        serializedVersion: 2
+        x: 4862
+        y: 944
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91b4a404e4678646b34a04d514fe25b
+      internalID: -3077028069500377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_158
+      rect:
+        serializedVersion: 2
+        x: 5148
+        y: 944
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6478b7c8b8a8469409f1b268aaa2562c
+      internalID: 1429196667127814435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_159
+      rect:
+        serializedVersion: 2
+        x: 5434
+        y: 944
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd399fda752bd7b4bb4c3c17d0f10bda
+      internalID: -5001546068978015975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_160
+      rect:
+        serializedVersion: 2
+        x: 5720
+        y: 944
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0d07714b698fc4c91b5c3ab1a975b3
+      internalID: -5445987480196055725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_161
+      rect:
+        serializedVersion: 2
+        x: 6006
+        y: 944
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99081daae82d9d249857d7fc87f92e54
+      internalID: 5330106900274324472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_162
+      rect:
+        serializedVersion: 2
+        x: 6292
+        y: 944
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2bb025c3c93c14888f25588a8e832d
+      internalID: -96299170279988631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_163
+      rect:
+        serializedVersion: 2
+        x: 6578
+        y: 944
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986df3ad2bd10c24a8e9f736fbebd542
+      internalID: 7233369395163184981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_164
+      rect:
+        serializedVersion: 2
+        x: 6864
+        y: 944
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94702ff26236aa4f82a18d160de1f10
+      internalID: -8678514120079330224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_165
+      rect:
+        serializedVersion: 2
+        x: 7150
+        y: 944
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe240f89b822d24fbda1a71ba3f77d3
+      internalID: -4000415457760797586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_166
+      rect:
+        serializedVersion: 2
+        x: 7436
+        y: 944
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37866d81b209c544bb14c9ebab953b99
+      internalID: -5197100582271005995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_167
+      rect:
+        serializedVersion: 2
+        x: 7722
+        y: 944
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffcc0f11b37dec54bb94a51a1653bd38
+      internalID: 6144243954249812494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 760
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6628ce84ad1d2de41bdafd2543559fef
+      internalID: 1939625391660273053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_169
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 760
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8043eff0cb9421e418a793023050ba57
+      internalID: 2007427320207251577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_170
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 760
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba722c697e0d96540ba3f03e2d1b7d57
+      internalID: 2916971410130088796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_171
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 760
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d481f46225b4b643953ba1918bc15a1
+      internalID: -1059194462279865119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_172
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 760
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253ef18a3e083ac4b9ff5e85ca601715
+      internalID: -2259778135165917260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_173
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 760
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfda043ff835f4c4f9c8ced50c5388db
+      internalID: -4102221791587324358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_174
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 760
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305188edf3460da4aac5d2dce40374ae
+      internalID: 2379160865705583850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_175
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 760
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944fa2fa742c8114faa2b0acc9f7aadd
+      internalID: 3562047626316312431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_176
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 760
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57fa0ca0bd61d347905253ae8542f13
+      internalID: -2711843923173758794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_177
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 760
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58af6b85698487c43ad1087b26bbfb36
+      internalID: -557023753277199004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_178
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 760
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4681372876f935428c8d880e83fc75e
+      internalID: -1834948629038465463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_179
+      rect:
+        serializedVersion: 2
+        x: 3146
+        y: 760
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf0e75450dacbc409af844bee73b677
+      internalID: 7381229996793630308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_180
+      rect:
+        serializedVersion: 2
+        x: 3432
+        y: 760
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a5f368f0530184c8675e094a1dcb05
+      internalID: -2302378725321956763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_181
+      rect:
+        serializedVersion: 2
+        x: 3718
+        y: 760
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa46e6e748c68645bed79fde3bce0d6
+      internalID: -1169567188199877057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_182
+      rect:
+        serializedVersion: 2
+        x: 4004
+        y: 760
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3e2de3cfec3bd4da4f072f38fd1fb1
+      internalID: 1438320540303631584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_183
+      rect:
+        serializedVersion: 2
+        x: 4290
+        y: 760
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f22a7087d4aff46800ea43e4216f33
+      internalID: -6396267496011867608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_184
+      rect:
+        serializedVersion: 2
+        x: 4576
+        y: 760
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d6bbc7e8111594ba9fdd3eb1679230
+      internalID: -2238741861896544417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_185
+      rect:
+        serializedVersion: 2
+        x: 4862
+        y: 760
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64156d1117dac34396e27ff3073b3f3
+      internalID: 8671952033509980000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_186
+      rect:
+        serializedVersion: 2
+        x: 5148
+        y: 760
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ff0a0db5f4d934fa6b81e1f2e27502
+      internalID: 5253341928058458433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_187
+      rect:
+        serializedVersion: 2
+        x: 5434
+        y: 760
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61990885c3118c94381389d09c489e9d
+      internalID: 2474093729179433442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_188
+      rect:
+        serializedVersion: 2
+        x: 5720
+        y: 760
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 583b083c137e6f646ba3ec73ce12be2e
+      internalID: 2378131640199465181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_189
+      rect:
+        serializedVersion: 2
+        x: 6006
+        y: 760
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3c3f83c5d41b8448e67ec83437d94e
+      internalID: 5793830768225508910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_190
+      rect:
+        serializedVersion: 2
+        x: 6292
+        y: 760
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f87578189e5c7d49ba5de851efbc4a0
+      internalID: -4247308804343553265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_191
+      rect:
+        serializedVersion: 2
+        x: 6578
+        y: 760
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36063761e53ba342abb50e0ab50ae90
+      internalID: 4510796454333012759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_192
+      rect:
+        serializedVersion: 2
+        x: 6864
+        y: 760
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea11d2589aee2a649915fd1853db1658
+      internalID: -2426054621711714112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_193
+      rect:
+        serializedVersion: 2
+        x: 7150
+        y: 760
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03fdbcde4e84654f884ca0825d25e89
+      internalID: -5406507009760903266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_194
+      rect:
+        serializedVersion: 2
+        x: 7436
+        y: 760
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c027b92a91e00144b8b46401c2b9824a
+      internalID: -943193334399313321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_195
+      rect:
+        serializedVersion: 2
+        x: 7722
+        y: 760
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c47b7183163a843b1e712303830c9b
+      internalID: 1651973021035072281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_196
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36386b990eeeb9429802aad4703f60d
+      internalID: -634034139078575179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_197
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 576
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1380edef67254204ca39cd62d602e5e5
+      internalID: -2902641911362815957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_198
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 576
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bfdc5f55016bdc4a9e1efe2286ad39b
+      internalID: 5627958024206978363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_199
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 576
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95765818b4385a6418bc110a84ef7998
+      internalID: -8354845030677397548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_200
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 576
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75625c257f283ed47aac5f261d7bea7f
+      internalID: 6145455560702014604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_201
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 576
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d0cddb0b8e7b04fb60cfda229b8c4b
+      internalID: -7948677198026901591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_202
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 576
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0f01e72c744b240a0a832db939196c
+      internalID: 3412950443940909325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_203
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 576
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519251443ddfdad419f5659c25e8c4b2
+      internalID: -3549759996734043296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_muerte_204
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 576
+        width: 286
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344b010814856c64186ee9377b3e161b
+      internalID: -1185043467761893336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8c305956423d7734fb97750b1b62b7dc
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

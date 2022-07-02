@@ -1,15 +1,27 @@
 fileFormatVersion: 2
 guid: 5ac877d095aa17e4da72c8595ee5a6e8
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: Cueva16SpriteSheet_0
-    21300002: Cueva16SpriteSheet_1
-    21300004: Cueva16SpriteSheet_2
-    21300006: Cueva16SpriteSheet_3
-    21300008: Cueva16SpriteSheet_4
-    21300010: Cueva16SpriteSheet_5
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Cueva16SpriteSheet_0
+  - first:
+      213: 21300002
+    second: Cueva16SpriteSheet_1
+  - first:
+      213: 21300004
+    second: Cueva16SpriteSheet_2
+  - first:
+      213: 21300006
+    second: Cueva16SpriteSheet_3
+  - first:
+      213: 21300008
+    second: Cueva16SpriteSheet_4
+  - first:
+      213: 21300010
+    second: Cueva16SpriteSheet_5
   externalObjects: {}
-  serializedVersion: 7
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -63,29 +75,44 @@ TextureImporter:
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  applyGammaDecoding: 1
   platformSettings:
-  - serializedVersion: 2
+  - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-  - serializedVersion: 2
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
     buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -105,6 +132,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 9f19413a5cfde4b4c850315b9e3b62ff
+      internalID: 21300000
       vertices: []
       indices: 
       edges: []
@@ -125,6 +153,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 3cf6e1c654f8ee5478c38d1a80c15772
+      internalID: 21300002
       vertices: []
       indices: 
       edges: []
@@ -145,6 +174,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 2f9cd17652cdb584b84fbef79870dc81
+      internalID: 21300004
       vertices: []
       indices: 
       edges: []
@@ -165,6 +195,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 60b3251d75b7eb34eaa73004b3d6bcdd
+      internalID: 21300006
       vertices: []
       indices: 
       edges: []
@@ -185,6 +216,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: a098a90892c82f14c96b5cba9fa4786b
+      internalID: 21300008
       vertices: []
       indices: 
       edges: []
@@ -205,6 +237,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 0789c1dff2a11114ca869659612142d5
+      internalID: 21300010
       vertices: []
       indices: 
       edges: []
@@ -213,13 +246,15 @@ TextureImporter:
     physicsShape: []
     bones: []
     spriteID: 42f50e515577c354f8b02b7253e0ad09
+    internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
+    secondaryTextures: []
   spritePackingTag: 
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
+  pSDShowRemoveMatteOption: 1
   userData: 
   assetBundleName: 
   assetBundleVariant: 

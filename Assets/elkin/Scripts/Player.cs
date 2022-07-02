@@ -95,6 +95,29 @@ public class Player : AnimEvents
         }
     }
 
+    public void ShowDamage(MissNasty boss)
+    {
+        var life = GetComponent<LifeBar>();
+        if (!life.IsAlive) return;
+
+        _isAlive = life.UpdateHp(1);
+
+        if (_isAlive)
+        {
+            _isDamaged = true;
+            _anim.Play("Damage", 0, 0);
+            
+            soundManager.PlayRandomGemidoWeeb();
+            //ResetAnim();
+        }
+        else
+        {
+            soundManager.PlaySound(8);
+            _anim.Play("animMuerte");
+            Invoke("EncenderPanelGameOver", 5f);
+        }
+    }
+
     public void ShowDamage(Enemy currentAttackingEnemy)
     {
         _isBlocked = false;
@@ -158,7 +181,10 @@ public class Player : AnimEvents
     private void NotificateEnemies(Enemy enToIgnore)
     {
         //print("se ha llamado a check de empuje");
-        _enemyList.ForEach(e => { if (e != enToIgnore) e.FarAway(); });
+        //if (enToIgnore is MissNasty) Debug.Log("<color=yellow>GOLPEO A MISS NASTY</color>");
+        _enemyList.ForEach(e => { 
+            if (e != enToIgnore) e.FarAway();            
+        });
     }
 
     public void RecibirBloqueo()
@@ -174,6 +200,16 @@ public class Player : AnimEvents
     public override void MoveAwayPlayer()
     {
         GetComponent<MoveAwayEffect>().MoveAway((transform.position - _currentEnemy.transform.position).normalized, this);
+    }
+
+    public void MoveAwayPlayerOf(Vector3 position, float force)
+    {
+        GetComponent<MoveAwayEffect>().MoveAway((transform.position - position).normalized, this, force);
+    }
+
+    public void ShowAnimDefend()
+    {
+        _anim.Play("Defend", 0, 0);
     }
 
     public override void HabilitarElAtaque(bool valor)
@@ -207,6 +243,12 @@ public class Player : AnimEvents
             FindObjectOfType<GameManager>().interacionBloqueada = false;
         }
     }
+
+    public void ResetActions()
+    {
+        _actions.Clear();
+    }
+
     public void IncrementarVida()
     {      
        _isAlive = GetComponent<LifeBar>().UpdateHp(-1);
@@ -220,9 +262,17 @@ public class Player : AnimEvents
         {
             print("PANEL DE MUERTE AQUI HA ACABADO LA ANIMACION");
             print("VOLVER AL SUEÑO SI - NO ETC...");
+            Invoke("EncenderPanelGameOver", 5f);
             return;
         }
-        if (_actions.Count > 0)
+
+        if (anim == "defend")
+        {
+            _anim.Play("Idle", 0, 0);
+            return;
+        }
+
+        if (_actions!=null && _actions.Count > 0)
         {
             // se mostrara fatality al 3 combo
             // porque no hay animaciones de 3 combo
@@ -280,6 +330,18 @@ public class Player : AnimEvents
 
     }
 
+    public void HidePlayer()
+    {
+        _anim.gameObject.SetActive(false);
+    }
+
+    public void ShowPlayer()
+    {
+        _anim.gameObject.SetActive(true);
+        _anim.SetBool("Tuberia", true);
+        _isAttacking = false;
+    }
+
     public override void CheckEnemyType()
     {
         Debug.Log("<color=green>CheckEnemyType: "+_currentEnemy+"</color>");
@@ -287,8 +349,7 @@ public class Player : AnimEvents
             _anim.speed=0;
             (_currentEnemy as SpecialEnemy).ShowSpecialAnim();
             //ocultar el player y el enemigo
-            //llamar la animacion de fatality del enemigo
-            
+            //llamar la animacion de fatality del enemigo            
         }
     }
 
@@ -341,26 +402,27 @@ public class Player : AnimEvents
         if (Camera.main == null || !_isAlive) return;        
 
         if (Input.GetMouseButtonDown(0) && !_isBlocked && !_isDamaged && !FindObjectOfType<GameManager>()._panelOpen)
-
         {
-        //    FindObjectOfType<Camera>().GetComponent<CameraShake>().enabled = false;
+        //    FiandObjectOfType<Camera>().GetComponent<CameraShake>().enabled = false;
             Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
             RaycastHit2D hit = Physics2D.Raycast(ray.origin, ray.direction, Mathf.Infinity);
+            var gameManager = FindObjectOfType<GameManager>();
             if (hit.collider == null)
             {
-                FindObjectOfType<GameManager>().usandoCurry = false;
-                FindObjectOfType<GameManager>().usandoRombo = false;
-                FindObjectOfType<GameManager>().usandoMoneda = false;
+                
+                gameManager.usandoCurry = false;
+                gameManager.usandoRombo = false;
+                gameManager.usandoMoneda = false;
                 FindObjectOfType<CursorManager>().setNormalTexture();
             }
             if (hit.collider != null)
             {
-                FindObjectOfType<GameManager>().ComprobacionesObjetoClave(hit.collider.gameObject);
+                gameManager.ComprobacionesObjetoClave(hit.collider.gameObject);
                 if (hit.collider.gameObject.tag.Equals("WorldItem") && !GameObject.Find("PanelRecogerObjeto") && !GameObject.Find("ContenidoInventario") && !FindObjectOfType<DialogueManager>().converActiva) //si choca con un objeto que se puede coger
                 {
                     print("entra en World Item");
                     hit.collider.gameObject.GetComponent<infoItem>().AbrirPanelExaminarObjeto();
-                    FindObjectOfType<GameManager>()._panelOpen = true;
+                    gameManager._panelOpen = true;
                 }
                 else if (hit.collider.gameObject.tag.Equals("AreaExam") && !GameObject.Find("PanelExaminar") && !GameObject.Find("ContenidoInventario") && !FindObjectOfType<DialogueManager>().converActiva) //si choca con un objeto que se puede examinar
                 {
@@ -371,13 +433,22 @@ public class Player : AnimEvents
                 }
                 else//si choca con enemigo
                 {
-                    if (habilitarAtaque)
+                    var compMiss = hit.collider.GetComponentInParent<MissNasty>();
+                    if (habilitarAtaque || compMiss != null)
                     {
                         print("entra en enemigo");
                         var partName = hit.collider.name.Substring(0, 1).ToUpper();
                         //Debug.Log("Part: " +partName);
                         var comp = hit.collider.GetComponentInParent<Enemy>();
-                        if (comp) Hit(comp, partName);
+                        if (compMiss)
+                        {
+                            Hit(compMiss, partName);
+                        }
+                        else
+                        {
+                            
+                            if (comp) Hit(comp, partName);
+                        }
                     }           
                 }
             }
@@ -423,6 +494,27 @@ public class Player : AnimEvents
             ResetAnim();
         }           
        
+    }
+
+    public void Hit(MissNasty enemy, string inicial) 
+    {
+        var dist = Vector3.Distance(enemy.transform.position, transform.position);
+        if (dist > _maxDistance) return;
+
+        _contador++;
+        string animName = _actualAnim + inicial + _contador;
+        //_actualAnim = inicial + _contador;
+        _currentEnemy = enemy;
+        _contador = 0;
+        if (!_isAttacking)
+        {
+            Debug.Log("Atacando");
+            AtaqueNormal(animName);
+        }
+        else
+        {
+            _actions.Enqueue(new AnimStruct(animName, _currentEnemy));
+        }
     }
 
     public void Hit(Enemy enemy, string inicial) //HE COMENTADO EL PRIMER FOREACH PORQUE NO HACÍA NADA MÁS QUE UN PRINT

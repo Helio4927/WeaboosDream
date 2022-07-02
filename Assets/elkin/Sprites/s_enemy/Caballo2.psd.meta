@@ -1,58 +1,156 @@
 fileFormatVersion: 2
 guid: 24b358d29cd7d964d8627c2207b5012f
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: animacion enemigo segunda version_0
-    21300002: animacion enemigo segunda version_1
-    21300004: animacion enemigo segunda version_2
-    21300006: animacion enemigo segunda version_3
-    21300008: animacion enemigo segunda version_4
-    21300010: animacion enemigo segunda version_5
-    21300012: animacion enemigo segunda version_6
-    21300014: animacion enemigo segunda version_7
-    21300016: animacion enemigo segunda version_8
-    21300018: animacion enemigo segunda version_9
-    21300020: animacion enemigo segunda version_10
-    21300022: animacion enemigo segunda version_11
-    21300024: animacion enemigo segunda version_12
-    21300026: animacion enemigo segunda version_13
-    21300028: EnemigoCaballoContrastado_0
-    21300030: EnemigoCaballoContrastado_1
-    21300032: EnemigoCaballoContrastado_2
-    21300034: EnemigoCaballoContrastado_3
-    21300036: EnemigoCaballoContrastado_4
-    21300038: EnemigoCaballoContrastado_5
-    21300040: EnemigoCaballoContrastado_6
-    21300042: EnemigoCaballoContrastado_7
-    21300044: EnemigoCaballoContrastado_8
-    21300046: EnemigoCaballoContrastado_9
-    21300048: EnemigoCaballoContrastado_10
-    21300050: EnemigoCaballoContrastado_11
-    21300052: EnemigoCaballoContrastado_12
-    21300054: EnemigoCaballoContrastado_13
-    21300056: EnemigoCaballoContrastado_14
-    21300058: EnemigoCaballoContrastado_15
-    21300060: EnemigoCaballoContrastado_16
-    21300062: EnemigoCaballoContrastado_17
-    21300064: EnemigoCaballoContrastado_18
-    21300066: Caballo1_0
-    21300068: Caballo1_1
-    21300070: Caballo1_2
-    21300072: Caballo1_3
-    21300074: Caballo1_4
-    21300076: Caballo1_5
-    21300078: Caballo1_6
-    21300080: Caballo1_7
-    21300082: Caballo1_8
-    21300084: Caballo1_9
-    21300086: Caballo1_10
-    21300088: Caballo1_11
-    21300090: Caballo1_12
-    21300092: Caballo1_13
-    21300094: Caballo1_14
-    21300096: Caballo1_15
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: animacion enemigo segunda version_0
+  - first:
+      213: 21300002
+    second: animacion enemigo segunda version_1
+  - first:
+      213: 21300004
+    second: animacion enemigo segunda version_2
+  - first:
+      213: 21300006
+    second: animacion enemigo segunda version_3
+  - first:
+      213: 21300008
+    second: animacion enemigo segunda version_4
+  - first:
+      213: 21300010
+    second: animacion enemigo segunda version_5
+  - first:
+      213: 21300012
+    second: animacion enemigo segunda version_6
+  - first:
+      213: 21300014
+    second: animacion enemigo segunda version_7
+  - first:
+      213: 21300016
+    second: animacion enemigo segunda version_8
+  - first:
+      213: 21300018
+    second: animacion enemigo segunda version_9
+  - first:
+      213: 21300020
+    second: animacion enemigo segunda version_10
+  - first:
+      213: 21300022
+    second: animacion enemigo segunda version_11
+  - first:
+      213: 21300024
+    second: animacion enemigo segunda version_12
+  - first:
+      213: 21300026
+    second: animacion enemigo segunda version_13
+  - first:
+      213: 21300028
+    second: EnemigoCaballoContrastado_0
+  - first:
+      213: 21300030
+    second: EnemigoCaballoContrastado_1
+  - first:
+      213: 21300032
+    second: EnemigoCaballoContrastado_2
+  - first:
+      213: 21300034
+    second: EnemigoCaballoContrastado_3
+  - first:
+      213: 21300036
+    second: EnemigoCaballoContrastado_4
+  - first:
+      213: 21300038
+    second: EnemigoCaballoContrastado_5
+  - first:
+      213: 21300040
+    second: EnemigoCaballoContrastado_6
+  - first:
+      213: 21300042
+    second: EnemigoCaballoContrastado_7
+  - first:
+      213: 21300044
+    second: EnemigoCaballoContrastado_8
+  - first:
+      213: 21300046
+    second: EnemigoCaballoContrastado_9
+  - first:
+      213: 21300048
+    second: EnemigoCaballoContrastado_10
+  - first:
+      213: 21300050
+    second: EnemigoCaballoContrastado_11
+  - first:
+      213: 21300052
+    second: EnemigoCaballoContrastado_12
+  - first:
+      213: 21300054
+    second: EnemigoCaballoContrastado_13
+  - first:
+      213: 21300056
+    second: EnemigoCaballoContrastado_14
+  - first:
+      213: 21300058
+    second: EnemigoCaballoContrastado_15
+  - first:
+      213: 21300060
+    second: EnemigoCaballoContrastado_16
+  - first:
+      213: 21300062
+    second: EnemigoCaballoContrastado_17
+  - first:
+      213: 21300064
+    second: EnemigoCaballoContrastado_18
+  - first:
+      213: 21300066
+    second: Caballo1_0
+  - first:
+      213: 21300068
+    second: Caballo1_1
+  - first:
+      213: 21300070
+    second: Caballo1_2
+  - first:
+      213: 21300072
+    second: Caballo1_3
+  - first:
+      213: 21300074
+    second: Caballo1_4
+  - first:
+      213: 21300076
+    second: Caballo1_5
+  - first:
+      213: 21300078
+    second: Caballo1_6
+  - first:
+      213: 21300080
+    second: Caballo1_7
+  - first:
+      213: 21300082
+    second: Caballo1_8
+  - first:
+      213: 21300084
+    second: Caballo1_9
+  - first:
+      213: 21300086
+    second: Caballo1_10
+  - first:
+      213: 21300088
+    second: Caballo1_11
+  - first:
+      213: 21300090
+    second: Caballo1_12
+  - first:
+      213: 21300092
+    second: Caballo1_13
+  - first:
+      213: 21300094
+    second: Caballo1_14
+  - first:
+      213: 21300096
+    second: Caballo1_15
   externalObjects: {}
-  serializedVersion: 7
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -106,40 +204,44 @@ TextureImporter:
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  applyGammaDecoding: 1
   platformSettings:
-  - serializedVersion: 2
+  - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-  - serializedVersion: 2
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
     buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-  - serializedVersion: 2
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
     buildTarget: Android
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -159,6 +261,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 59f7aa33f390b234698f0e0a05d73060
+      internalID: 21300066
       vertices: []
       indices: 
       edges: []
@@ -179,6 +282,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: d3921ce3bb186b447ad7c10764cd52b7
+      internalID: 21300068
       vertices: []
       indices: 
       edges: []
@@ -199,6 +303,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 2f995ac7611215341a5727d61c8770be
+      internalID: 21300070
       vertices: []
       indices: 
       edges: []
@@ -219,6 +324,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 75803b90abbbbc54dbf091bc5b368e81
+      internalID: 21300072
       vertices: []
       indices: 
       edges: []
@@ -239,6 +345,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 8bfff2f9c4ca28146a672dda5a1e566d
+      internalID: 21300074
       vertices: []
       indices: 
       edges: []
@@ -259,6 +366,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b97f7850d85a3914e8cd8f7b1ad8ba48
+      internalID: 21300076
       vertices: []
       indices: 
       edges: []
@@ -279,6 +387,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c6f73e5cfc277ba4893a08f25a03dc1b
+      internalID: 21300078
       vertices: []
       indices: 
       edges: []
@@ -299,6 +408,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 0e639848dfd631849823c29b96393bff
+      internalID: 21300080
       vertices: []
       indices: 
       edges: []
@@ -319,6 +429,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: e16cf3f17b9c20d47928a63ca3e51885
+      internalID: 21300082
       vertices: []
       indices: 
       edges: []
@@ -339,6 +450,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 55a43a6556dacfc4c8b05760bc39a0ea
+      internalID: 21300084
       vertices: []
       indices: 
       edges: []
@@ -359,6 +471,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: d1b4d3d9ae4777e41a41cdf3c42972c8
+      internalID: 21300086
       vertices: []
       indices: 
       edges: []
@@ -379,6 +492,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 5e3152127538eeb44adb0ccf40de9e87
+      internalID: 21300088
       vertices: []
       indices: 
       edges: []
@@ -399,6 +513,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: a493937df92c7b340883f248995b83f7
+      internalID: 21300090
       vertices: []
       indices: 
       edges: []
@@ -419,6 +534,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: ccf506dbec84f2c499c3c533046b5f35
+      internalID: 21300092
       vertices: []
       indices: 
       edges: []
@@ -439,6 +555,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 649df231cb497ad40b6eaa3ffeb0ea57
+      internalID: 21300094
       vertices: []
       indices: 
       edges: []
@@ -459,6 +576,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 83acec04e31a46943acdc4ee9705d693
+      internalID: 21300096
       vertices: []
       indices: 
       edges: []
@@ -923,10 +1041,12 @@ TextureImporter:
       - {x: -34, y: 56}
     bones: []
     spriteID: ea2400db67695e3469629905cc870fdd
+    internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
+    secondaryTextures: []
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 1

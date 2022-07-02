@@ -8,22 +8,25 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/elkin/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/LangSelec.unity
     guid: d357966e4a8ac304eb6d7a6f264fec78
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Menu.unity
     guid: 77a40cbec94c5004b9e51949a22d9aa3
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/MenuEng.unity
     guid: 764ccd326d479774c81c7e8af1547179
-  - enabled: 1
+  - enabled: 0
     path: Assets/elkin/Scenes/Escena Principal.unity
     guid: b8720592382541f438804f5c6ae74610
   - enabled: 0
     path: Assets/elkin/Scenes/Escena Test Enemigos.unity
     guid: d99a9febb996b8b4bb83f86f3046433a
-  - enabled: 1
+  - enabled: 0
     path: Assets/elkin/Scenes/Escena Principal ENG.unity
     guid: 60464cffde161744fa6a9c46abcd6435
+  - enabled: 1
+    path: Assets/elkin/Scenes/escena_miss_nasty.unity
+    guid: 42924292881acbf45b58188167ed5c07
   m_configObjects: {}

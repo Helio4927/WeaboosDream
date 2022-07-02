@@ -18,6 +18,13 @@ public class LifeBar : MonoBehaviour {
         }		
 	}
 	
+    public bool IsGoingToDie(float hitValue)
+    {
+        var tempInitHp = initHp;
+        tempInitHp -= hitValue;
+        return tempInitHp <= 0;
+    }
+
 	public bool UpdateHp(float hitValue){     
 		initHp-=hitValue;
         if (initHp > totalHp)

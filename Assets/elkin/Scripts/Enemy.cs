@@ -12,7 +12,8 @@ public class Enemy : AnimEvents {
     protected bool _isTarget = false;
     public float stuneTime = 0.5f;
     //private bool _isInvincible = false;
-    protected State _currentState;
+
+    [SerializeField] protected State _currentState;
     protected bool _isRigth = false;
     protected bool _isAlive = true;
     public float _distanceWhenPlayerHit = 2;
@@ -27,7 +28,7 @@ public class Enemy : AnimEvents {
     
     public enum State
     {
-        IDLE, FOLLOW, ATTACK, WAIT, HURT, DEATH, BLOCK,BEBLOCKED
+        IDLE, FOLLOW, ATTACK, WAIT, HURT, DEATH, BLOCK, BEBLOCKED, IN_QTE, DASH, TIRED
     }
 
     public virtual void Start()
@@ -51,7 +52,7 @@ public class Enemy : AnimEvents {
         ProccessOnceState();
     }
 
-    private int GetDamageValue(string animName)
+    protected virtual int GetDamageValue(string animName)
     {
         var letra = animName[animName.Length - 2];
         Debug.Log("letra: "+letra);
@@ -69,7 +70,7 @@ public class Enemy : AnimEvents {
         }
     }
 
-    public void ShowHitAnim(string animName) {
+    public virtual void ShowHitAnim(string animName) {
         if (animName.Equals("Fatality001"))
         {
             _isAlive = _lifeBar.UpdateHp(100);
@@ -88,10 +89,7 @@ public class Enemy : AnimEvents {
             _isAlive = _lifeBar.UpdateHp(damage);            
             Debug.Log("Alive: " + _isAlive);
             Debug.Log("Damage: " + damage);
-            
-           
-
-
+                     
 
             if (_isAlive)
             {
@@ -218,7 +216,7 @@ public class Enemy : AnimEvents {
         }
     }
 
-    void Update()
+    public virtual void Update()
     {
         if (!_player.IsAlive) return;
 
@@ -314,7 +312,7 @@ public class Enemy : AnimEvents {
         }
     }
 
-    private void Deactive() {
+    protected void Deactive() {
         print(gameObject.name+" viene del deactive");
         gameObject.tag = "Untagged";
         _agent.isStopped = true;

@@ -1,0 +1,4565 @@
+fileFormatVersion: 2
+guid: 64196f751fb1cb8469277038d149a6a5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6898383577320898674
+    second: MissNasty_fatality_0
+  - first:
+      213: 5635115380148107664
+    second: MissNasty_fatality_1
+  - first:
+      213: 5821715492713541394
+    second: MissNasty_fatality_2
+  - first:
+      213: -2424222473784182366
+    second: MissNasty_fatality_3
+  - first:
+      213: 1039985720749221741
+    second: MissNasty_fatality_4
+  - first:
+      213: 4534035700731880909
+    second: MissNasty_fatality_5
+  - first:
+      213: -4108850452350770025
+    second: MissNasty_fatality_6
+  - first:
+      213: 6442849710435254234
+    second: MissNasty_fatality_7
+  - first:
+      213: 3044998017262294144
+    second: MissNasty_fatality_8
+  - first:
+      213: 4770285495414305140
+    second: MissNasty_fatality_9
+  - first:
+      213: -419604135007406808
+    second: MissNasty_fatality_10
+  - first:
+      213: 7914452816378371968
+    second: MissNasty_fatality_11
+  - first:
+      213: 643293275634608879
+    second: MissNasty_fatality_12
+  - first:
+      213: -7149655472398856426
+    second: MissNasty_fatality_13
+  - first:
+      213: -556666158350810572
+    second: MissNasty_fatality_14
+  - first:
+      213: 1608440295788467034
+    second: MissNasty_fatality_15
+  - first:
+      213: -5087077855158720924
+    second: MissNasty_fatality_16
+  - first:
+      213: -4556685767385695271
+    second: MissNasty_fatality_17
+  - first:
+      213: 3743390203575907891
+    second: MissNasty_fatality_18
+  - first:
+      213: -5950031433607182361
+    second: MissNasty_fatality_19
+  - first:
+      213: 1239318029951151030
+    second: MissNasty_fatality_20
+  - first:
+      213: 5280861600988232248
+    second: MissNasty_fatality_21
+  - first:
+      213: 8230044219633474055
+    second: MissNasty_fatality_22
+  - first:
+      213: -8467409316331168047
+    second: MissNasty_fatality_23
+  - first:
+      213: -1309158276213612954
+    second: MissNasty_fatality_24
+  - first:
+      213: 8874453693529111986
+    second: MissNasty_fatality_25
+  - first:
+      213: 2613386221921031121
+    second: MissNasty_fatality_26
+  - first:
+      213: -2684991695205618149
+    second: MissNasty_fatality_27
+  - first:
+      213: -2586482260450984308
+    second: MissNasty_fatality_28
+  - first:
+      213: 1839465906286316790
+    second: MissNasty_fatality_29
+  - first:
+      213: 4630816196571860399
+    second: MissNasty_fatality_30
+  - first:
+      213: 7552530227609599285
+    second: MissNasty_fatality_31
+  - first:
+      213: 4702400726699924731
+    second: MissNasty_fatality_32
+  - first:
+      213: 5551147540178403006
+    second: MissNasty_fatality_33
+  - first:
+      213: -2280191353794038064
+    second: MissNasty_fatality_34
+  - first:
+      213: -8151101135747949666
+    second: MissNasty_fatality_35
+  - first:
+      213: 6722054906329764125
+    second: MissNasty_fatality_36
+  - first:
+      213: 8162081943582070124
+    second: MissNasty_fatality_37
+  - first:
+      213: 951401572905589484
+    second: MissNasty_fatality_38
+  - first:
+      213: 2748683733933359890
+    second: MissNasty_fatality_39
+  - first:
+      213: 4506997289183619923
+    second: MissNasty_fatality_40
+  - first:
+      213: -8301420089406880682
+    second: MissNasty_fatality_41
+  - first:
+      213: 7323793726381962817
+    second: MissNasty_fatality_42
+  - first:
+      213: -2649665399679750315
+    second: MissNasty_fatality_43
+  - first:
+      213: 6398385917654971276
+    second: MissNasty_fatality_44
+  - first:
+      213: 1122056882192018044
+    second: MissNasty_fatality_45
+  - first:
+      213: -2811004932899231189
+    second: MissNasty_fatality_46
+  - first:
+      213: -4018732754540201589
+    second: MissNasty_fatality_47
+  - first:
+      213: 7756209322813713721
+    second: MissNasty_fatality_48
+  - first:
+      213: -2397130396272316098
+    second: MissNasty_fatality_49
+  - first:
+      213: 2534552300535900470
+    second: MissNasty_fatality_50
+  - first:
+      213: 8121903486911516027
+    second: MissNasty_fatality_51
+  - first:
+      213: -5352673409248481652
+    second: MissNasty_fatality_52
+  - first:
+      213: 5845755561710604249
+    second: MissNasty_fatality_53
+  - first:
+      213: 5367214952943435114
+    second: MissNasty_fatality_54
+  - first:
+      213: -5047959674864109731
+    second: MissNasty_fatality_55
+  - first:
+      213: 8267933969546396532
+    second: MissNasty_fatality_56
+  - first:
+      213: -6119535859022422146
+    second: MissNasty_fatality_57
+  - first:
+      213: 3625942105608224491
+    second: MissNasty_fatality_58
+  - first:
+      213: -5238147014020561112
+    second: MissNasty_fatality_59
+  - first:
+      213: 2871283122936552716
+    second: MissNasty_fatality_60
+  - first:
+      213: 1942795993677653615
+    second: MissNasty_fatality_61
+  - first:
+      213: -5523356319402556772
+    second: MissNasty_fatality_62
+  - first:
+      213: 6862744959639101204
+    second: MissNasty_fatality_63
+  - first:
+      213: -2260070000134204590
+    second: MissNasty_fatality_64
+  - first:
+      213: 3095950162514492646
+    second: MissNasty_fatality_65
+  - first:
+      213: -7814570926669453520
+    second: MissNasty_fatality_66
+  - first:
+      213: 636057442908308830
+    second: MissNasty_fatality_67
+  - first:
+      213: -2078438022161502792
+    second: MissNasty_fatality_68
+  - first:
+      213: -6966235618004579246
+    second: MissNasty_fatality_69
+  - first:
+      213: 534404372552689241
+    second: MissNasty_fatality_70
+  - first:
+      213: 1930196983424506579
+    second: MissNasty_fatality_71
+  - first:
+      213: -3907159380249280201
+    second: MissNasty_fatality_72
+  - first:
+      213: -103129874177798046
+    second: MissNasty_fatality_73
+  - first:
+      213: -764835226988974547
+    second: MissNasty_fatality_74
+  - first:
+      213: 5081402222232592679
+    second: MissNasty_fatality_75
+  - first:
+      213: -3134686811927140158
+    second: MissNasty_fatality_76
+  - first:
+      213: 1100588009819709093
+    second: MissNasty_fatality_77
+  - first:
+      213: -6672078226866864661
+    second: MissNasty_fatality_78
+  - first:
+      213: -2576911201286791610
+    second: MissNasty_fatality_79
+  - first:
+      213: -1218576856892442021
+    second: MissNasty_fatality_80
+  - first:
+      213: -8849408876567965398
+    second: MissNasty_fatality_81
+  - first:
+      213: 8706294292549337990
+    second: MissNasty_fatality_82
+  - first:
+      213: -1756919259233332339
+    second: MissNasty_fatality_83
+  - first:
+      213: 869980873884556682
+    second: MissNasty_fatality_84
+  - first:
+      213: 1558735349384698402
+    second: MissNasty_fatality_85
+  - first:
+      213: 1369326667541923876
+    second: MissNasty_fatality_86
+  - first:
+      213: 5919320725471080450
+    second: MissNasty_fatality_87
+  - first:
+      213: 1216784026956810355
+    second: MissNasty_fatality_88
+  - first:
+      213: 6996334814825955966
+    second: MissNasty_fatality_89
+  - first:
+      213: 7567723888353068899
+    second: MissNasty_fatality_90
+  - first:
+      213: 3299868045510726586
+    second: MissNasty_fatality_91
+  - first:
+      213: 3595573098865658211
+    second: MissNasty_fatality_92
+  - first:
+      213: 4938687467891634263
+    second: MissNasty_fatality_93
+  - first:
+      213: 2784348092115953136
+    second: MissNasty_fatality_94
+  - first:
+      213: 8550068698922750604
+    second: MissNasty_fatality_95
+  - first:
+      213: -4542536941434856300
+    second: MissNasty_fatality_96
+  - first:
+      213: 3439056348587951559
+    second: MissNasty_fatality_97
+  - first:
+      213: -3104313626636043774
+    second: MissNasty_fatality_98
+  - first:
+      213: -6773060238383148079
+    second: MissNasty_fatality_99
+  - first:
+      213: 6307934934129724182
+    second: MissNasty_fatality_100
+  - first:
+      213: 6078058724194276666
+    second: MissNasty_fatality_101
+  - first:
+      213: -379637650779283734
+    second: MissNasty_fatality_102
+  - first:
+      213: 11510751621754990
+    second: MissNasty_fatality_103
+  - first:
+      213: 4186621606566273866
+    second: MissNasty_fatality_104
+  - first:
+      213: 4648686123613572752
+    second: MissNasty_fatality_105
+  - first:
+      213: 5847199905182542459
+    second: MissNasty_fatality_106
+  - first:
+      213: -4819882921630397890
+    second: MissNasty_fatality_107
+  - first:
+      213: -4014903869761436722
+    second: MissNasty_fatality_108
+  - first:
+      213: -7186731699488878619
+    second: MissNasty_fatality_109
+  - first:
+      213: -5394309581280702647
+    second: MissNasty_fatality_110
+  - first:
+      213: 5546089989448688340
+    second: MissNasty_fatality_111
+  - first:
+      213: 5905353520180396278
+    second: MissNasty_fatality_112
+  - first:
+      213: -5900604557187163269
+    second: MissNasty_fatality_113
+  - first:
+      213: 7317692062302162152
+    second: MissNasty_fatality_114
+  - first:
+      213: 2870362849425699777
+    second: MissNasty_fatality_115
+  - first:
+      213: 1714466883460539931
+    second: MissNasty_fatality_116
+  - first:
+      213: 2003662668709624930
+    second: MissNasty_fatality_117
+  - first:
+      213: 8413936059122218016
+    second: MissNasty_fatality_118
+  - first:
+      213: -8340359846231759827
+    second: MissNasty_fatality_119
+  - first:
+      213: 659802580355791348
+    second: MissNasty_fatality_120
+  - first:
+      213: 8100971843306341317
+    second: MissNasty_fatality_121
+  - first:
+      213: -7797951657442845349
+    second: MissNasty_fatality_122
+  - first:
+      213: -8379864561658330737
+    second: MissNasty_fatality_123
+  - first:
+      213: -9048408672918138766
+    second: MissNasty_fatality_124
+  - first:
+      213: -4479388918015344829
+    second: MissNasty_fatality_125
+  - first:
+      213: -9132325463530862275
+    second: MissNasty_fatality_126
+  - first:
+      213: -1885584724267015255
+    second: MissNasty_fatality_127
+  - first:
+      213: -5121083901060796171
+    second: MissNasty_fatality_128
+  - first:
+      213: 5006781184524048004
+    second: MissNasty_fatality_129
+  - first:
+      213: 8643297423160020123
+    second: MissNasty_fatality_130
+  - first:
+      213: 745798906308326676
+    second: MissNasty_fatality_131
+  - first:
+      213: -1008287430446310996
+    second: MissNasty_fatality_132
+  - first:
+      213: 3113400095127143420
+    second: MissNasty_fatality_133
+  - first:
+      213: 2879019575548347527
+    second: MissNasty_fatality_134
+  - first:
+      213: 3669951655336490664
+    second: MissNasty_fatality_135
+  - first:
+      213: 7464036169890789194
+    second: MissNasty_fatality_136
+  - first:
+      213: -1679691507696911251
+    second: MissNasty_fatality_137
+  - first:
+      213: 6480511126537284566
+    second: MissNasty_fatality_138
+  - first:
+      213: -2075964445530045784
+    second: MissNasty_fatality_139
+  - first:
+      213: -5408607960392501735
+    second: MissNasty_fatality_140
+  - first:
+      213: -3735323683625043471
+    second: MissNasty_fatality_141
+  - first:
+      213: 6455932804111980074
+    second: MissNasty_fatality_142
+  - first:
+      213: 689158255660083586
+    second: MissNasty_fatality_143
+  - first:
+      213: 256532458830945307
+    second: MissNasty_fatality_144
+  - first:
+      213: 4961526426115393711
+    second: MissNasty_fatality_145
+  - first:
+      213: 2674046333824615467
+    second: MissNasty_fatality_146
+  - first:
+      213: 1529178507461985197
+    second: MissNasty_fatality_147
+  - first:
+      213: 2357052937081025601
+    second: MissNasty_fatality_148
+  - first:
+      213: -8767334842690087747
+    second: MissNasty_fatality_149
+  - first:
+      213: -5031578966152957130
+    second: MissNasty_fatality_150
+  - first:
+      213: 2047985351305549632
+    second: MissNasty_fatality_151
+  - first:
+      213: -1969143536096328811
+    second: MissNasty_fatality_152
+  - first:
+      213: -1317927896535398175
+    second: MissNasty_fatality_153
+  - first:
+      213: -2063682641675934625
+    second: MissNasty_fatality_154
+  - first:
+      213: 591570822250861104
+    second: MissNasty_fatality_155
+  - first:
+      213: -7186438598620947911
+    second: MissNasty_fatality_156
+  - first:
+      213: -3530801557949676270
+    second: MissNasty_fatality_157
+  - first:
+      213: -3684002187740324370
+    second: MissNasty_fatality_158
+  - first:
+      213: -3578483875225738445
+    second: MissNasty_fatality_159
+  - first:
+      213: 6552077994620534667
+    second: MissNasty_fatality_160
+  - first:
+      213: -2173654997923288807
+    second: MissNasty_fatality_161
+  - first:
+      213: -8297569894671345451
+    second: MissNasty_fatality_162
+  - first:
+      213: 4829141120378718028
+    second: MissNasty_fatality_163
+  - first:
+      213: -4665965039861973766
+    second: MissNasty_fatality_164
+  - first:
+      213: 1586870990497994281
+    second: MissNasty_fatality_165
+  - first:
+      213: -5841350566773902064
+    second: MissNasty_fatality_166
+  - first:
+      213: 1476392122836515625
+    second: MissNasty_fatality_167
+  - first:
+      213: 1974689100245416410
+    second: MissNasty_fatality_168
+  - first:
+      213: -5218805355383078205
+    second: MissNasty_fatality_169
+  - first:
+      213: -7187269840768247199
+    second: MissNasty_fatality_170
+  - first:
+      213: 3973149412778627158
+    second: MissNasty_fatality_171
+  - first:
+      213: -4806400282196003864
+    second: MissNasty_fatality_172
+  - first:
+      213: -4920518311072691539
+    second: MissNasty_fatality_173
+  - first:
+      213: -3473384101877823980
+    second: MissNasty_fatality_174
+  - first:
+      213: -1897517573833387760
+    second: MissNasty_fatality_175
+  - first:
+      213: -5788440353977783707
+    second: MissNasty_fatality_176
+  - first:
+      213: 1928840492353524224
+    second: MissNasty_fatality_177
+  - first:
+      213: -778103956466407706
+    second: MissNasty_fatality_178
+  - first:
+      213: 3396735823099057951
+    second: MissNasty_fatality_179
+  - first:
+      213: 3667413759688026554
+    second: MissNasty_fatality_180
+  - first:
+      213: -7048516577156018576
+    second: MissNasty_fatality_181
+  - first:
+      213: 4769952073206755413
+    second: MissNasty_fatality_182
+  - first:
+      213: -879788496103946134
+    second: MissNasty_fatality_183
+  - first:
+      213: -5822444766053408242
+    second: MissNasty_fatality_184
+  - first:
+      213: -7318071697919045368
+    second: MissNasty_fatality_185
+  - first:
+      213: 9007701198149655027
+    second: MissNasty_fatality_186
+  - first:
+      213: 1891440664173638766
+    second: MissNasty_fatality_187
+  - first:
+      213: -6384246351193965929
+    second: MissNasty_fatality_188
+  - first:
+      213: 3999983061673424159
+    second: MissNasty_fatality_189
+  - first:
+      213: 4370377497204780737
+    second: MissNasty_fatality_190
+  - first:
+      213: -8613492299216312286
+    second: MissNasty_fatality_191
+  - first:
+      213: 8200977921713169333
+    second: MissNasty_fatality_192
+  - first:
+      213: -8470180845584587712
+    second: MissNasty_fatality_193
+  - first:
+      213: -6177387291881776050
+    second: MissNasty_fatality_194
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 28
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MissNasty_fatality_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3838
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e784bf1fabc384fab9850ed265952a
+      internalID: 6898383577320898674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_1
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 3838
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307024a9968729b4fa10cf5a8fa784a2
+      internalID: 5635115380148107664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_2
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 3838
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd56e3fdecfcb543a87e6b3f164bc73
+      internalID: 5821715492713541394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_3
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 3838
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458faa50f2adcd5409346e4d30e7831d
+      internalID: -2424222473784182366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_4
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 3838
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fbee0ce79e22494592db546a0f96dd1
+      internalID: 1039985720749221741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_5
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 3838
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46bfe367f2e463245b089e1aac6d11dd
+      internalID: 4534035700731880909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_6
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 3838
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8cb12604d2ef3f4e92d08025669c45e
+      internalID: -4108850452350770025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_7
+      rect:
+        serializedVersion: 2
+        x: 2156
+        y: 3838
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0063584e36660445abc4197e98ddb94
+      internalID: 6442849710435254234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_8
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 3838
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc92a05334ad234eaf41ae640a948c2
+      internalID: 3044998017262294144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_9
+      rect:
+        serializedVersion: 2
+        x: 2772
+        y: 3838
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ebc3b2580ffad247abf28a673280656
+      internalID: 4770285495414305140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_10
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 3838
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054e525bc27a3e04fbf76a1f24e64e3d
+      internalID: -419604135007406808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_11
+      rect:
+        serializedVersion: 2
+        x: 3388
+        y: 3838
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c357211860a8540abb6f881cf15804
+      internalID: 7914452816378371968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_12
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 3838
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875bdf6fcfcfede4db7584579f76bb36
+      internalID: 643293275634608879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3580
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb43f5566452aef4d8000f03d89bc097
+      internalID: -7149655472398856426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_14
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 3580
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2489874a3fb4f2e4da48ad15824cc504
+      internalID: -556666158350810572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_15
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 3580
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f6e81599220f5499455888a0af9a2e
+      internalID: 1608440295788467034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_16
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 3580
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58bfbdf495f191b43812c08aa2fb3595
+      internalID: -5087077855158720924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_17
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 3580
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f303922e35b8c7439388807bb6b289f
+      internalID: -4556685767385695271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_18
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 3580
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016a884084166274a89223d8e9e3e929
+      internalID: 3743390203575907891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_19
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 3580
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b6f40de6ad40f409b1792c7c0ae5ce
+      internalID: -5950031433607182361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_20
+      rect:
+        serializedVersion: 2
+        x: 2156
+        y: 3580
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5becbf2ad1be13a468bd0118a00bacc1
+      internalID: 1239318029951151030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_21
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 3580
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4703b091c51421b46a295e9ff137b4f4
+      internalID: 5280861600988232248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_22
+      rect:
+        serializedVersion: 2
+        x: 2772
+        y: 3580
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723ad4d6902d0544880607fee849c1f7
+      internalID: 8230044219633474055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_23
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 3580
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa7ce118c11a154dad01c67892250ed
+      internalID: -8467409316331168047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_24
+      rect:
+        serializedVersion: 2
+        x: 3388
+        y: 3580
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da81f0d463c2cf44b4cb90631942bbf
+      internalID: -1309158276213612954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_25
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 3580
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16ec6a42a0118f4baeaa167bf5ba4ef
+      internalID: 8874453693529111986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3322
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd00b7a0cfa14c54cbe8c8b8ae13ec20
+      internalID: 2613386221921031121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_27
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 3322
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9255893625ffeff48915d66a9347bc30
+      internalID: -2684991695205618149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_28
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 3322
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ca39805d24d1640a08d1e4706d0361
+      internalID: -2586482260450984308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_29
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 3322
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f05600862f7c9479196dbf8422de36
+      internalID: 1839465906286316790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_30
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 3322
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89268ae041a026c4d8fd0452c0297d19
+      internalID: 4630816196571860399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_31
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 3322
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d2eba4b297499478554c47a3a9d91f
+      internalID: 7552530227609599285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_32
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 3322
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1cf37ba1299de4bbde4593bf3cff5f
+      internalID: 4702400726699924731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_33
+      rect:
+        serializedVersion: 2
+        x: 2156
+        y: 3322
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36494adc4b24cdd4a8a9f544e754c44f
+      internalID: 5551147540178403006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_34
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 3322
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676287f441b849d48b512eaf61656ea6
+      internalID: -2280191353794038064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_35
+      rect:
+        serializedVersion: 2
+        x: 2772
+        y: 3322
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a181eee71dabeb468f21ba3c0a56d34
+      internalID: -8151101135747949666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_36
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 3322
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263948e7017e52844a365c73175f16af
+      internalID: 6722054906329764125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_37
+      rect:
+        serializedVersion: 2
+        x: 3388
+        y: 3322
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc8aa9c589308444ac8c2bf63bd3d7c
+      internalID: 8162081943582070124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_38
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 3322
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e649c09fd60dbc45a7e320a17a57930
+      internalID: 951401572905589484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3064
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7874300beb53b448e3f12d24e6221f
+      internalID: 2748683733933359890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_40
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 3064
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6304de4bbc695424ab870b7bbf833843
+      internalID: 4506997289183619923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_41
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 3064
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de2a0661b6906b45b137e997a695106
+      internalID: -8301420089406880682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_42
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 3064
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b0c5a7b1af9bf439b0f74fdc7a56df
+      internalID: 7323793726381962817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_43
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 3064
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf1961d5c55c6f49ac15795c0aba65c
+      internalID: -2649665399679750315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_44
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 3064
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16abe6bbce5234840bfbc232f398b64d
+      internalID: 6398385917654971276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_45
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 3064
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9cd0065a1ec9574db2f33f71a9adf80
+      internalID: 1122056882192018044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_46
+      rect:
+        serializedVersion: 2
+        x: 2156
+        y: 3064
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ef07dfcb14a6c40a94c3f26ce389a4
+      internalID: -2811004932899231189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_47
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 3064
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646a6d378800c1442a60759470480c27
+      internalID: -4018732754540201589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_48
+      rect:
+        serializedVersion: 2
+        x: 2772
+        y: 3064
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1676283efae72c4694d7d7b4b1cbc7a
+      internalID: 7756209322813713721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_49
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 3064
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8312e1790cdedac419b165375b10febc
+      internalID: -2397130396272316098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_50
+      rect:
+        serializedVersion: 2
+        x: 3388
+        y: 3064
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19258c81c52807848890efeca5f4b05b
+      internalID: 2534552300535900470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_51
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 3064
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e1b57b1128f5b4d818d2ec4a000942
+      internalID: 8121903486911516027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2806
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f74c3deb4a46c439e0c033af99cc0a
+      internalID: -5352673409248481652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_53
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 2806
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31bb06f0b3db03c488b36255b61dcd49
+      internalID: 5845755561710604249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_54
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 2806
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67167145d25568848b591ab76150c447
+      internalID: 5367214952943435114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_55
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 2806
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76da1aded236b944a72713e77310120
+      internalID: -5047959674864109731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_56
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 2806
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d854a6e01c85542a3d1a9c387a2f51
+      internalID: 8267933969546396532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_57
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 2806
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2635fcb17bdd4a749aac20aa5e12a7ba
+      internalID: -6119535859022422146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_58
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 2806
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d457a30ec5f7a6043895235d01815d14
+      internalID: 3625942105608224491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_59
+      rect:
+        serializedVersion: 2
+        x: 2156
+        y: 2806
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c9bde36a2380745826654cf304fd52
+      internalID: -5238147014020561112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_60
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 2806
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670b563ebcf56384ab2841ea239bc84c
+      internalID: 2871283122936552716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_61
+      rect:
+        serializedVersion: 2
+        x: 2772
+        y: 2806
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54793b0a9ac5c9847be50792d23a6b3d
+      internalID: 1942795993677653615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_62
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 2806
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e334b3186c6cbc740a351c78be90b0e0
+      internalID: -5523356319402556772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_63
+      rect:
+        serializedVersion: 2
+        x: 3388
+        y: 2806
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91656bdafd286634c99c1d8e4bc9753a
+      internalID: 6862744959639101204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_64
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 2806
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0033821c9dbcb54bab3af005e3a33b4
+      internalID: -2260070000134204590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2548
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47db2a6bc034652409405d6f26253b46
+      internalID: 3095950162514492646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_66
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 2548
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f98e5d3a880bb845a400c0e6e2b897c
+      internalID: -7814570926669453520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_67
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 2548
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a48c9cc4740e645836b98a7326a93c
+      internalID: 636057442908308830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_68
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 2548
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9263c14816738f841a3032cd4559f9f1
+      internalID: -2078438022161502792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_69
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 2548
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d166d656b238c2a4796db625bbb4b6bc
+      internalID: -6966235618004579246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_70
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 2548
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec276ca3951bc1248b3c765a0aa6ae22
+      internalID: 534404372552689241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_71
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 2548
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ade9b36c2ab90b498e85563adc99d0b
+      internalID: 1930196983424506579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_72
+      rect:
+        serializedVersion: 2
+        x: 2156
+        y: 2548
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f971876aacb1a34b8ca7a8cac808eeb
+      internalID: -3907159380249280201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_73
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 2548
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2f8f80d6994774ab8ae4285829e199
+      internalID: -103129874177798046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_74
+      rect:
+        serializedVersion: 2
+        x: 2772
+        y: 2548
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e591a917afdf6b4183f2da05355a51c
+      internalID: -764835226988974547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_75
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 2548
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ce6060ecf37c440befc60c6998eae2
+      internalID: 5081402222232592679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_76
+      rect:
+        serializedVersion: 2
+        x: 3388
+        y: 2548
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b617fce7f3c4445ba038731f5ad66b
+      internalID: -3134686811927140158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_77
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 2548
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6c1b4c02a3e7e43ab4b79f2ff7d482
+      internalID: 1100588009819709093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2290
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18afd99d0189c8740aa471302d681b8e
+      internalID: -6672078226866864661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_79
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 2290
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097eb3ceab1f5744ea255d4c1989e489
+      internalID: -2576911201286791610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_80
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 2290
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 654e6743f5618f840b3b7056ff06dd12
+      internalID: -1218576856892442021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_81
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 2290
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9eece5cafe470429ae6551bb4e5474
+      internalID: -8849408876567965398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_82
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 2290
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b6de2e0c4063f408c5c2ad048140b6
+      internalID: 8706294292549337990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_83
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 2290
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be67674f651e174a9483709cae03738
+      internalID: -1756919259233332339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_84
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 2290
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23496bd263b955c4aa1410db705f8844
+      internalID: 869980873884556682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_85
+      rect:
+        serializedVersion: 2
+        x: 2156
+        y: 2290
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26011da347361d3418ec7050da03ac1f
+      internalID: 1558735349384698402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_86
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 2290
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98f3fc2df218f94f8e44f35acfc7b60
+      internalID: 1369326667541923876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_87
+      rect:
+        serializedVersion: 2
+        x: 2772
+        y: 2290
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48b148bd41dbed46914dd145b9df43b
+      internalID: 5919320725471080450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_88
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 2290
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a87632f19c39fb479a905c13d41dc91
+      internalID: 1216784026956810355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_89
+      rect:
+        serializedVersion: 2
+        x: 3388
+        y: 2290
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8217625ce825e3a42bb92eb4e459937e
+      internalID: 6996334814825955966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_90
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 2290
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecbdf0124f64aed48a153e927122a6d0
+      internalID: 7567723888353068899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2032
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51140deed2df68a4cb34baf6939c1bdd
+      internalID: 3299868045510726586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_92
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 2032
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25aa70f8cd1d5d048b921ae67b6a619b
+      internalID: 3595573098865658211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_93
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 2032
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a38d8cd504451d43b3488b749fdac72
+      internalID: 4938687467891634263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_94
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 2032
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27d8af67d5d3f2458650221fef3e0ae
+      internalID: 2784348092115953136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_95
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 2032
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ba3f195bd17a84d9bb0433ec4aa562
+      internalID: 8550068698922750604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_96
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 2032
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59238faa3ca283c4c86ab85bb1167bf4
+      internalID: -4542536941434856300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_97
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 2032
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6004c2b78bdb92049a90c99d2fb5b977
+      internalID: 3439056348587951559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_98
+      rect:
+        serializedVersion: 2
+        x: 2156
+        y: 2032
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7b30403fe16ca468b131f65579c298
+      internalID: -3104313626636043774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_99
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 2032
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcfe2d8bf23004d4a837eb444b010946
+      internalID: -6773060238383148079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_100
+      rect:
+        serializedVersion: 2
+        x: 2772
+        y: 2032
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: facaffae54dcee14b9708b5070c4273e
+      internalID: 6307934934129724182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_101
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 2032
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e045718fa15ef04a8fd3dfa457b114a
+      internalID: 6078058724194276666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_102
+      rect:
+        serializedVersion: 2
+        x: 3388
+        y: 2032
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b32f385c8556c841b00f570080cb2c4
+      internalID: -379637650779283734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_103
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 2032
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af5efcbaa4ce764ea3f45c18fcafcbc
+      internalID: 11510751621754990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1774
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba5971672346c443895e02182ce24d2
+      internalID: 4186621606566273866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_105
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1774
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db03e276942fe8c4bac348b92fa6620a
+      internalID: 4648686123613572752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_106
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1774
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcec187da17f3d346ad36c087a15d96d
+      internalID: 5847199905182542459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_107
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 1774
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e812b5cbf6e011439186c67d9517717
+      internalID: -4819882921630397890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_108
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 1774
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4162227be17d9f241a56361e28a31edb
+      internalID: -4014903869761436722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_109
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 1774
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204389665a81c6944b527f0bf87e1d81
+      internalID: -7186731699488878619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_110
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 1774
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d875e3b5c8851b94c9ceaaf58153a2a8
+      internalID: -5394309581280702647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_111
+      rect:
+        serializedVersion: 2
+        x: 2156
+        y: 1774
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2f5f9f626084944b5d5ef4b48e834d
+      internalID: 5546089989448688340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_112
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 1774
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a689bcce220565e48aa39501e507bcf8
+      internalID: 5905353520180396278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_113
+      rect:
+        serializedVersion: 2
+        x: 2772
+        y: 1774
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455b9a274d4eace4385b050efbd71fa0
+      internalID: -5900604557187163269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_114
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 1774
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53f44be3fef45143bee35eb22463f52
+      internalID: 7317692062302162152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_115
+      rect:
+        serializedVersion: 2
+        x: 3388
+        y: 1774
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b30688c5f4324b40af2889fb9e511ec
+      internalID: 2870362849425699777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_116
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 1774
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83d7027a2a1e7d43b7f9b25e93dde5b
+      internalID: 1714466883460539931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1516
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5cd5396e8624d459621867f08a98e0
+      internalID: 2003662668709624930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_118
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1516
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d23b2096c6035d4e83df75efb5c4b14
+      internalID: 8413936059122218016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_119
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1516
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780885738c852a840af8bbb08e2baf0d
+      internalID: -8340359846231759827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_120
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 1516
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138499731afedbf4c93b19f13cc7a92d
+      internalID: 659802580355791348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_121
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 1516
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9451aa1417fd91447bb656c7bfec3902
+      internalID: 8100971843306341317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_122
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 1516
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b57ea0b6b3e6a45bd0d0dfeb063f23
+      internalID: -7797951657442845349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_123
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 1516
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103dd6a5558d0ed4793b87547b7c0b3f
+      internalID: -8379864561658330737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_124
+      rect:
+        serializedVersion: 2
+        x: 2156
+        y: 1516
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de40422ce70af26479bff35af1971872
+      internalID: -9048408672918138766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_125
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 1516
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0c7ea306d9ebe4c8bdb8dbb6d85c5b
+      internalID: -4479388918015344829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_126
+      rect:
+        serializedVersion: 2
+        x: 2772
+        y: 1516
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460c857aedfc48449b4ed38b7ee5f481
+      internalID: -9132325463530862275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_127
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 1516
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e82553856c5be94199cc0aafd79327a
+      internalID: -1885584724267015255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_128
+      rect:
+        serializedVersion: 2
+        x: 3388
+        y: 1516
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b846b54ddbff5074d90e64322be2cc67
+      internalID: -5121083901060796171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_129
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 1516
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c94edae6dff74f44a12482575708dc6
+      internalID: 5006781184524048004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1258
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b799dfe6239dd847bd3d59730dcc5c6
+      internalID: 8643297423160020123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_131
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1258
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23eaf7b26360ea42a45936fcb3a893b
+      internalID: 745798906308326676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_132
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1258
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c4aae49b82c2b40a656d131df0e46c
+      internalID: -1008287430446310996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_133
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 1258
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d161c35bc00054b933ab2dfa4bd374
+      internalID: 3113400095127143420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_134
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 1258
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d95a818885d51440a4b7ead0285265f
+      internalID: 2879019575548347527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_135
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 1258
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7b3a62d77558c44997c08ca136181c
+      internalID: 3669951655336490664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_136
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 1258
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0cfb300067f8e40b917fb196f99ee8
+      internalID: 7464036169890789194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_137
+      rect:
+        serializedVersion: 2
+        x: 2156
+        y: 1258
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9367cbe7e9c5e41957f8da5a7a6484
+      internalID: -1679691507696911251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_138
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 1258
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14d23eb4af9e4043aae6ce4598b3ed1
+      internalID: 6480511126537284566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_139
+      rect:
+        serializedVersion: 2
+        x: 2772
+        y: 1258
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f46a0d76609aa4a80bbebbd92420b6
+      internalID: -2075964445530045784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_140
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 1258
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed911973a4bf924694a1a939e66024c
+      internalID: -5408607960392501735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_141
+      rect:
+        serializedVersion: 2
+        x: 3388
+        y: 1258
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31bb60a5ca6f7c74d9c199ea1e98747c
+      internalID: -3735323683625043471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_142
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 1258
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c83d3f441164c94ba8838aed0b9df08
+      internalID: 6455932804111980074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_143
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1000
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980e374119f2cdb4783ab07f350d48c7
+      internalID: 689158255660083586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_144
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1000
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72726645efe08fa44ab7e877e9013745
+      internalID: 256532458830945307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_145
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1000
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef9be568a0ea9264f9ac1861b4341e83
+      internalID: 4961526426115393711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_146
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 1000
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ec9121ab16e1c4da6646db20fd7756
+      internalID: 2674046333824615467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_147
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 1000
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b572a1c9babc082499c41aab5c2edc1a
+      internalID: 1529178507461985197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_148
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 1000
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fddc3fcf96c9b1448bd9bc3b9478361
+      internalID: 2357052937081025601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_149
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 1000
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930e8c6522a30404faaac71c72bafbe0
+      internalID: -8767334842690087747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_150
+      rect:
+        serializedVersion: 2
+        x: 2156
+        y: 1000
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbbca8b4d10980140b1be0dccd5aed0e
+      internalID: -5031578966152957130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_151
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 1000
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f99191377d4cc042b76794ff462114e
+      internalID: 2047985351305549632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_152
+      rect:
+        serializedVersion: 2
+        x: 2772
+        y: 1000
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eedc4c37f4939b3418c04dbdd7db0ea5
+      internalID: -1969143536096328811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_153
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 1000
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f07cdd952ccfc40985f40f792565b9
+      internalID: -1317927896535398175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_154
+      rect:
+        serializedVersion: 2
+        x: 3388
+        y: 1000
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6425a29df7fbfa4faa6bc656a9b6670
+      internalID: -2063682641675934625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_155
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 1000
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b6bd440bfa3884b86b949df85b3c5e
+      internalID: 591570822250861104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_156
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 742
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b9a7ea2eb8d404a8061a2bbef284da
+      internalID: -7186438598620947911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_157
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 742
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf012bce66510f448c6dbb67f0b0c5b
+      internalID: -3530801557949676270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_158
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 742
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09cec31cc9a8184897c03950c2ca809
+      internalID: -3684002187740324370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_159
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 742
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d305d607e5e434e9112d0e051575bf
+      internalID: -3578483875225738445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_160
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 742
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587a243095c971d478cb4927652736c4
+      internalID: 6552077994620534667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_161
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 742
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b64d57e96edf94eb77fa72e8ef4544
+      internalID: -2173654997923288807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_162
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 742
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cab1e2f621e0bc4d9d7db85192873ab
+      internalID: -8297569894671345451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_163
+      rect:
+        serializedVersion: 2
+        x: 2156
+        y: 742
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321816406a2a52a43b45a4262c17e38f
+      internalID: 4829141120378718028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_164
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 742
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a2ff2773bad1f4f8dfc4a3e490fa58
+      internalID: -4665965039861973766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_165
+      rect:
+        serializedVersion: 2
+        x: 2772
+        y: 742
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f40cf74850bba459fb2057cc0c6d6d
+      internalID: 1586870990497994281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_166
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 742
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0f63fe6cc2f264a8f72b15c1fdc6e1
+      internalID: -5841350566773902064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_167
+      rect:
+        serializedVersion: 2
+        x: 3388
+        y: 742
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb06ff572911c94fa269856b1bd1736
+      internalID: 1476392122836515625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_168
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 742
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7388d924103ca44fa157a877645c2d2
+      internalID: 1974689100245416410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_169
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 484
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc0ae7c610d6c44c8d220468bbc988c
+      internalID: -5218805355383078205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_170
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 484
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982542c3b6bd11f42884e5f1c887684a
+      internalID: -7187269840768247199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_171
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 484
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17958b907070d004187a5187f8094314
+      internalID: 3973149412778627158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_172
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 484
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38333b190dff86941ac2e860cf114128
+      internalID: -4806400282196003864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_173
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 484
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f679cc18446774cb1b162719ae837a
+      internalID: -4920518311072691539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_174
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 484
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0913c739ea782c4429ebdbafbb66f031
+      internalID: -3473384101877823980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_175
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 484
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b780219ec344044b5a13d84a266083
+      internalID: -1897517573833387760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_176
+      rect:
+        serializedVersion: 2
+        x: 2156
+        y: 484
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53438891b95a6764286790f1d9970599
+      internalID: -5788440353977783707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_177
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 484
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dafd90bf7515744994f645a477c974d
+      internalID: 1928840492353524224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_178
+      rect:
+        serializedVersion: 2
+        x: 2772
+        y: 484
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f531fabfdd44a4fa522f4f4ffbb720
+      internalID: -778103956466407706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_179
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 484
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c3fa6295afb314ba3e7cca3802f00a
+      internalID: 3396735823099057951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_180
+      rect:
+        serializedVersion: 2
+        x: 3388
+        y: 484
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103a04745268f9c459299bc37ce4f754
+      internalID: 3667413759688026554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_181
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 484
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85aa7f9718961c4b947591b058255cb
+      internalID: -7048516577156018576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_182
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 226
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943850f218ae16d4181e32ef4b7577e6
+      internalID: 4769952073206755413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissNasty_fatality_183
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 226
+        width: 308
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af19e425c101d7b4d850caba837cb050
+      internalID: -879788496103946134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 046948af3a0b1684ca89cca2ebf1fc7d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

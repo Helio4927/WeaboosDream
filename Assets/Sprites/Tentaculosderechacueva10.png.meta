@@ -1,15 +1,45 @@
 fileFormatVersion: 2
 guid: 3087c4338876805439607d94041c2fad
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: Tentaculosderechacueva10_0
-    21300002: Tentaculosderechacueva10_1
-    21300004: Tentaculosderechacueva10_2
-    21300006: Tentaculosderechacueva10_3
-    21300008: Tentaculosderechacueva10_4
-    21300010: Tentaculosderechacueva10_5
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Tentaculosderechacueva10_0
+  - first:
+      213: 21300002
+    second: Tentaculosderechacueva10_1
+  - first:
+      213: 21300004
+    second: Tentaculosderechacueva10_2
+  - first:
+      213: 21300006
+    second: Tentaculosderechacueva10_3
+  - first:
+      213: 21300008
+    second: Tentaculosderechacueva10_4
+  - first:
+      213: 21300010
+    second: Tentaculosderechacueva10_5
+  - first:
+      213: 724419577365773439
+    second: Tentaculosderechacueva10_0
+  - first:
+      213: -2561368650579140651
+    second: Tentaculosderechacueva10_1
+  - first:
+      213: -1223104783166151215
+    second: Tentaculosderechacueva10_2
+  - first:
+      213: 4561155181567755494
+    second: Tentaculosderechacueva10_3
+  - first:
+      213: 5690204906373013554
+    second: Tentaculosderechacueva10_4
+  - first:
+      213: -1899295636964481361
+    second: Tentaculosderechacueva10_5
   externalObjects: {}
-  serializedVersion: 6
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -63,30 +93,33 @@ TextureImporter:
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  applyGammaDecoding: 1
   platformSettings:
-  - serializedVersion: 2
+  - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-  - serializedVersion: 2
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
     buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-  - serializedVersion: 2
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
     buildTarget: iPhone
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -97,18 +130,20 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-  - serializedVersion: 2
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
     buildTarget: Android
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-  - serializedVersion: 2
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
     buildTarget: Windows Store Apps
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -119,6 +154,7 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -137,7 +173,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4031020c1e133bc4a97c91851e450b8c
+      spriteID: f7cb93974c7ad0a00800000000000000
+      internalID: 724419577365773439
       vertices: []
       indices: 
       edges: []
@@ -157,7 +194,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ccabb4dfdf407d84faad485bd3137472
+      spriteID: 5df986378c0347cd0800000000000000
+      internalID: -2561368650579140651
       vertices: []
       indices: 
       edges: []
@@ -166,10 +204,10 @@ TextureImporter:
       name: Tentaculosderechacueva10_2
       rect:
         serializedVersion: 2
-        x: 204
-        y: 95.5
-        width: 102
-        height: 95.5
+        x: 205
+        y: 96
+        width: 101
+        height: 95
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -177,7 +215,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5f918ba4685d4aa4c8e1d0b375202981
+      spriteID: 1d5ec441ea8a60fe0800000000000000
+      internalID: -1223104783166151215
       vertices: []
       indices: 
       edges: []
@@ -189,7 +228,7 @@ TextureImporter:
         x: 0
         y: 0
         width: 102
-        height: 94
+        height: 95
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -197,7 +236,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f61afc4b247850e41a9763462defd648
+      spriteID: 6e447cab87a7c4f30800000000000000
+      internalID: 4561155181567755494
       vertices: []
       indices: 
       edges: []
@@ -209,26 +249,6 @@ TextureImporter:
         x: 102
         y: 0
         width: 102
-        height: 94
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 168b7b5549d4cc44fb37b8883db56e15
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Tentaculosderechacueva10_5
-      rect:
-        serializedVersion: 2
-        x: 204
-        y: 0
-        width: 102
         height: 95
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -237,7 +257,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b653ff213567f404396a6743a61e9218
+      spriteID: 2306c8fd63ba7fe40800000000000000
+      internalID: 5690204906373013554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentaculosderechacueva10_5
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 0
+        width: 101
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6684b5ea854a5e0800000000000000
+      internalID: -1899295636964481361
       vertices: []
       indices: 
       edges: []
@@ -246,11 +288,15 @@ TextureImporter:
     physicsShape: []
     bones: []
     spriteID: 946b5ea976aba844798a3ef2c7e5176d
+    internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
+    secondaryTextures: []
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 
